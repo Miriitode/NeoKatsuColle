@@ -1,0 +1,4634 @@
+[
+   {
+      "ID": "ODR-6 P",
+      "RarityFull": "レジェンドプレミアムレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "コスモス・ハートフルブーケカチューシャ",
+      "Brand": "コスモス",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じフレンズブランドのアピールポイントがすごくアップ！",
+      "Points": "550",
+      "Notes": "コスモスのレジェンドプレミアムレアドレスプレゼントルーレットキャンペーン"
+   },
+   {
+      "ID": "ODR-7 P",
+      "RarityFull": "レジェンドプレミアムレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "コスモス・クラウンブーケカチューシャ",
+      "Brand": "コスモス",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じフレンズブランドのスペシャルアピールがすごく強くなるよ！",
+      "Points": "550",
+      "Notes": "コスモスのレジェンドプレミアムレアドレスプレゼントルーレットキャンペーン"
+   },
+   {
+      "ID": "OPCD-5 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "シンガソングアプリコットアクセ",
+      "Brand": "シュガーメロディ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "300",
+      "Notes": "TV&WEBアニメ/データカードダス『アイカツオンパレード！』挿入歌アルバム Dream Festival"
+   },
+   {
+      "ID": "OPA-12 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ホワイトグラビティミニハット",
+      "Brand": "スイングロック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "300",
+      "Notes": "AIKATSU！STYLE & AIKATSU！STYLE for Lady POPUP STORE with 服部観光＠金沢香林坊大和"
+   },
+   {
+      "ID": "OPA-13 P",
+      "RarityFull": "ノーマル",
+      "RarityFig": "★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "モスグリーンプレッピーベスト",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "クールスマイル",
+      "Points": "250",
+      "Notes": "AIKATSU！STYLE & AIKATSU！STYLE for Lady POPUP STORE with 服部観光＠金沢香林坊大和"
+   },
+   {
+      "ID": "OPA-14 P",
+      "RarityFull": "ノーマル",
+      "RarityFig": "★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "モスグリーンプレッピーショーパン",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "クールスマイル",
+      "Points": "300",
+      "Notes": "AIKATSU！STYLE & AIKATSU！STYLE for Lady POPUP STORE with 服部観光＠金沢香林坊大和"
+   },
+   {
+      "ID": "OPA-15 P",
+      "RarityFull": "ノーマル",
+      "RarityFig": "★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "モスグリーンプレッピーショートブーツ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "クールスマイル",
+      "Points": "250",
+      "Notes": "AIKATSU！STYLE & AIKATSU！STYLE for Lady POPUP STORE with 服部観光＠金沢香林坊大和"
+   },
+   {
+      "ID": "OPCD-4 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ハッピーデイパープルリボンカチューシャ",
+      "Brand": "シュガーメロディ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "キュートタイプのアピールポイントが少しアップするよ！",
+      "Points": "300",
+      "Notes": "TVアニメ/データカードダス『アイカツフレンズ！』ベストアルバム"
+   },
+   {
+      "ID": "ODR-4 P",
+      "RarityFull": "レジェンドプレミアムレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス＆ボトムス"
+      ],
+      "Name": "スターライトシャイニングドレス",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "スターライト学園",
+      "Type": "キュート",
+      "Appeal": "レジェンドプレミアムシャイニングスターライト",
+      "Points": "1800",
+      "Notes": "スターライト学園のプレミアムスクールドレスが当たる！ルーレットキャンペーン"
+   },
+   {
+      "ID": "ODR-5 P",
+      "RarityFull": "レジェンドプレミアムレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "スターライトシャイニングブーツ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "スターライト学園",
+      "Type": "キュート",
+      "Appeal": "レジェンドプレミアムシャイニングスターライト",
+      "Points": "1000",
+      "Notes": "スターライト学園のプレミアムスクールドレスが当たる！ルーレットキャンペーン"
+   },
+   {
+      "ID": "OPBD-7 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "チェックチェリーピンクトップス",
+      "Brand": "シュガーメロディ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ドリームメロディ",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！ Blu-ray BOX 2"
+   },
+   {
+      "ID": "OPBD-8 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "チェックチェリーピンクスカート",
+      "Brand": "シュガーメロディ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ドリームメロディ",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！ Blu-ray BOX 2"
+   },
+   {
+      "ID": "OPBD-9 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "チェックチェリーピンクブーツ",
+      "Brand": "シュガーメロディ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ドリームメロディ",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！ Blu-ray BOX 2"
+   },
+   {
+      "ID": "OPA-16 P",
+      "RarityFull": "ノーマル",
+      "RarityFig": "★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "アクアハイビスカスノースリーブ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "ポップスマイル",
+      "Points": "250",
+      "Notes": "AIKATSU！STYLE & AIKATSU！STYLE for Lady POPUP STORE with 服部観光＠神戸マルイ"
+   },
+   {
+      "ID": "OPA-17 P",
+      "RarityFull": "ノーマル",
+      "RarityFig": "★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "アクアハイビスカススカート",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "ポップスマイル",
+      "Points": "250",
+      "Notes": "AIKATSU！STYLE & AIKATSU！STYLE for Lady POPUP STORE with 服部観光＠神戸マルイ"
+   },
+   {
+      "ID": "OPA-18 P",
+      "RarityFull": "ノーマル",
+      "RarityFig": "★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "アクアハイビスカスサンダル",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "ポップスマイル",
+      "Points": "300",
+      "Notes": "AIKATSU！STYLE & AIKATSU！STYLE for Lady POPUP STORE with 服部観光＠神戸マルイ"
+   },
+   {
+      "ID": "OPR-114 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "メロディダイヤモンドトップス",
+      "Brand": "シュガーメロディ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ジュエリングドリームメロディ",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル1弾セット"
+   },
+   {
+      "ID": "OPR-115 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "メロディダイヤモンドフリルスカート",
+      "Brand": "シュガーメロディ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ジュエリングドリームメロディ",
+      "Points": "1000",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル1弾セット"
+   },
+   {
+      "ID": "OPR-116 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "メロディダイヤモンドハイヒール",
+      "Brand": "シュガーメロディ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ジュエリングドリームメロディ",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル1弾セット"
+   },
+   {
+      "ID": "OPR-117 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "メロディダイヤモンドリボンアクセ",
+      "Brand": "シュガーメロディ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントがすごくアップするよ！",
+      "Points": "550",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル1弾セット"
+   },
+   {
+      "ID": "OPR-118 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "マテリアルサファイアジャケット",
+      "Brand": "マテリアルカラー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ジュエリンググラフィカルキューブ",
+      "Points": "1000",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル1弾セット"
+   },
+   {
+      "ID": "OPR-119 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "マテリアルサファイアスキニーパンツ",
+      "Brand": "マテリアルカラー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ジュエリンググラフィカルキューブ",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル1弾セット"
+   },
+   {
+      "ID": "OPR-120 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "マテリアルサファイアミュール",
+      "Brand": "マテリアルカラー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ジュエリンググラフィカルキューブ",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル1弾セット"
+   },
+   {
+      "ID": "OPR-121 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "マテリアルサファイアカチューシャ",
+      "Brand": "マテリアルカラー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのアピールポイントがすごくアップするよ！",
+      "Points": "550",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル1弾セット"
+   },
+   {
+      "ID": "OPR-122 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ヘヴンリールビートップス",
+      "Brand": "ヘヴンリーパフューム",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "ジュエリングヘヴンリーフレイム",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル1弾セット"
+   },
+   {
+      "ID": "OPR-123 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ヘヴンリールビースカート",
+      "Brand": "ヘヴンリーパフューム",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "ジュエリングヘヴンリーフレイム",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル1弾セット"
+   },
+   {
+      "ID": "OPR-124 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ヘヴンリールビーサンダル",
+      "Brand": "ヘヴンリーパフューム",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "ジュエリングヘヴンリーフレイム",
+      "Points": "1000",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル1弾セット"
+   },
+   {
+      "ID": "OPR-125 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ヘヴンリールビーヘアアクセ",
+      "Brand": "ヘヴンリーパフューム",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "同じブランドのアピールポイントがすごくアップするよ！",
+      "Points": "550",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル1弾セット"
+   },
+   {
+      "ID": "OPR-126 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "アンジュアクアマリントップス",
+      "Brand": "クラシカルアンジュ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ジュエリングエンジェルガーデン",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル2弾セット"
+   },
+   {
+      "ID": "OPR-127 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "アンジュアクアマリンスカート",
+      "Brand": "クラシカルアンジュ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ジュエリングエンジェルガーデン",
+      "Points": "1000",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル2弾セット"
+   },
+   {
+      "ID": "OPR-128 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "アンジュアクアマリンサンダル",
+      "Brand": "クラシカルアンジュ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ジュエリングエンジェルガーデン",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル2弾セット"
+   },
+   {
+      "ID": "OPR-129 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "アンジュアクアマリンティアラ",
+      "Brand": "クラシカルアンジュ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントがすごくアップするよ！",
+      "Points": "550",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル2弾セット"
+   },
+   {
+      "ID": "OPR-130 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "グロリアスエメラルドジャケット",
+      "Brand": "グロリアススノー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ジュエリンググロリアスキャッスル",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル2弾セット"
+   },
+   {
+      "ID": "OPR-131 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "グロリアスエメラルドスカート",
+      "Brand": "グロリアススノー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ジュエリンググロリアスキャッスル",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル2弾セット"
+   },
+   {
+      "ID": "OPR-132 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "グロリアスエメラルドブーツ",
+      "Brand": "グロリアススノー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ジュエリンググロリアスキャッスル",
+      "Points": "1000",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル2弾セット"
+   },
+   {
+      "ID": "OPR-133 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "グロリアスエメラルドアクセ",
+      "Brand": "グロリアススノー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのアピールポイントがすごくアップするよ！",
+      "Points": "550",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル2弾セット"
+   },
+   {
+      "ID": "OPR-134 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ジョーカーガーネットパフスリトップス",
+      "Brand": "ミルキージョーカー",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "ジュエリングミルキーボム",
+      "Points": "1000",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル2弾セット"
+   },
+   {
+      "ID": "OPR-135 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ジョーカーガーネットスカート",
+      "Brand": "ミルキージョーカー",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "ジュエリングミルキーボム",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル2弾セット"
+   },
+   {
+      "ID": "OPR-136 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ジョーカーガーネットブーツ",
+      "Brand": "ミルキージョーカー",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "ジュエリングミルキーボム",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル2弾セット"
+   },
+   {
+      "ID": "OPR-137 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ジョーカーガーネットアクセ",
+      "Brand": "ミルキージョーカー",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "同じブランドのアピールポイントがすごくアップするよ！",
+      "Points": "550",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル2弾セット"
+   },
+   {
+      "ID": "OPR-138 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ピュアシャイニングダイヤモンドトップス",
+      "Brand": "ピュアパレット",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "オールジュエリングハーモニー",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル3弾セット"
+   },
+   {
+      "ID": "OPR-139 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ピュアシャイニングダイヤモンドスカート",
+      "Brand": "ピュアパレット",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "オールジュエリングハーモニー",
+      "Points": "1000",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル3弾セット"
+   },
+   {
+      "ID": "OPR-140 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ピュアシャイニングダイヤモンドブーツ",
+      "Brand": "ピュアパレット",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "オールジュエリングハーモニー",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル3弾セット"
+   },
+   {
+      "ID": "OPR-141 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ピュアシャイニングダイヤモンドクラウン",
+      "Brand": "ピュアパレット",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じフレンズブランドのアピールポイントがすごくアップ！",
+      "Points": "550",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル3弾セット"
+   },
+   {
+      "ID": "OPR-142 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ハミングトパーズトップス",
+      "Brand": "ハミングリーフ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ジュエリングハミングパッチワーク",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル3弾セット"
+   },
+   {
+      "ID": "OPR-143 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ハミングトパーズスカート",
+      "Brand": "ハミングリーフ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ジュエリングハミングパッチワーク",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル3弾セット"
+   },
+   {
+      "ID": "OPR-144 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ハミングトパーズブーツ",
+      "Brand": "ハミングリーフ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ジュエリングハミングパッチワーク",
+      "Points": "1000",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル3弾セット"
+   },
+   {
+      "ID": "OPR-145 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ハミングトパーズカチューシャ",
+      "Brand": "ハミングリーフ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントがすごくアップするよ！",
+      "Points": "550",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル3弾セット"
+   },
+   {
+      "ID": "OPR-146 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ピュアシャイニングサファイアトップス",
+      "Brand": "ピュアパレット",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "オールジュエリングハーモニー",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル3弾セット"
+   },
+   {
+      "ID": "OPR-147 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ピュアシャイニングサファイアスカート",
+      "Brand": "ピュアパレット",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "オールジュエリングハーモニー",
+      "Points": "1000",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル3弾セット"
+   },
+   {
+      "ID": "OPR-148 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ピュアシャイニングサファイアブーツ",
+      "Brand": "ピュアパレット",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "オールジュエリングハーモニー",
+      "Points": "950",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル3弾セット"
+   },
+   {
+      "ID": "OPR-149 P",
+      "RarityFull": "ジュエリングレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ピュアシャイニングサファイアクラウン",
+      "Brand": "ピュアパレット",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じフレンズブランドのスペシャルアピールがすごく強くなるよ！",
+      "Points": "550",
+      "Notes": "WEBで応募！ジュエリングドレスセットキャンペーン かがやきのジュエル3弾セット"
+   },
+   {
+      "ID": "OPBD-4 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ネイビーベルトップス",
+      "Brand": "ドリーミークラウン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ドリーミングハート",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！ Blu-ray BOX 1"
+   },
+   {
+      "ID": "OPBD-5 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ネイビーベルスカート",
+      "Brand": "ドリーミークラウン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ドリーミングハート",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！ Blu-ray BOX 1"
+   },
+   {
+      "ID": "OPBD-6 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ネイビーベルパンプス",
+      "Brand": "ドリーミークラウン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ドリーミングハート",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！ Blu-ray BOX 1"
+   },
+   {
+      "ID": "OPA-09 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "クリアネスイエロートップス",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "500",
+      "Notes": "アイカツ！スタイル♡限定♡アイカツ！カード配布キャンペーン（2020年3月）"
+   },
+   {
+      "ID": "OPA-10 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "クリアネスイエロースカート",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "550",
+      "Notes": "アイカツ！スタイル♡限定♡アイカツ！カード配布キャンペーン（2020年3月）"
+   },
+   {
+      "ID": "OPA-11 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "クリアネスイエローパンプス",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "600",
+      "Notes": "アイカツ！スタイル♡限定♡アイカツ！カード配布キャンペーン（2020年3月）"
+   },
+   {
+      "ID": "ODZ-1 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "コーラルブルームトップス",
+      "Brand": "ハミングリーフ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ハミングパッチワーク",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！公式ファンブック STORY1"
+   },
+   {
+      "ID": "ODZ-2 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "コーラルブルームスカート",
+      "Brand": "ハミングリーフ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ハミングパッチワーク",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！公式ファンブック STORY1"
+   },
+   {
+      "ID": "ODZ-3 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "コーラルブルームシューズ",
+      "Brand": "ハミングリーフ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ハミングパッチワーク",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！公式ファンブック STORY1"
+   },
+   {
+      "ID": "ODZ-4 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ホワイトグラビティベスト",
+      "Brand": "スイングロック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "パッションビート",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！公式ファンブック STORY1"
+   },
+   {
+      "ID": "ODZ-5 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ホワイトグラビティスカート",
+      "Brand": "スイングロック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "パッションビート",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！公式ファンブック STORY1"
+   },
+   {
+      "ID": "ODZ-6 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ホワイトグラビティブーツ",
+      "Brand": "スイングロック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "パッションビート",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！公式ファンブック STORY1"
+   },
+   {
+      "ID": "OPCD-3 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ムーンナイトセクシーアクセ",
+      "Brand": "ラブムーンライズ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+      "Points": "300",
+      "Notes": "TVアニメ/データカードダス『アイカツオンパレード！』挿入歌アルバム Sing a Song Shuffle！"
+   },
+   {
+      "ID": "OPPB-29 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "チェリッシュガーリーラベンダートップス",
+      "Brand": "ドリーミークラウン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ドリーミングハート",
+      "Points": "600",
+      "Notes": "アイカツ！バインダー 大空あかりVer."
+   },
+   {
+      "ID": "OPPB-30 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "チェリッシュガーリーラベンダースカート",
+      "Brand": "ドリーミークラウン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ドリーミングハート",
+      "Points": "550",
+      "Notes": "アイカツ！バインダー 大空あかりVer."
+   },
+   {
+      "ID": "OPPB-31 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "チェリッシュガーリーラベンダーパンプス",
+      "Brand": "ドリーミークラウン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ドリーミングハート",
+      "Points": "500",
+      "Notes": "アイカツ！バインダー 大空あかりVer."
+   },
+   {
+      "ID": "OPPB-32 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "チェリッシュガーリーラベンダーアクセ",
+      "Brand": "ドリーミークラウン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+      "Points": "300",
+      "Notes": "アイカツ！バインダー 大空あかりVer."
+   },
+   {
+      "ID": "OPPB-33 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ブリリアントナイトクロストップス",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "クロックサーカス",
+      "Points": "500",
+      "Notes": "アイカツ！バインダー 藤堂ユリカVer."
+   },
+   {
+      "ID": "OPPB-34 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ブリリアントナイトクロススカート",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "クロックサーカス",
+      "Points": "550",
+      "Notes": "アイカツ！バインダー 藤堂ユリカVer."
+   },
+   {
+      "ID": "OPPB-35 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ブリリアントナイトクロスブーツ",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "クロックサーカス",
+      "Points": "600",
+      "Notes": "アイカツ！バインダー 藤堂ユリカVer."
+   },
+   {
+      "ID": "OPPB-36 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ブリリアントナイトクロスアクセ",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+      "Points": "300",
+      "Notes": "アイカツ！バインダー 藤堂ユリカVer."
+   },
+   {
+      "ID": "OPR-62 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "レインボーエトワールトップス",
+      "Brand": "レインボーベリーパルフェ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "スタープレミアムレインボーハピネスフォーユー",
+      "Points": "950",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-63 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "レインボーエトワールスカート",
+      "Brand": "レインボーベリーパルフェ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "スタープレミアムレインボーハピネスフォーユー",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-64 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "レインボーエトワールブーツ",
+      "Brand": "レインボーベリーパルフェ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "スタープレミアムレインボーハピネスフォーユー",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-65 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "レインボーエトワールリボンアクセ",
+      "Brand": "レインボーベリーパルフェ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-66 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ロックマイハートトップス",
+      "Brand": "スパイスコード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "スタープレミアムアンチェインコード",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-67 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ロックマイハートスカート",
+      "Brand": "スパイスコード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "スタープレミアムアンチェインコード",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-68 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ロックマイハートブーツ",
+      "Brand": "スパイスコード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "スタープレミアムアンチェインコード",
+      "Points": "950",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-69 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ロックマイハートカチューシャ",
+      "Brand": "スパイスコード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-70 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ロゼッタソーントップス",
+      "Brand": "ゴシックヴィクトリア",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "スタープレミアムアウェイクメイデン",
+      "Points": "950",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-71 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ロゼッタソーンスカート",
+      "Brand": "ゴシックヴィクトリア",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "スタープレミアムアウェイクメイデン",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-72 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ロゼッタソーンパンプス",
+      "Brand": "ゴシックヴィクトリア",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "スタープレミアムアウェイクメイデン",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-73 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ロゼッタソーンカチューシャ",
+      "Brand": "ゴシックヴィクトリア",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-74 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "デイライトフェスティバルトップス",
+      "Brand": "ロマンスキス",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "スタープレミアムキッシングジュエル",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-75 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "デイライトフェスティバルスカート",
+      "Brand": "ロマンスキス",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "スタープレミアムキッシングジュエル",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-76 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "デイライトフェスティバルサンダル",
+      "Brand": "ロマンスキス",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "スタープレミアムキッシングジュエル",
+      "Points": "950",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-77 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "デイライトフェスティバルカチューシャ",
+      "Brand": "ロマンスキス",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-78 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "トロピカルビーチトップス",
+      "Brand": "シャイニースマイル",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "スタープレミアムスマイリースプラッシュ",
+      "Points": "950",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-79 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "トロピカルビーチスカート",
+      "Brand": "シャイニースマイル",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "スタープレミアムスマイリースプラッシュ",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-80 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "トロピカルビーチサンダル",
+      "Brand": "シャイニースマイル",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "スタープレミアムスマイリースプラッシュ",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-81 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "トロピカルビーチカチューシャ",
+      "Brand": "シャイニースマイル",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-82 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "スイートライムライトトップス",
+      "Brand": "フワフワドリーム",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "スタープレミアムミルキードリーミータイム",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-83 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "スイートライムライトスカート",
+      "Brand": "フワフワドリーム",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "スタープレミアムミルキードリーミータイム",
+      "Points": "950",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-84 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "スイートライムライトパンプス",
+      "Brand": "フワフワドリーム",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "スタープレミアムミルキードリーミータイム",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-85 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "スイートライムライトカチューシャ",
+      "Brand": "フワフワドリーム",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-86 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "フローラルファンタジアトップス",
+      "Brand": "マイリトルハート",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "スタープレミアムハートフルワールド",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-87 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "フローラルファンタジアスカート",
+      "Brand": "マイリトルハート",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "スタープレミアムハートフルワールド",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-88 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "フローラルファンタジアパンプス",
+      "Brand": "マイリトルハート",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "スタープレミアムハートフルワールド",
+      "Points": "950",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-89 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "フローラルファンタジアアクセ",
+      "Brand": "マイリトルハート",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-90 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "イノセントプリンストップス",
+      "Brand": "ロイヤルソード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "スタープレミアムレイジングスラッシュ",
+      "Points": "950",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-91 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "イノセントプリンスボトムス",
+      "Brand": "ロイヤルソード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "スタープレミアムレイジングスラッシュ",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-92 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "イノセントプリンスブーツ",
+      "Brand": "ロイヤルソード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "スタープレミアムレイジングスラッシュ",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-93 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "イノセントプリンスクラウン",
+      "Brand": "ロイヤルソード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-94 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ブルーミングクイーントップス",
+      "Brand": "パーフェクトクイーン",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "スタープレミアムグローリージャッジ",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-95 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ブルーミングクイーンスカート",
+      "Brand": "パーフェクトクイーン",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "スタープレミアムグローリージャッジ",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-96 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ブルーミングクイーンパンプス",
+      "Brand": "パーフェクトクイーン",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "スタープレミアムグローリージャッジ",
+      "Points": "950",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-97 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ブルーミングクイーンクラウン",
+      "Brand": "パーフェクトクイーン",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-98 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "スイートドリームストップス",
+      "Brand": "フワフワドリーム",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "スタープレミアムミルキードリーミータイム",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-99 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "スイートドリームススカート",
+      "Brand": "フワフワドリーム",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "スタープレミアムミルキードリーミータイム",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-100 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "スイートドリームスパンプス",
+      "Brand": "フワフワドリーム",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "スタープレミアムミルキードリーミータイム",
+      "Points": "950",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-101 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "スイートドリームスカチューシャ",
+      "Brand": "フワフワドリーム",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-102 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス＆ボトムス"
+      ],
+      "Name": "エターナルレインボードレス",
+      "Brand": "レインボーベリーパルフェ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "スタープレミアムエターナルシャイン",
+      "Points": "1650",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-103 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "エターナルレインボーサンダル",
+      "Brand": "レインボーベリーパルフェ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "スタープレミアムエターナルシャイン",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-104 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "エターナルレインボークラウン",
+      "Brand": "レインボーベリーパルフェ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-105 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス＆ボトムス"
+      ],
+      "Name": "エターナルプリンセスドレス",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "スタープレミアムエターナルムーンライト",
+      "Points": "1650",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-106 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "エターナルプリンセスサンダル",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "スタープレミアムエターナルムーンライト",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-107 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "エターナルプリンセスティアラ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "キュートタイプのアピールポイントがすごくアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-108 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス＆ボトムス"
+      ],
+      "Name": "エターナルスパイスドレス",
+      "Brand": "スパイスコード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "スタープレミアムエターナルシャイン",
+      "Points": "1650",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-109 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "エターナルスパイスサンダル",
+      "Brand": "スパイスコード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "スタープレミアムエターナルシャイン",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-110 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "エターナルスパイスクラウン",
+      "Brand": "スパイスコード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-111 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス＆ボトムス"
+      ],
+      "Name": "エターナルクイーンドレス",
+      "Brand": "パーフェクトクイーン",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "スタープレミアムエターナルシャイン",
+      "Points": "1650",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-112 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "エターナルクイーンサンダル",
+      "Brand": "パーフェクトクイーン",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "スタープレミアムエターナルシャイン",
+      "Points": "900",
+      "Notes": null
+   },
+   {
+      "ID": "OPR-113 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "エターナルクイーンクラウン",
+      "Brand": "パーフェクトクイーン",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": null
+   },
+   {
+      "ID": "OPPB-21 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "オーロラキスキャミソール",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "800",
+      "Notes": "アイカツ！プレミアムレアカードセット＆アイカツ！ドレスブックレット ～First season～"
+   },
+   {
+      "ID": "OPPB-22 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "オーロラキスドレープスカート",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "750",
+      "Notes": "アイカツ！プレミアムレアカードセット＆アイカツ！ドレスブックレット ～First season～"
+   },
+   {
+      "ID": "OPPB-23 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "オーロラキスバレエシューズ",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "750",
+      "Notes": "アイカツ！プレミアムレアカードセット＆アイカツ！ドレスブックレット ～First season～"
+   },
+   {
+      "ID": "OPPB-24 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "オーロラキスリボン",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "350",
+      "Notes": "アイカツ！プレミアムレアカードセット＆アイカツ！ドレスブックレット ～First season～"
+   },
+   {
+      "ID": "OPPB-25 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "スターフェスティバルトップス",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "750",
+      "Notes": "アイカツ！プレミアムレアカードセット＆アイカツ！ドレスブックレット ～First season～"
+   },
+   {
+      "ID": "OPPB-26 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "スターフェスティバルスカート",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "800",
+      "Notes": "アイカツ！プレミアムレアカードセット＆アイカツ！ドレスブックレット ～First season～"
+   },
+   {
+      "ID": "OPPB-27 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "スターフェスティバルサンダル",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "750",
+      "Notes": "アイカツ！プレミアムレアカードセット＆アイカツ！ドレスブックレット ～First season～"
+   },
+   {
+      "ID": "OPPB-28 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "スターライトティアラ",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのスペシャルアピールが強くなるよ！",
+      "Points": "350",
+      "Notes": "アイカツ！プレミアムレアカードセット＆アイカツ！ドレスブックレット ～First season～"
+   },
+   {
+      "ID": "OPBD-1 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス＆ボトムス"
+      ],
+      "Name": "ガーリーいちごワンピ",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "800",
+      "Notes": "アイカツ！ALL SEASON Blu-ray まつり！！"
+   },
+   {
+      "ID": "OPBD-2 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ガーリーいちごブーツ",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "600",
+      "Notes": "アイカツ！ALL SEASON Blu-ray まつり！！"
+   },
+   {
+      "ID": "OPBD-3 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ガーリーいちごリボン",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "キュートタイプのアピールポイントが少しアップするよ！",
+      "Points": "300",
+      "Notes": "アイカツ！ALL SEASON Blu-ray まつり！！"
+   },
+   {
+      "ID": "OPT-3 P",
+      "RarityFull": "レジェンドプレミアムレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "チェックメイトキングミニハット",
+      "Brand": "チェックメイト",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じフレンズブランドのアピールポイントがすごくアップ！",
+      "Points": "550",
+      "Notes": "店頭イベント ユリカにチャレンジ！"
+   },
+   {
+      "ID": "OPZ-17 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "メルヘンチックフラワーベルスリーブ",
+      "Brand": "オーロラファンタジー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "アラウンドブーケ",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！公式ファンブック PARADE3"
+   },
+   {
+      "ID": "OPZ-18 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "メルヘンチックフラワースカート",
+      "Brand": "オーロラファンタジー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "アラウンドブーケ",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！公式ファンブック PARADE3"
+   },
+   {
+      "ID": "OPZ-19 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "メルヘンチックフラワーパンプス",
+      "Brand": "オーロラファンタジー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "アラウンドブーケ",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！公式ファンブック PARADE3"
+   },
+   {
+      "ID": "OPR-60 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "メルヘンチックフラワーリボン",
+      "Brand": "オーロラファンタジー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "300",
+      "Notes": "オリジナルアクセカードGETキャンペーン（2020年2月）"
+   },
+   {
+      "ID": "OPR-61 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "メルヘンチックフラワーリボン",
+      "Brand": "オーロラファンタジー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "300",
+      "Notes": "オリジナルアクセカードGETキャンペーン（2020年2月）"
+   },
+   {
+      "ID": "OBD-14 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "アイリスフローズントップス",
+      "Brand": "グロリアススノー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "グロリアスキャッスル",
+      "Points": "550",
+      "Notes": "データカードダス アイカツオンパレード！オフィシャルバインダー✟Gothic Girls✟"
+   },
+   {
+      "ID": "OBD-15 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "アイリスフローズンスカート",
+      "Brand": "グロリアススノー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "グロリアスキャッスル",
+      "Points": "600",
+      "Notes": "データカードダス アイカツオンパレード！オフィシャルバインダー✟Gothic Girls✟"
+   },
+   {
+      "ID": "OBD-16 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "アイリスフローズンパンプス",
+      "Brand": "グロリアススノー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "グロリアスキャッスル",
+      "Points": "500",
+      "Notes": "データカードダス アイカツオンパレード！オフィシャルバインダー✟Gothic Girls✟"
+   },
+   {
+      "ID": "OBD-17 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "アイリスフローズンティアラ",
+      "Brand": "グロリアススノー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+      "Points": "300",
+      "Notes": "データカードダス アイカツオンパレード！オフィシャルバインダー✟Gothic Girls✟"
+   },
+   {
+      "ID": "OPR-8 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "マーメードピスケストップス",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "950",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-9 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "マーメードピスケススカート",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-10 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "マーメードピスケスサンダル",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-11 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "マーメードピスケスカチューシャ",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-12 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "クリスタルアクエリアストップス",
+      "Brand": "フューチャリングガール",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムコスモショータイム",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-13 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "クリスタルアクエリアススカート",
+      "Brand": "フューチャリングガール",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムコスモショータイム",
+      "Points": "950",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-14 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "クリスタルアクエリアスブーツ",
+      "Brand": "フューチャリングガール",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムコスモショータイム",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-15 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "クリスタルアクエリアスクラウン",
+      "Brand": "フューチャリングガール",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-16 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "キングレオトップス",
+      "Brand": "スパイシーアゲハ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "プレミアムバタフライフリップ",
+      "Points": "950",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-17 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "キングレオスカート",
+      "Brand": "スパイシーアゲハ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "プレミアムバタフライフリップ",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-18 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "キングレオロングブーサン",
+      "Brand": "スパイシーアゲハ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "プレミアムバタフライフリップ",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-19 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "キングレオクラウン",
+      "Brand": "スパイシーアゲハ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-20 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ロリポップタウルストップス",
+      "Brand": "ハッピーレインボー",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "プレミアムキャンディレインボー",
+      "Points": "950",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-21 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ロリポップタウルススカート",
+      "Brand": "ハッピーレインボー",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "プレミアムキャンディレインボー",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-22 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ロリポップタウルスブーツ",
+      "Brand": "ハッピーレインボー",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "プレミアムキャンディレインボー",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-23 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ロリポップタウルスカチューシャ",
+      "Brand": "ハッピーレインボー",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-24 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ナイトメアカプリコーントップス",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムクロックサーカス",
+      "Points": "950",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-25 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ナイトメアカプリコーンスカート",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムクロックサーカス",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-26 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ナイトメアカプリコーンブーツ",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムクロックサーカス",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-27 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ナイトメアカプリコーンクラウン",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン スターライトセット"
+   },
+   {
+      "ID": "OPR-28 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ミュージカルスコーピオンジャケット",
+      "Brand": "スイングロック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムパッションビート",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-29 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ミュージカルスコーピオンスカート",
+      "Brand": "スイングロック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムパッションビート",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-30 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ミュージカルスコーピオンブーツ",
+      "Brand": "スイングロック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムパッションビート",
+      "Points": "950",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-31 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ミュージカルスコーピオンリボン",
+      "Brand": "スイングロック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-32 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ユニコーンサジットトップス",
+      "Brand": "マジカルトイ",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "プレミアムトリックトイボックス",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-33 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ユニコーンサジットスカート",
+      "Brand": "マジカルトイ",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "プレミアムトリックトイボックス",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-34 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ユニコーンサジットブーツ",
+      "Brand": "マジカルトイ",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "プレミアムトリックトイボックス",
+      "Points": "950",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-35 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ユニコーンサジットリボン",
+      "Brand": "マジカルトイ",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-36 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "オリエンタルリブラトップス",
+      "Brand": "ボヘミアンスカイ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "プレミアムスカイオアシス",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-37 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "オリエンタルリブラスカート",
+      "Brand": "ボヘミアンスカイ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "プレミアムスカイオアシス",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-38 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "オリエンタルリブラサンダル",
+      "Brand": "ボヘミアンスカイ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "プレミアムスカイオアシス",
+      "Points": "950",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-39 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "オリエンタルリブラヒッピーバンド",
+      "Brand": "ボヘミアンスカイ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-40 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "チロリアンアリエストップス",
+      "Brand": "オーロラファンタジー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムアラウンドブーケ",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-41 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "チロリアンアリエススカート",
+      "Brand": "オーロラファンタジー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムアラウンドブーケ",
+      "Points": "950",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-42 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "チロリアンアリエスブーツ",
+      "Brand": "オーロラファンタジー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムアラウンドブーケ",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-43 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "チロリアンアリエスティアラ",
+      "Brand": "オーロラファンタジー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン ドリアカセット"
+   },
+   {
+      "ID": "OPR-44 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ミステリアスヴァルゴトップス",
+      "Brand": "ラブムーンライズ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "プレミアムダブルムーンジュエル",
+      "Points": "950",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-45 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ミステリアスヴァルゴスカート",
+      "Brand": "ラブムーンライズ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "プレミアムダブルムーンジュエル",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-46 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ミステリアスヴァルゴブーツ",
+      "Brand": "ラブムーンライズ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "プレミアムダブルムーンジュエル",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-47 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ミステリアスヴァルゴティアラ",
+      "Brand": "ラブムーンライズ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-48 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "リゾートキャンサートップス",
+      "Brand": "ヴィヴィッドキス",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "プレミアムチアフルキッス",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-49 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "リゾートキャンサースカート",
+      "Brand": "ヴィヴィッドキス",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "プレミアムチアフルキッス",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-50 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "リゾートキャンサーサンダル",
+      "Brand": "ヴィヴィッドキス",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "プレミアムチアフルキッス",
+      "Points": "950",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-51 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "リゾートキャンサーサングラス",
+      "Brand": "ヴィヴィッドキス",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "500",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-52 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "エンジェリージェミニトップス",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-53 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "エンジェリージェミニスカート",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "950",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-54 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "エンジェリージェミニシューズ",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-55 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "エンジェリージェミニリボン",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのスペシャルアピールが強くなるよ！",
+      "Points": "500",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-56 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "スイングジェミニトップス",
+      "Brand": "スイングロック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムパッションビート",
+      "Points": "950",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-57 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "スイングジェミニスカート",
+      "Brand": "スイングロック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムパッションビート",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-58 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "スイングジェミニシューズ",
+      "Brand": "スイングロック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムパッションビート",
+      "Points": "900",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "OPR-59 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "スイングジェミニリボン",
+      "Brand": "スイングロック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのスペシャルアピールが強くなるよ！",
+      "Points": "500",
+      "Notes": "WEBで応募！星座ドレスセットキャンペーン 2wingS&WMセット"
+   },
+   {
+      "ID": "FD-13 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "クールガールロゴアクセ",
+      "Brand": "マテリアルカラー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "400",
+      "Notes": "【DVD】アイカツフレンズ！ 13"
+   },
+   {
+      "ID": "FD-14 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "シンガソングピンクアクセ",
+      "Brand": "シュガーメロディ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "400",
+      "Notes": "【DVD】アイカツフレンズ！ 14"
+   },
+   {
+      "ID": "OPA-08 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ブランニュールックカチューシャ",
+      "Brand": "ヴィヴィッドキス",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "300",
+      "Notes": "AIKATSU！STYLE＆AIKATSU！STYLE for Lady Limited Shop MINI＠大阪大丸梅田店 ほか"
+   },
+   {
+      "ID": "OPA-05 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス＆ボトムス"
+      ],
+      "Name": "ロマンスラグジュアリーファーワンピース",
+      "Brand": "ロマンスキス",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "キッシングジュエル",
+      "Points": "700",
+      "Notes": "アイカツ！スタイル♡限定♡アイカツ！カード配布キャンペーン（2020年1月）"
+   },
+   {
+      "ID": "OPA-06 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ロマンスラグジュアリーパンプス",
+      "Brand": "ロマンスキス",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "キッシングジュエル",
+      "Points": "500",
+      "Notes": "アイカツ！スタイル♡限定♡アイカツ！カード配布キャンペーン（2020年1月）"
+   },
+   {
+      "ID": "OPA-07 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ロマンスラグジュアリーミニハット",
+      "Brand": "ロマンスキス",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+      "Points": "300",
+      "Notes": "アイカツ！スタイル♡限定♡アイカツ！カード配布キャンペーン（2020年1月）"
+   },
+   {
+      "ID": "OPRC-1 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ロマンスビューティートップス",
+      "Brand": "マイリトルハート",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ハートフルワールド",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-2 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ロマンスビューティーチュチュスカート",
+      "Brand": "マイリトルハート",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ハートフルワールド",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-3 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ロマンスビューティーサンダル",
+      "Brand": "マイリトルハート",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ハートフルワールド",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-4 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ピンククロッシュトップス",
+      "Brand": "シュガーメロディ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ドリームメロディ",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-5 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ピンククロッシュスカート",
+      "Brand": "シュガーメロディ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ドリームメロディ",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-6 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ピンククロッシュロングブーツ",
+      "Brand": "シュガーメロディ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ドリームメロディ",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-7 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ガーデンバニラブラウス",
+      "Brand": "クラシカルアンジュ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルガーデン",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-8 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ガーデンバニラスカート",
+      "Brand": "クラシカルアンジュ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルガーデン",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-9 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ガーデンバニラシューズ",
+      "Brand": "クラシカルアンジュ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルガーデン",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-10 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "レイヴンネイビートップス",
+      "Brand": "グロリアススノー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "グロリアスキャッスル",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-11 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "レイヴンネイビースカート",
+      "Brand": "グロリアススノー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "グロリアスキャッスル",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-12 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "レイヴンネイビーブーツ",
+      "Brand": "グロリアススノー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "グロリアスキャッスル",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-13 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "グリーンピトレスクトップス",
+      "Brand": "ムーンメイデン",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ミスティックムーン",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-14 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "グリーンピトレスクスカート",
+      "Brand": "ムーンメイデン",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ミスティックムーン",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-15 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "グリーンピトレスクパンプス",
+      "Brand": "ムーンメイデン",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ミスティックムーン",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-16 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "アザレアパピヨントップス",
+      "Brand": "スパイシーアゲハ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "バタフライフリップ",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-17 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "アザレアパピヨンスカート",
+      "Brand": "スパイシーアゲハ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "バタフライフリップ",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-18 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "アザレアパピヨンサンダル",
+      "Brand": "スパイシーアゲハ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "バタフライフリップ",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-19 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "バイオレットサマーアドベンチャーシャツ",
+      "Brand": "シャイニースマイル",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "スマイリースプラッシュ",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-20 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "バイオレットサマーアドベンチャースカート",
+      "Brand": "シャイニースマイル",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "スマイリースプラッシュ",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-21 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "バイオレットサマーアドベンチャーブーツ",
+      "Brand": "シャイニースマイル",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "スマイリースプラッシュ",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-22 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ブランニュールックトップス",
+      "Brand": "ヴィヴィッドキス",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "チアフルキッス",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-23 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ブランニュールックスカート",
+      "Brand": "ヴィヴィッドキス",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "チアフルキッス",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPRC-24 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ブランニュールックブーツ",
+      "Brand": "ヴィヴィッドキス",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "チアフルキッス",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！ レアコーデセレクション"
+   },
+   {
+      "ID": "OPCD-2 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ロマンスビューティーカチューシャ",
+      "Brand": "マイリトルハート",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "300",
+      "Notes": "TVアニメ/データカードダス『アイカツオンパレード！』挿入歌シングル Sing a Song Sympathy！"
+   },
+   {
+      "ID": "OPT-2 P",
+      "RarityFull": "レジェンドプレミアムレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "サフィルスシャンデリアヘアアクセ",
+      "Brand": "ラブムーンライズ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "同じブランドのアピールポイントがすごくアップするよ！",
+      "Points": "550",
+      "Notes": "店頭イベント 美月にチャレンジ！"
+   },
+   {
+      "ID": "FD-12 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "カントリーステッチハット",
+      "Brand": "ハミングリーフ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "400",
+      "Notes": "【DVD】アイカツフレンズ！ 12"
+   },
+   {
+      "ID": "OPZ-14 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ファンシーラッキークリスマストップス",
+      "Brand": "メープルリボン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "リボンホリック",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！公式ファンブック PARADE2"
+   },
+   {
+      "ID": "OPZ-15 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ファンシーラッキークリスマスファースカート",
+      "Brand": "メープルリボン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "リボンホリック",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！公式ファンブック PARADE2"
+   },
+   {
+      "ID": "OPZ-16 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ファンシーラッキークリスマスブーツ",
+      "Brand": "メープルリボン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "リボンホリック",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！公式ファンブック PARADE2"
+   },
+   {
+      "ID": "OPN-3 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "チャーミーリボンアクセ",
+      "Brand": "メープルリボン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+      "Points": "400",
+      "Notes": "アイカツ！オフィシャルショップ購入者限定アイカツ！カードプレゼントキャンペーン（2019年12月）"
+   },
+   {
+      "ID": "OPR-4 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ブルーミングクイーントップス",
+      "Brand": "パーフェクトクイーン",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "スタープレミアムグローリージャッジ",
+      "Points": "900",
+      "Notes": "最強ライバル降臨！エルザのプレミアムレア店頭配布キャンペーン"
+   },
+   {
+      "ID": "OPDA-1 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "アザレアパピヨンアクセ",
+      "Brand": "スパイシーアゲハ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "300",
+      "Notes": "オールアイカツ！ミュージアム第1弾入場特典"
+   },
+   {
+      "ID": "OPDA-2 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "バイオレットサマーアドベンチャーカチューシャ",
+      "Brand": "シャイニースマイル",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+      "Points": "300",
+      "Notes": "オールアイカツ！ミュージアム第2弾入場特典"
+   },
+   {
+      "ID": "OPPB-5 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "フェザリーライトブルートップス",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "550",
+      "Notes": "アイカツ！バインダー 星宮いちごVer."
+   },
+   {
+      "ID": "OPPB-6 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "フェザリーライトブルースカート",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "500",
+      "Notes": "アイカツ！バインダー 星宮いちごVer."
+   },
+   {
+      "ID": "OPPB-7 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "フェザリーライトブルーサンダル",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "600",
+      "Notes": "アイカツ！バインダー 星宮いちごVer."
+   },
+   {
+      "ID": "OPPB-8 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "フェザリーライトブルーカチューシャ",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+      "Points": "300",
+      "Notes": "アイカツ！バインダー 星宮いちごVer."
+   },
+   {
+      "ID": "OPPB-13 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "リラフェアリーケープ",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "750",
+      "Notes": "AIKATSU！Premium Birthday Box ～ICHIGO HOSHIMIYA～"
+   },
+   {
+      "ID": "OPPB-14 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "リラフェアリースカート",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "750",
+      "Notes": "AIKATSU！Premium Birthday Box ～ICHIGO HOSHIMIYA～"
+   },
+   {
+      "ID": "OPPB-15 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "リラフェアリーブーツ",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "800",
+      "Notes": "AIKATSU！Premium Birthday Box ～ICHIGO HOSHIMIYA～"
+   },
+   {
+      "ID": "OPPB-16 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "リラフェアリーミニハット",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "350",
+      "Notes": "AIKATSU！Premium Birthday Box ～ICHIGO HOSHIMIYA～"
+   },
+   {
+      "ID": "OPPB-17 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "オデットスワントップス",
+      "Brand": "ドリーミークラウン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムドリーミングハート",
+      "Points": "800",
+      "Notes": "AIKATSU！Premium Birthday Box ～AKARI OZORA～"
+   },
+   {
+      "ID": "OPPB-18 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "オデットスワンスカート",
+      "Brand": "ドリーミークラウン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムドリーミングハート",
+      "Points": "750",
+      "Notes": "AIKATSU！Premium Birthday Box ～AKARI OZORA～"
+   },
+   {
+      "ID": "OPPB-19 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "オデットスワンシューズ",
+      "Brand": "ドリーミークラウン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムドリーミングハート",
+      "Points": "750",
+      "Notes": "AIKATSU！Premium Birthday Box ～AKARI OZORA～"
+   },
+   {
+      "ID": "OPPB-20 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "オデットスワンウィングティアラ",
+      "Brand": "ドリーミークラウン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "350",
+      "Notes": "AIKATSU！Premium Birthday Box ～AKARI OZORA～"
+   },
+   {
+      "ID": "OPPB-9 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "プルミエールベリートップス",
+      "Brand": "ベリーパルフェ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムハピネスフォーユー",
+      "Points": "800",
+      "Notes": "AIKATSU！Premium Birthday Box ～YUME NIJINO～"
+   },
+   {
+      "ID": "OPPB-10 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "プルミエールベリースカート",
+      "Brand": "ベリーパルフェ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムハピネスフォーユー",
+      "Points": "750",
+      "Notes": "AIKATSU！Premium Birthday Box ～YUME NIJINO～"
+   },
+   {
+      "ID": "OPPB-11 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "プルミエールベリーパンプス",
+      "Brand": "ベリーパルフェ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムハピネスフォーユー",
+      "Points": "750",
+      "Notes": "AIKATSU！Premium Birthday Box ～YUME NIJINO～"
+   },
+   {
+      "ID": "OPPB-12 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "プルミエールベリーカチューシャ",
+      "Brand": "ベリーパルフェ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "350",
+      "Notes": "AIKATSU！Premium Birthday Box ～YUME NIJINO～"
+   },
+   {
+      "ID": "OPR-6 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ファンシーラッキークリスマスリボン",
+      "Brand": "メープルリボン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "フィーバーボーナスのポイントがアップするよ！",
+      "Points": "300",
+      "Notes": "オリジナルアクセカードGETキャンペーン（2019年12月）"
+   },
+   {
+      "ID": "OPR-7 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ファンシーラッキークリスマスリボン",
+      "Brand": "メープルリボン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "フィーバーボーナスのポイントがアップするよ！",
+      "Points": "300",
+      "Notes": "オリジナルアクセカードGETキャンペーン（2019年12月）"
+   },
+   {
+      "ID": "OBD-5 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス＆ボトムス"
+      ],
+      "Name": "ローズピンクミニドレス",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "キュートスマイル",
+      "Points": "800",
+      "Notes": "アイカツオンパレード！オフィシャル9ポケットバインダー"
+   },
+   {
+      "ID": "OBD-6 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ローズピンクサンダル",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "キュートスマイル",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！オフィシャル9ポケットバインダー"
+   },
+   {
+      "ID": "OBD-7 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス＆ボトムス"
+      ],
+      "Name": "サルビアブルーミニドレス",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "クールスマイル",
+      "Points": "800",
+      "Notes": "アイカツオンパレード！オフィシャル9ポケットバインダー"
+   },
+   {
+      "ID": "OBD-8 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "サルビアブルーサンダル",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "クールスマイル",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！オフィシャル9ポケットバインダー"
+   },
+   {
+      "ID": "OBD-9 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス＆ボトムス"
+      ],
+      "Name": "アネモネパープルミニドレス",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "セクシースマイル",
+      "Points": "800",
+      "Notes": "アイカツオンパレード！オフィシャル9ポケットバインダー"
+   },
+   {
+      "ID": "OBD-10 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "アネモネパープルサンダル",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "セクシースマイル",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！オフィシャル9ポケットバインダー"
+   },
+   {
+      "ID": "OBD-11 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス＆ボトムス"
+      ],
+      "Name": "マリーゴールドイエローミニドレス",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "ポップスマイル",
+      "Points": "800",
+      "Notes": "アイカツオンパレード！オフィシャル9ポケットバインダー"
+   },
+   {
+      "ID": "OBD-12 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "マリーゴールドイエローサンダル",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "ポップスマイル",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！オフィシャル9ポケットバインダー"
+   },
+   {
+      "ID": "OBD-13 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "フォーカラーミニハット",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ドレスとステージのタイプが合うとアピールポイントが少しアップ！",
+      "Points": "400",
+      "Notes": "アイカツオンパレード！オフィシャル9ポケットバインダー"
+   },
+   {
+      "ID": "OPCD-1 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "フェザリーピンクカチューシャ",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "300",
+      "Notes": "TVアニメ/データカードダス『アイカツオンパレード！』OP/EDテーマ 君のEntrance/アイドル活動！オンパレードver."
+   },
+   {
+      "ID": "OPT-1 P",
+      "RarityFull": "レジェンドプレミアムレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ブレスオーロラリボンアクセ",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントがすごくアップするよ！",
+      "Points": "550",
+      "Notes": "店頭イベント いちごにチャレンジ！"
+   },
+   {
+      "ID": "FD-11 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ロイヤルブラックアクセ",
+      "Brand": "グロリアススノー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "400",
+      "Notes": "【DVD】アイカツフレンズ！ 11"
+   },
+   {
+      "ID": "OPN-1 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ロストグリーンアクセ",
+      "Brand": "ルナウィッチ",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "リズムゲームでコンボがつながりやすくなるよ！",
+      "Points": "300",
+      "Notes": "アイカツ！オフィシャルショップ購入者限定アイカツ！カードプレゼントキャンペーン（2019年10月）"
+   },
+   {
+      "ID": "OPN-2 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "グリーンピトレスクアクセ",
+      "Brand": "ムーンメイデン",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "レアドレスのアピールポイントが少しアップするよ！",
+      "Points": "300",
+      "Notes": "アイカツ！オフィシャルショップ購入者限定アイカツ！カードプレゼントキャンペーン（2019年10月）"
+   },
+   {
+      "ID": "OPZ-1 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "パステルパープルライントップス",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "キュートスマイル",
+      "Points": "600",
+      "Notes": "ちゃお2019年11月号"
+   },
+   {
+      "ID": "OPZ-2 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "フェザリーピンクトップス",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "500",
+      "Notes": "ちゃお2019年11月号"
+   },
+   {
+      "ID": "OPZ-3 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "フェザリーピンクスカート",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "550",
+      "Notes": "ちゃお2019年11月号"
+   },
+   {
+      "ID": "OPZ-4 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "フェザリーピンクサンダル",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "600",
+      "Notes": "ちゃお2019年11月号"
+   },
+   {
+      "ID": "OPZ-5 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "チャッティーフラミンゴトップス",
+      "Brand": "ヴィヴィッドキス",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "チアフルキッス",
+      "Points": "500",
+      "Notes": "ちゃお2019年11月号"
+   },
+   {
+      "ID": "OPZ-6 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "チャッティーフラミンゴスカート",
+      "Brand": "ヴィヴィッドキス",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "チアフルキッス",
+      "Points": "600",
+      "Notes": "ちゃお2019年11月号"
+   },
+   {
+      "ID": "OPZ-7 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "チャッティーフラミンゴサンダル",
+      "Brand": "ヴィヴィッドキス",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "チアフルキッス",
+      "Points": "550",
+      "Notes": "ちゃお2019年11月号"
+   },
+   {
+      "ID": "OPZ-8 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "アップビートロックトップス",
+      "Brand": "スパイスコード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "アンチェインコード",
+      "Points": "600",
+      "Notes": "ちゃお2019年11月号"
+   },
+   {
+      "ID": "OPZ-9 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "アップビートロックスカート",
+      "Brand": "スパイスコード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "アンチェインコード",
+      "Points": "550",
+      "Notes": "ちゃお2019年11月号"
+   },
+   {
+      "ID": "OPZ-10 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "アップビートロックブーツ",
+      "Brand": "スパイスコード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "アンチェインコード",
+      "Points": "500",
+      "Notes": "ちゃお2019年11月号"
+   },
+   {
+      "ID": "OPZ-11 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ブルーユニバースビスチェ",
+      "Brand": "フューチャリングガール",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "コスモショータイム",
+      "Points": "500",
+      "Notes": "アイカツオンパレード！公式ファンブック PARADE1"
+   },
+   {
+      "ID": "OPZ-12 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ブルーユニバースショーパン",
+      "Brand": "フューチャリングガール",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "コスモショータイム",
+      "Points": "550",
+      "Notes": "アイカツオンパレード！公式ファンブック PARADE1"
+   },
+   {
+      "ID": "OPZ-13 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ブルーユニバースブーツ",
+      "Brand": "フューチャリングガール",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "コスモショータイム",
+      "Points": "600",
+      "Notes": "アイカツオンパレード！公式ファンブック PARADE1"
+   },
+   {
+      "ID": "OPR-2 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ブルーユニバースカチューシャ",
+      "Brand": "フューチャリングガール",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "300",
+      "Notes": "オリジナルアクセカードGETキャンペーン（2019年10月）"
+   },
+   {
+      "ID": "OPR-3 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "アップビートロックカチューシャ",
+      "Brand": "スパイスコード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "300",
+      "Notes": "オリジナルアクセカードGETキャンペーン（2019年10月）"
+   },
+   {
+      "ID": "OPA-01 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "モダンクチュールレッドトップス",
+      "Brand": "マテリアルカラー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "グラフィカルキューブ",
+      "Points": "550",
+      "Notes": "アイカツ！スタイル♡限定♡アイカツ！カード配布キャンペーン（2019年10月）"
+   },
+   {
+      "ID": "OPA-02 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "モダンクチュールレッドスカート",
+      "Brand": "マテリアルカラー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "グラフィカルキューブ",
+      "Points": "600",
+      "Notes": "アイカツ！スタイル♡限定♡アイカツ！カード配布キャンペーン（2019年10月）"
+   },
+   {
+      "ID": "OPA-03 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "モダンクチュールレッドブーツ",
+      "Brand": "マテリアルカラー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "グラフィカルキューブ",
+      "Points": "500",
+      "Notes": "アイカツ！スタイル♡限定♡アイカツ！カード配布キャンペーン（2019年10月）"
+   },
+   {
+      "ID": "OPA-04 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "モダンクチュールレッドアクセ",
+      "Brand": "マテリアルカラー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+      "Points": "300",
+      "Notes": "アイカツ！スタイル♡限定♡アイカツ！カード配布キャンペーン（2019年10月）"
+   },
+   {
+      "ID": "OPPB-1 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "ゴスマジックシャツ",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムクロックサーカス",
+      "Points": "750",
+      "Notes": "AIKATSU！Premium Birthday Box ～YURIKA TODO～"
+   },
+   {
+      "ID": "OPPB-2 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "ゴスマジックパニエ",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムクロックサーカス",
+      "Points": "800",
+      "Notes": "AIKATSU！Premium Birthday Box ～YURIKA TODO～"
+   },
+   {
+      "ID": "OPPB-3 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "ゴスマジックシューズ",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "プレミアムクロックサーカス",
+      "Points": "750",
+      "Notes": "AIKATSU！Premium Birthday Box ～YURIKA TODO～"
+   },
+   {
+      "ID": "OPPB-4 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "ゴスマジックミニハット",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "同じブランドのアピールポイントがアップするよ！",
+      "Points": "350",
+      "Notes": "AIKATSU！Premium Birthday Box ～YURIKA TODO～"
+   },
+   {
+      "ID": "OCS-1 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "クリアネスブルートップス",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "500",
+      "Notes": "データカードダス アイカツオンパレード！ アイカツ！デビューセット エンジェリーシュガー"
+   },
+   {
+      "ID": "OCS-2 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "クリアネスブルースカート",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "550",
+      "Notes": "データカードダス アイカツオンパレード！ アイカツ！デビューセット エンジェリーシュガー"
+   },
+   {
+      "ID": "OCS-3 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "クリアネスブルーパンプス",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルアロー",
+      "Points": "600",
+      "Notes": "データカードダス アイカツオンパレード！ アイカツ！デビューセット エンジェリーシュガー"
+   },
+   {
+      "ID": "OCS-4 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "クリアネスブルーアクセ",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+      "Points": "300",
+      "Notes": "データカードダス アイカツオンパレード！ アイカツ！デビューセット エンジェリーシュガー"
+   },
+   {
+      "ID": "OBD-1 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "スイートギンガムトップス",
+      "Brand": "メープルリボン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "リボンホリック",
+      "Points": "550",
+      "Notes": "データカードダス アイカツオンパレード！オフィシャルバインダー"
+   },
+   {
+      "ID": "OBD-2 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "スイートギンガムスカート",
+      "Brand": "メープルリボン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "リボンホリック",
+      "Points": "500",
+      "Notes": "データカードダス アイカツオンパレード！オフィシャルバインダー"
+   },
+   {
+      "ID": "OBD-3 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "スイートギンガムシューズ",
+      "Brand": "メープルリボン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "リボンホリック",
+      "Points": "600",
+      "Notes": "データカードダス アイカツオンパレード！オフィシャルバインダー"
+   },
+   {
+      "ID": "OBD-4 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "スイートギンガムアクセ",
+      "Brand": "メープルリボン",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+      "Points": "300",
+      "Notes": "データカードダス アイカツオンパレード！オフィシャルバインダー"
+   },
+   {
+      "ID": "OPR-1 P",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "オーロラキスキャミソール",
+      "Brand": "エンジェリーシュガー",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "プレミアムエンジェルアロー",
+      "Points": "850",
+      "Notes": "アイカツオンパレード！店頭配布キャンペーン"
+   },
+   {
+      "ID": "FBD-45 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス"
+      ],
+      "Name": "クラシックチェックコルセット",
+      "Brand": "ムーンメイデン",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ミスティックムーン",
+      "Points": "500",
+      "Notes": "アイカツ！バインダー白百合かぐやVer.＆リフレクトムーンセット"
+   },
+   {
+      "ID": "FBD-46 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "ボトムス"
+      ],
+      "Name": "クラシックチェックスカート",
+      "Brand": "ムーンメイデン",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ミスティックムーン",
+      "Points": "550",
+      "Notes": "アイカツ！バインダー白百合かぐやVer.＆リフレクトムーンセット"
+   },
+   {
+      "ID": "FBD-47 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "シューズ"
+      ],
+      "Name": "クラシックチェックパンプス",
+      "Brand": "ムーンメイデン",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ミスティックムーン",
+      "Points": "600",
+      "Notes": "アイカツ！バインダー白百合かぐやVer.＆リフレクトムーンセット"
+   },
+   {
+      "ID": "FBD-48 P",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "アクセサリー"
+      ],
+      "Name": "クラシックチェックヘアアクセ",
+      "Brand": "ムーンメイデン",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ライブのときアピールポイントが少しアップするよ！",
+      "Points": "300",
+      "Notes": "アイカツ！バインダー白百合かぐやVer.＆リフレクトムーンセット"
+   }
+]
