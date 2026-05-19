@@ -1,1 +1,1202 @@
-[{"ID": "FJ2-1 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["トップス"], "Name": "アンジュアクアマリントップス", "Brand": "クラシカルアンジュ", "Type": "キュート", "Appeal": "ジュエリングエンジェルガーデン", "Points": "950", "Notes": "None"}, {"ID": "FJ2-2 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["ボトムス"], "Name": "アンジュアクアマリンスカート", "Brand": "クラシカルアンジュ", "Type": "キュート", "Appeal": "ジュエリングエンジェルガーデン", "Points": "1000", "Notes": "None"}, {"ID": "FJ2-3 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["シューズ"], "Name": "アンジュアクアマリンサンダル", "Brand": "クラシカルアンジュ", "Type": "キュート", "Appeal": "ジュエリングエンジェルガーデン", "Points": "950", "Notes": "None"}, {"ID": "FJ2-4 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["アクセサリー"], "Name": "アンジュアクアマリンティアラ", "Brand": "クラシカルアンジュ", "Type": "キュート", "Appeal": "同じブランドのアピールポイントがすごくアップするよ！", "Points": "550", "Notes": "None"}, {"ID": "FJ2-5 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "クリアピンクユニゾントップス", "Brand": "ピュアパレット", "Type": "キュート", "Appeal": "ベストピュアパレットマーチ", "Points": "950", "Notes": "None"}, {"ID": "FJ2-6 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "クリアピンクユニゾンスカート", "Brand": "ピュアパレット", "Type": "キュート", "Appeal": "ベストピュアパレットマーチ", "Points": "900", "Notes": "None"}, {"ID": "FJ2-7 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "クリアピンクユニゾンパンプス", "Brand": "ピュアパレット", "Type": "キュート", "Appeal": "ベストピュアパレットマーチ", "Points": "900", "Notes": "None"}, {"ID": "FJ2-8 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "クリアピンクユニゾンアクセ", "Brand": "ピュアパレット", "Type": "キュート", "Appeal": "同じフレンズブランドのアピールポイントがアップ！", "Points": "500", "Notes": "None"}, {"ID": "FJ2-9 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ブロッサムバニラブラウス", "Brand": "クラシカルアンジュ", "Type": "キュート", "Appeal": "エンジェルガーデン", "Points": "700", "Notes": "None"}, {"ID": "FJ2-10 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ブロッサムバニラスカート", "Brand": "クラシカルアンジュ", "Type": "キュート", "Appeal": "エンジェルガーデン", "Points": "600", "Notes": "None"}, {"ID": "FJ2-11 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ブロッサムバニラシューズ", "Brand": "クラシカルアンジュ", "Type": "キュート", "Appeal": "エンジェルガーデン", "Points": "650", "Notes": "None"}, {"ID": "FJ2-12 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ブロッサムバニラアクセ", "Brand": "クラシカルアンジュ", "Type": "キュート", "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！", "Points": "400", "Notes": "None"}, {"ID": "FJ2-13 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["トップス"], "Name": "レッドギンガムフラワートップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "キュートスマイル", "Points": "400", "Notes": "None"}, {"ID": "FJ2-14 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["ボトムス"], "Name": "レッドギンガムフラワーショーパン", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "キュートスマイル", "Points": "350", "Notes": "None"}, {"ID": "FJ2-15 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["シューズ"], "Name": "レッドギンガムフラワーウェッジソール", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "キュートスマイル", "Points": "350", "Notes": "None"}, {"ID": "FJ2-16 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["トップス"], "Name": "グロリアスエメラルドジャケット", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "ジュエリンググロリアスキャッスル", "Points": "950", "Notes": "None"}, {"ID": "FJ2-17 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["ボトムス"], "Name": "グロリアスエメラルドスカート", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "ジュエリンググロリアスキャッスル", "Points": "950", "Notes": "None"}, {"ID": "FJ2-18 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["シューズ"], "Name": "グロリアスエメラルドブーツ", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "ジュエリンググロリアスキャッスル", "Points": "1000", "Notes": "None"}, {"ID": "FJ2-19 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["アクセサリー"], "Name": "グロリアスエメラルドアクセ", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "同じブランドのアピールポイントがすごくアップするよ！", "Points": "550", "Notes": "None"}, {"ID": "FJ2-16 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["トップス"], "Name": "グロリアスエメラルドジャケット", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "ジュエリンググロリアスキャッスル", "Points": "950", "Notes": "サインカード"}, {"ID": "FJ2-17 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["ボトムス"], "Name": "グロリアスエメラルドスカート", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "ジュエリンググロリアスキャッスル", "Points": "950", "Notes": "サインカード"}, {"ID": "FJ2-18 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["シューズ"], "Name": "グロリアスエメラルドブーツ", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "ジュエリンググロリアスキャッスル", "Points": "1000", "Notes": "サインカード"}, {"ID": "FJ2-19 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["アクセサリー"], "Name": "グロリアスエメラルドアクセ", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "同じブランドのアピールポイントがすごくアップするよ！", "Points": "550", "Notes": "サインカード"}, {"ID": "FJ2-20 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "アウルムスノートップス", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "プレミアムグロリアスキャッスル", "Points": "900", "Notes": "None"}, {"ID": "FJ2-21 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "アウルムスノースカート", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "プレミアムグロリアスキャッスル", "Points": "950", "Notes": "None"}, {"ID": "FJ2-22 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "アウルムスノーハイヒール", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "プレミアムグロリアスキャッスル", "Points": "900", "Notes": "None"}, {"ID": "FJ2-23 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "アウルムスノーバレッタ", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "同じブランドのアピールポイントがアップするよ！", "Points": "500", "Notes": "None"}, {"ID": "FJ2-24 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "クリアブルーユニゾントップス", "Brand": "ピュアパレット", "Type": "クール", "Appeal": "ベストピュアパレットマーチ", "Points": "950", "Notes": "None"}, {"ID": "FJ2-25 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "クリアブルーユニゾンスカート", "Brand": "ピュアパレット", "Type": "クール", "Appeal": "ベストピュアパレットマーチ", "Points": "900", "Notes": "None"}, {"ID": "FJ2-26 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "クリアブルーユニゾンパンプス", "Brand": "ピュアパレット", "Type": "クール", "Appeal": "ベストピュアパレットマーチ", "Points": "900", "Notes": "None"}, {"ID": "FJ2-27 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "クリアブルーユニゾンアクセ", "Brand": "ピュアパレット", "Type": "クール", "Appeal": "同じフレンズブランドのスペシャルアピールが強くなるよ！", "Points": "500", "Notes": "None"}, {"ID": "FJ2-28 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ロイヤルブラックジャケット", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "グロリアスキャッスル", "Points": "600", "Notes": "None"}, {"ID": "FJ2-29 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ロイヤルブラックスカート", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "グロリアスキャッスル", "Points": "650", "Notes": "None"}, {"ID": "FJ2-30 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ロイヤルブラックブーツ", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "グロリアスキャッスル", "Points": "700", "Notes": "None"}, {"ID": "FJ2-31 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ロイヤルブラックアクセ", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！", "Points": "400", "Notes": "None"}, {"ID": "FJ2-32 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "クラシックブルーノーブルトップス", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "グロリアスキャッスル", "Points": "700", "Notes": "None"}, {"ID": "FJ2-33 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "クラシックブルーノーブルボトムス", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "グロリアスキャッスル", "Points": "650", "Notes": "None"}, {"ID": "FJ2-34 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "クラシックブルーノーブルロングブーツ", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "グロリアスキャッスル", "Points": "600", "Notes": "None"}, {"ID": "FJ2-35 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "クラシックブルーノーブルカチューシャ", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "クールタイプのアピールポイントが少しアップするよ！", "Points": "400", "Notes": "None"}, {"ID": "FJ2-36 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["トップス"], "Name": "ブラックボルドーフレンチスリーブ", "Brand": ["ノーブランド"], "Type": "クール", "Appeal": "クールスマイル", "Points": "350", "Notes": "None"}, {"ID": "FJ2-37 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["ボトムス"], "Name": "ブラックボルドースキニーパンツ", "Brand": ["ノーブランド"], "Type": "クール", "Appeal": "クールスマイル", "Points": "400", "Notes": "None"}, {"ID": "FJ2-38 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["シューズ"], "Name": "ブラックボルドーブーツ", "Brand": ["ノーブランド"], "Type": "クール", "Appeal": "クールスマイル", "Points": "350", "Notes": "None"}, {"ID": "FJ2-39 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "バタフライラメレッドトップス", "Brand": "ダンシングミラージュ", "Type": "セクシー", "Appeal": "バタフライビート", "Points": "700", "Notes": "None"}, {"ID": "FJ2-40 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "バタフライラメレッドスカート", "Brand": "ダンシングミラージュ", "Type": "セクシー", "Appeal": "バタフライビート", "Points": "650", "Notes": "None"}, {"ID": "FJ2-41 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "バタフライラメレッドパンプス", "Brand": "ダンシングミラージュ", "Type": "セクシー", "Appeal": "バタフライビート", "Points": "600", "Notes": "None"}, {"ID": "FJ2-42 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "バタフライラメレッドアクセ", "Brand": "ダンシングミラージュ", "Type": "セクシー", "Appeal": "同じブランドのアピールポイントが少しアップするよ！", "Points": "400", "Notes": "None"}, {"ID": "FJ2-43 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["トップス"], "Name": "サンセットリゾートニット", "Brand": ["ノーブランド"], "Type": "セクシー", "Appeal": "セクシースマイル", "Points": "400", "Notes": "None"}, {"ID": "FJ2-44 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["ボトムス"], "Name": "サンセットリゾートスカート", "Brand": ["ノーブランド"], "Type": "セクシー", "Appeal": "セクシースマイル", "Points": "350", "Notes": "None"}, {"ID": "FJ2-45 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["シューズ"], "Name": "サンセットリゾートフリンジサンダル", "Brand": ["ノーブランド"], "Type": "セクシー", "Appeal": "セクシースマイル", "Points": "350", "Notes": "None"}, {"ID": "FJ2-46 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["トップス"], "Name": "ジョーカーガーネットパフスリトップス", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "ジュエリングミルキーボム", "Points": "1000", "Notes": "None"}, {"ID": "FJ2-47 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["ボトムス"], "Name": "ジョーカーガーネットスカート", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "ジュエリングミルキーボム", "Points": "950", "Notes": "None"}, {"ID": "FJ2-48 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["シューズ"], "Name": "ジョーカーガーネットブーツ", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "ジュエリングミルキーボム", "Points": "950", "Notes": "None"}, {"ID": "FJ2-49 JLR", "RarityFull": "ジュエリングレア", "RarityFig": "★★★★", "Category": ["アクセサリー"], "Name": "ジョーカーガーネットアクセ", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "同じブランドのアピールポイントがすごくアップするよ！", "Points": "550", "Notes": "None"}, {"ID": "FJ2-50 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "パープルジェリーマーブルパフスリーブ", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "ミルキーボム", "Points": "650", "Notes": "None"}, {"ID": "FJ2-51 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "パープルジェリーマーブルスカート", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "ミルキーボム", "Points": "600", "Notes": "None"}, {"ID": "FJ2-52 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "パープルジェリーマーブルシューズ", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "ミルキーボム", "Points": "700", "Notes": "None"}, {"ID": "FJ2-53 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "パープルジェリーマーブルアクセ", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！", "Points": "400", "Notes": "None"}, {"ID": "FJ2-54 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["トップス"], "Name": "フレッシュハイビスカスノースリーブ", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "ポップスマイル", "Points": "350", "Notes": "None"}, {"ID": "FJ2-55 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["ボトムス"], "Name": "フレッシュハイビスカススカート", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "ポップスマイル", "Points": "350", "Notes": "None"}, {"ID": "FJ2-56 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["シューズ"], "Name": "フレッシュハイビスカスサンダル", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "ポップスマイル", "Points": "400", "Notes": "None"}, {"ID": "FJ2-57 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ロイヤルオフブラックトップス", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "グロリアスキャッスル", "Points": "550", "Notes": "None"}, {"ID": "FJ2-58 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ロイヤルオフブラックスカート", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "グロリアスキャッスル", "Points": "600", "Notes": "None"}, {"ID": "FJ2-59 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ロイヤルオフブラックブーツ", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "グロリアスキャッスル", "Points": "500", "Notes": "None"}, {"ID": "FJ2-60 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ロイヤルオフブラックアクセ", "Brand": "グロリアススノー", "Type": "クール", "Appeal": "同じブランドのアピールポイントが少しアップするよ！", "Points": "300", "Notes": "None"}, {"ID": "FJ2-61 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ナイトスカイルナブラウス", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "ルナシンフォニア", "Points": "500", "Notes": "None"}, {"ID": "FJ2-62 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ナイトスカイルナスカート", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "ルナシンフォニア", "Points": "450", "Notes": "None"}, {"ID": "FJ2-63 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ナイトスカイルナショートブーツ", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "ルナシンフォニア", "Points": "550", "Notes": "None"}, {"ID": "FJ2-64 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ナイトスカイルナアクセ", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "クールタイプのアピールポイントがアップするよ！", "Points": "350", "Notes": "None"}, {"ID": "FJ2-65 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ムーンセレニティトップス", "Brand": "ムーンメイデン", "Type": "クール", "Appeal": "ミスティックムーン", "Points": "500", "Notes": "None"}, {"ID": "FJ2-66 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ムーンセレニティスカート", "Brand": "ムーンメイデン", "Type": "クール", "Appeal": "ミスティックムーン", "Points": "550", "Notes": "None"}, {"ID": "FJ2-67 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ムーンセレニティパンプス", "Brand": "ムーンメイデン", "Type": "クール", "Appeal": "ミスティックムーン", "Points": "450", "Notes": "None"}, {"ID": "FJ2-68 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ムーンセレニティアクセ", "Brand": "ムーンメイデン", "Type": "クール", "Appeal": "クールタイプのアピールポイントがアップするよ！", "Points": "350", "Notes": "None"}, {"ID": "FJ2-69 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "リリックローズパフスリーブ", "Brand": "ゴシックヴィクトリア", "Type": "クール", "Appeal": "アウェイクメイデン", "Points": "450", "Notes": "None"}, {"ID": "FJ2-70 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "リリックローズスカート", "Brand": "ゴシックヴィクトリア", "Type": "クール", "Appeal": "アウェイクメイデン", "Points": "500", "Notes": "None"}, {"ID": "FJ2-71 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "リリックローズレースブーツ", "Brand": "ゴシックヴィクトリア", "Type": "クール", "Appeal": "アウェイクメイデン", "Points": "550", "Notes": "None"}, {"ID": "FJ2-72 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "リリックローズカチューシャ", "Brand": "ゴシックヴィクトリア", "Type": "クール", "Appeal": "クールタイプのアピールポイントがアップするよ！", "Points": "350", "Notes": "None"}, {"ID": "FJ2-73 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ゴシックナイトメアコルセット", "Brand": "ロリゴシック", "Type": "クール", "Appeal": "クロックサーカス", "Points": "450", "Notes": "None"}, {"ID": "FJ2-74 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ゴシックナイトメアスカート", "Brand": "ロリゴシック", "Type": "クール", "Appeal": "クロックサーカス", "Points": "550", "Notes": "None"}, {"ID": "FJ2-75 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ゴシックナイトメアブーツ", "Brand": "ロリゴシック", "Type": "クール", "Appeal": "クロックサーカス", "Points": "500", "Notes": "None"}, {"ID": "FJ2-76 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ゴシックナイトメアリボンアクセ", "Brand": "ロリゴシック", "Type": "クール", "Appeal": "クールタイプのアピールポイントがアップするよ！", "Points": "350", "Notes": "None"}, {"ID": "FJ2-77 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ミステリアスヴィオラブラウス", "Brand": "ロリゴシック", "Type": "クール", "Appeal": "クロックサーカス", "Points": "550", "Notes": "None"}, {"ID": "FJ2-78 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ミステリアスヴィオラスカート", "Brand": "ロリゴシック", "Type": "クール", "Appeal": "クロックサーカス", "Points": "450", "Notes": "None"}, {"ID": "FJ2-79 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ミステリアスヴィオラベルトパンプス", "Brand": "ロリゴシック", "Type": "クール", "Appeal": "クロックサーカス", "Points": "500", "Notes": "None"}, {"ID": "FJ2-80 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ミステリアスヴィオラミニハット", "Brand": "ロリゴシック", "Type": "クール", "Appeal": "クールタイプのアピールポイントがアップするよ！", "Points": "350", "Notes": "None"}]
+[
+    {
+        "ID": "FJ2-1 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "アンジュアクアマリントップス",
+        "Brand": "クラシカルアンジュ",
+        "Type": "キュート",
+        "Appeal": "ジュエリングエンジェルガーデン",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-2 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "アンジュアクアマリンスカート",
+        "Brand": "クラシカルアンジュ",
+        "Type": "キュート",
+        "Appeal": "ジュエリングエンジェルガーデン",
+        "Points": "1000",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-3 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "アンジュアクアマリンサンダル",
+        "Brand": "クラシカルアンジュ",
+        "Type": "キュート",
+        "Appeal": "ジュエリングエンジェルガーデン",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-4 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "アンジュアクアマリンティアラ",
+        "Brand": "クラシカルアンジュ",
+        "Type": "キュート",
+        "Appeal": "同じブランドのアピールポイントがすごくアップするよ！",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-5 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "クリアピンクユニゾントップス",
+        "Brand": "ピュアパレット",
+        "Type": "キュート",
+        "Appeal": "ベストピュアパレットマーチ",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-6 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "クリアピンクユニゾンスカート",
+        "Brand": "ピュアパレット",
+        "Type": "キュート",
+        "Appeal": "ベストピュアパレットマーチ",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-7 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "クリアピンクユニゾンパンプス",
+        "Brand": "ピュアパレット",
+        "Type": "キュート",
+        "Appeal": "ベストピュアパレットマーチ",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-8 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "クリアピンクユニゾンアクセ",
+        "Brand": "ピュアパレット",
+        "Type": "キュート",
+        "Appeal": "同じフレンズブランドのアピールポイントがアップ！",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-9 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ブロッサムバニラブラウス",
+        "Brand": "クラシカルアンジュ",
+        "Type": "キュート",
+        "Appeal": "エンジェルガーデン",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-10 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ブロッサムバニラスカート",
+        "Brand": "クラシカルアンジュ",
+        "Type": "キュート",
+        "Appeal": "エンジェルガーデン",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-11 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ブロッサムバニラシューズ",
+        "Brand": "クラシカルアンジュ",
+        "Type": "キュート",
+        "Appeal": "エンジェルガーデン",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-12 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ブロッサムバニラアクセ",
+        "Brand": "クラシカルアンジュ",
+        "Type": "キュート",
+        "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-13 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "レッドギンガムフラワートップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "キュートスマイル",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-14 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "レッドギンガムフラワーショーパン",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "キュートスマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-15 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "レッドギンガムフラワーウェッジソール",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "キュートスマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-16 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "グロリアスエメラルドジャケット",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "ジュエリンググロリアスキャッスル",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-17 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "グロリアスエメラルドスカート",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "ジュエリンググロリアスキャッスル",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-18 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "グロリアスエメラルドブーツ",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "ジュエリンググロリアスキャッスル",
+        "Points": "1000",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-19 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "グロリアスエメラルドアクセ",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "同じブランドのアピールポイントがすごくアップするよ！",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-16 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "グロリアスエメラルドジャケット",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "ジュエリンググロリアスキャッスル",
+        "Points": "950",
+        "Notes": "サインカード"
+    },
+    {
+        "ID": "FJ2-17 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "グロリアスエメラルドスカート",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "ジュエリンググロリアスキャッスル",
+        "Points": "950",
+        "Notes": "サインカード"
+    },
+    {
+        "ID": "FJ2-18 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "グロリアスエメラルドブーツ",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "ジュエリンググロリアスキャッスル",
+        "Points": "1000",
+        "Notes": "サインカード"
+    },
+    {
+        "ID": "FJ2-19 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "グロリアスエメラルドアクセ",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "同じブランドのアピールポイントがすごくアップするよ！",
+        "Points": "550",
+        "Notes": "サインカード"
+    },
+    {
+        "ID": "FJ2-20 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "アウルムスノートップス",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "プレミアムグロリアスキャッスル",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-21 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "アウルムスノースカート",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "プレミアムグロリアスキャッスル",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-22 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "アウルムスノーハイヒール",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "プレミアムグロリアスキャッスル",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-23 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "アウルムスノーバレッタ",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "同じブランドのアピールポイントがアップするよ！",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-24 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "クリアブルーユニゾントップス",
+        "Brand": "ピュアパレット",
+        "Type": "クール",
+        "Appeal": "ベストピュアパレットマーチ",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-25 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "クリアブルーユニゾンスカート",
+        "Brand": "ピュアパレット",
+        "Type": "クール",
+        "Appeal": "ベストピュアパレットマーチ",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-26 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "クリアブルーユニゾンパンプス",
+        "Brand": "ピュアパレット",
+        "Type": "クール",
+        "Appeal": "ベストピュアパレットマーチ",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-27 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "クリアブルーユニゾンアクセ",
+        "Brand": "ピュアパレット",
+        "Type": "クール",
+        "Appeal": "同じフレンズブランドのスペシャルアピールが強くなるよ！",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-28 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ロイヤルブラックジャケット",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "グロリアスキャッスル",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-29 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ロイヤルブラックスカート",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "グロリアスキャッスル",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-30 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ロイヤルブラックブーツ",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "グロリアスキャッスル",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-31 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ロイヤルブラックアクセ",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-32 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "クラシックブルーノーブルトップス",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "グロリアスキャッスル",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-33 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "クラシックブルーノーブルボトムス",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "グロリアスキャッスル",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-34 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "クラシックブルーノーブルロングブーツ",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "グロリアスキャッスル",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-35 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "クラシックブルーノーブルカチューシャ",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "クールタイプのアピールポイントが少しアップするよ！",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-36 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ブラックボルドーフレンチスリーブ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "クール",
+        "Appeal": "クールスマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-37 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ブラックボルドースキニーパンツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "クール",
+        "Appeal": "クールスマイル",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-38 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ブラックボルドーブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "クール",
+        "Appeal": "クールスマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-39 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "バタフライラメレッドトップス",
+        "Brand": "ダンシングミラージュ",
+        "Type": "セクシー",
+        "Appeal": "バタフライビート",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-40 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "バタフライラメレッドスカート",
+        "Brand": "ダンシングミラージュ",
+        "Type": "セクシー",
+        "Appeal": "バタフライビート",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-41 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "バタフライラメレッドパンプス",
+        "Brand": "ダンシングミラージュ",
+        "Type": "セクシー",
+        "Appeal": "バタフライビート",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-42 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "バタフライラメレッドアクセ",
+        "Brand": "ダンシングミラージュ",
+        "Type": "セクシー",
+        "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-43 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "サンセットリゾートニット",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "セクシー",
+        "Appeal": "セクシースマイル",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-44 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "サンセットリゾートスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "セクシー",
+        "Appeal": "セクシースマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-45 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "サンセットリゾートフリンジサンダル",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "セクシー",
+        "Appeal": "セクシースマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-46 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ジョーカーガーネットパフスリトップス",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "ジュエリングミルキーボム",
+        "Points": "1000",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-47 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ジョーカーガーネットスカート",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "ジュエリングミルキーボム",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-48 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ジョーカーガーネットブーツ",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "ジュエリングミルキーボム",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-49 JLR",
+        "RarityFull": "ジュエリングレア",
+        "RarityFig": "★★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ジョーカーガーネットアクセ",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "同じブランドのアピールポイントがすごくアップするよ！",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-50 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "パープルジェリーマーブルパフスリーブ",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "ミルキーボム",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-51 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "パープルジェリーマーブルスカート",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "ミルキーボム",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-52 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "パープルジェリーマーブルシューズ",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "ミルキーボム",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-53 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "パープルジェリーマーブルアクセ",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-54 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "フレッシュハイビスカスノースリーブ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "ポップスマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-55 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "フレッシュハイビスカススカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "ポップスマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-56 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "フレッシュハイビスカスサンダル",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "ポップスマイル",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-57 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ロイヤルオフブラックトップス",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "グロリアスキャッスル",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-58 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ロイヤルオフブラックスカート",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "グロリアスキャッスル",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-59 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ロイヤルオフブラックブーツ",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "グロリアスキャッスル",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-60 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ロイヤルオフブラックアクセ",
+        "Brand": "グロリアススノー",
+        "Type": "クール",
+        "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+        "Points": "300",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-61 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ナイトスカイルナブラウス",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "ルナシンフォニア",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-62 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ナイトスカイルナスカート",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "ルナシンフォニア",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-63 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ナイトスカイルナショートブーツ",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "ルナシンフォニア",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-64 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ナイトスカイルナアクセ",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "クールタイプのアピールポイントがアップするよ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-65 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ムーンセレニティトップス",
+        "Brand": "ムーンメイデン",
+        "Type": "クール",
+        "Appeal": "ミスティックムーン",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-66 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ムーンセレニティスカート",
+        "Brand": "ムーンメイデン",
+        "Type": "クール",
+        "Appeal": "ミスティックムーン",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-67 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ムーンセレニティパンプス",
+        "Brand": "ムーンメイデン",
+        "Type": "クール",
+        "Appeal": "ミスティックムーン",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-68 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ムーンセレニティアクセ",
+        "Brand": "ムーンメイデン",
+        "Type": "クール",
+        "Appeal": "クールタイプのアピールポイントがアップするよ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-69 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "リリックローズパフスリーブ",
+        "Brand": "ゴシックヴィクトリア",
+        "Type": "クール",
+        "Appeal": "アウェイクメイデン",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-70 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "リリックローズスカート",
+        "Brand": "ゴシックヴィクトリア",
+        "Type": "クール",
+        "Appeal": "アウェイクメイデン",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-71 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "リリックローズレースブーツ",
+        "Brand": "ゴシックヴィクトリア",
+        "Type": "クール",
+        "Appeal": "アウェイクメイデン",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-72 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "リリックローズカチューシャ",
+        "Brand": "ゴシックヴィクトリア",
+        "Type": "クール",
+        "Appeal": "クールタイプのアピールポイントがアップするよ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-73 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ゴシックナイトメアコルセット",
+        "Brand": "ロリゴシック",
+        "Type": "クール",
+        "Appeal": "クロックサーカス",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-74 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ゴシックナイトメアスカート",
+        "Brand": "ロリゴシック",
+        "Type": "クール",
+        "Appeal": "クロックサーカス",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-75 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ゴシックナイトメアブーツ",
+        "Brand": "ロリゴシック",
+        "Type": "クール",
+        "Appeal": "クロックサーカス",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-76 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ゴシックナイトメアリボンアクセ",
+        "Brand": "ロリゴシック",
+        "Type": "クール",
+        "Appeal": "クールタイプのアピールポイントがアップするよ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-77 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ミステリアスヴィオラブラウス",
+        "Brand": "ロリゴシック",
+        "Type": "クール",
+        "Appeal": "クロックサーカス",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-78 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ミステリアスヴィオラスカート",
+        "Brand": "ロリゴシック",
+        "Type": "クール",
+        "Appeal": "クロックサーカス",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-79 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ミステリアスヴィオラベルトパンプス",
+        "Brand": "ロリゴシック",
+        "Type": "クール",
+        "Appeal": "クロックサーカス",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "FJ2-80 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ミステリアスヴィオラミニハット",
+        "Brand": "ロリゴシック",
+        "Type": "クール",
+        "Appeal": "クールタイプのアピールポイントがアップするよ！",
+        "Points": "350",
+        "Notes": "None"
+    }
+]

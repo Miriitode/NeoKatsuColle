@@ -1,1 +1,1980 @@
-[{"ID": "F3-1 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ミントフィーユフリルトップス", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "ドリームメロディ", "Points": "600", "Notes": "None"}, {"ID": "F3-2 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ミントフィーユスカート", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "ドリームメロディ", "Points": "700", "Notes": "None"}, {"ID": "F3-3 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ミントフィーユサンダル", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "ドリームメロディ", "Points": "650", "Notes": "None"}, {"ID": "F3-4 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ミントフィーユアクセサリー", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！", "Points": "400", "Notes": "None"}, {"ID": "F3-5 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "マーメードブルートップス", "Brand": "クラシカルアンジュ", "Type": "キュート", "Appeal": "エンジェルガーデン", "Points": "650", "Notes": "None"}, {"ID": "F3-6 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "マーメードブルースカート", "Brand": "クラシカルアンジュ", "Type": "キュート", "Appeal": "エンジェルガーデン", "Points": "700", "Notes": "None"}, {"ID": "F3-7 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "マーメードブルーサンダル", "Brand": "クラシカルアンジュ", "Type": "キュート", "Appeal": "エンジェルガーデン", "Points": "600", "Notes": "None"}, {"ID": "F3-8 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "マーメードブルーカチューシャ", "Brand": "クラシカルアンジュ", "Type": "キュート", "Appeal": "同じブランドのアピールポイントが少しアップするよ！", "Points": "400", "Notes": "None"}, {"ID": "F3-9 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["トップス"], "Name": "ピンキーホリデイノースリトップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "キュートスマイル", "Points": "350", "Notes": "None"}, {"ID": "F3-10 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["ボトムス"], "Name": "ピンキーホリデイスカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "キュートスマイル", "Points": "350", "Notes": "None"}, {"ID": "F3-11 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["シューズ"], "Name": "ピンキーホリデイウェッジソール", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "キュートスマイル", "Points": "400", "Notes": "None"}, {"ID": "F3-12 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "アクアパレットトップス", "Brand": "ピュアパレット", "Type": "クール", "Appeal": "ベストピュアパレットマーチ", "Points": "950", "Notes": "None"}, {"ID": "F3-13 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "アクアパレットスカート", "Brand": "ピュアパレット", "Type": "クール", "Appeal": "ベストピュアパレットマーチ", "Points": "900", "Notes": "None"}, {"ID": "F3-14 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "アクアパレットショートブーツ", "Brand": "ピュアパレット", "Type": "クール", "Appeal": "ベストピュアパレットマーチ", "Points": "900", "Notes": "None"}, {"ID": "F3-15 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "アクアパレットリボンアクセ", "Brand": "ピュアパレット", "Type": "クール", "Appeal": "同じフレンズブランドのアピールポイントがアップ！", "Points": "500", "Notes": "None"}, {"ID": "F3-16 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "ブルームパレットトップス", "Brand": "ピュアパレット", "Type": "クール", "Appeal": "ベストピュアパレットマーチ", "Points": "900", "Notes": "None"}, {"ID": "F3-17 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "ブルームパレットスカート", "Brand": "ピュアパレット", "Type": "クール", "Appeal": "ベストピュアパレットマーチ", "Points": "950", "Notes": "None"}, {"ID": "F3-18 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "ブルームパレットショートブーツ", "Brand": "ピュアパレット", "Type": "クール", "Appeal": "ベストピュアパレットマーチ", "Points": "900", "Notes": "None"}, {"ID": "F3-19 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "ブルームパレットリボンアクセ", "Brand": "ピュアパレット", "Type": "クール", "Appeal": "同じフレンズブランドのスペシャルアピールが強くなるよ！", "Points": "500", "Notes": "None"}, {"ID": "F3-20 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "ノクターンナイトコルセット", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "プレミアムルナシンフォニア", "Points": "950", "Notes": "None"}, {"ID": "F3-21 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "ノクターンナイトスカート", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "プレミアムルナシンフォニア", "Points": "900", "Notes": "None"}, {"ID": "F3-22 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "ノクターンナイトパンプス", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "プレミアムルナシンフォニア", "Points": "900", "Notes": "None"}, {"ID": "F3-23 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "ノクターンナイトアクセサリー", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "同じブランドのアピールポイントがアップするよ！", "Points": "500", "Notes": "None"}, {"ID": "F3-24 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "スカーレットクライシストップス", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "ルナシンフォニア", "Points": "650", "Notes": "None"}, {"ID": "F3-25 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "スカーレットクライシススカート", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "ルナシンフォニア", "Points": "600", "Notes": "None"}, {"ID": "F3-26 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "スカーレットクライシスロングブーツ", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "ルナシンフォニア", "Points": "700", "Notes": "None"}, {"ID": "F3-27 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "スカーレットクライシスカチューシャ", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "クールタイプのアピールポイントが少しアップするよ！", "Points": "400", "Notes": "None"}, {"ID": "F3-28 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ミッドナイトインディゴトップス", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "ルナシンフォニア", "Points": "700", "Notes": "None"}, {"ID": "F3-29 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ミッドナイトインディゴスカート", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "ルナシンフォニア", "Points": "650", "Notes": "None"}, {"ID": "F3-30 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ミッドナイトインディゴブーツ", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "ルナシンフォニア", "Points": "600", "Notes": "None"}, {"ID": "F3-31 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ミッドナイトインディゴリボン", "Brand": "ルナウィッチ", "Type": "クール", "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！", "Points": "400", "Notes": "None"}, {"ID": "F3-32 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["トップス"], "Name": "ターコイズグリーントップス", "Brand": ["ノーブランド"], "Type": "クール", "Appeal": "クールスマイル", "Points": "350", "Notes": "None"}, {"ID": "F3-33 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["ボトムス"], "Name": "ターコイズグリーンスカート", "Brand": ["ノーブランド"], "Type": "クール", "Appeal": "クールスマイル", "Points": "400", "Notes": "None"}, {"ID": "F3-34 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["シューズ"], "Name": "ターコイズグリーンショートブーツ", "Brand": ["ノーブランド"], "Type": "クール", "Appeal": "クールスマイル", "Points": "350", "Notes": "None"}, {"ID": "F3-35 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ドーリーレディトップス", "Brand": "ハニーキャット", "Type": "セクシー", "Appeal": "ハニーキャットマーチ", "Points": "700", "Notes": "None"}, {"ID": "F3-36 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ドーリーレディスカート", "Brand": "ハニーキャット", "Type": "セクシー", "Appeal": "ハニーキャットマーチ", "Points": "650", "Notes": "None"}, {"ID": "F3-37 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ドーリーレディシューズ", "Brand": "ハニーキャット", "Type": "セクシー", "Appeal": "ハニーキャットマーチ", "Points": "600", "Notes": "None"}, {"ID": "F3-38 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ドーリーレディボーラーハット", "Brand": "ハニーキャット", "Type": "セクシー", "Appeal": "セクシーフレンズボーナス中にアピールポイントが少しアップ！", "Points": "400", "Notes": "None"}, {"ID": "F3-39 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "チャーミーレディトップス", "Brand": "ハニーキャット", "Type": "セクシー", "Appeal": "ハニーキャットマーチ", "Points": "650", "Notes": "None"}, {"ID": "F3-40 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "チャーミーレディスカート", "Brand": "ハニーキャット", "Type": "セクシー", "Appeal": "ハニーキャットマーチ", "Points": "600", "Notes": "None"}, {"ID": "F3-41 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "チャーミーレディシューズ", "Brand": "ハニーキャット", "Type": "セクシー", "Appeal": "ハニーキャットマーチ", "Points": "700", "Notes": "None"}, {"ID": "F3-42 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "チャーミーレディボーラーハット", "Brand": "ハニーキャット", "Type": "セクシー", "Appeal": "セクシーフレンズボーナス中にアピールポイントが少しアップ！", "Points": "400", "Notes": "None"}, {"ID": "F3-43 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ジャパネスクフェスタトップス", "Brand": "ダンシングミラージュ", "Type": "セクシー", "Appeal": "バタフライビート", "Points": "650", "Notes": "None"}, {"ID": "F3-44 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ジャパネスクフェスタフリルパンツ", "Brand": "ダンシングミラージュ", "Type": "セクシー", "Appeal": "バタフライビート", "Points": "700", "Notes": "None"}, {"ID": "F3-45 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ジャパネスクフェスタサイハイブーツ", "Brand": "ダンシングミラージュ", "Type": "セクシー", "Appeal": "バタフライビート", "Points": "600", "Notes": "None"}, {"ID": "F3-46 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ジャパネスクフェスタアクセ", "Brand": "ダンシングミラージュ", "Type": "セクシー", "Appeal": "同じブランドのアピールポイントが少しアップするよ！", "Points": "400", "Notes": "None"}, {"ID": "F3-47 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["トップス"], "Name": "アーバンスタイルトップス", "Brand": ["ノーブランド"], "Type": "セクシー", "Appeal": "セクシースマイル", "Points": "400", "Notes": "None"}, {"ID": "F3-48 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["ボトムス"], "Name": "アーバンスタイルデニム", "Brand": ["ノーブランド"], "Type": "セクシー", "Appeal": "セクシースマイル", "Points": "350", "Notes": "None"}, {"ID": "F3-49 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["シューズ"], "Name": "アーバンスタイルサンダル", "Brand": ["ノーブランド"], "Type": "セクシー", "Appeal": "セクシースマイル", "Points": "350", "Notes": "None"}, {"ID": "F3-50 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "ハーティフラムトップス", "Brand": "ラブミーティア", "Type": "ポップ", "Appeal": "ベストラブミーティアマーチ", "Points": "900", "Notes": "None"}, {"ID": "F3-51 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "ハーティフラムスカート", "Brand": "ラブミーティア", "Type": "ポップ", "Appeal": "ベストラブミーティアマーチ", "Points": "900", "Notes": "None"}, {"ID": "F3-52 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "ハーティフラムパンプス", "Brand": "ラブミーティア", "Type": "ポップ", "Appeal": "ベストラブミーティアマーチ", "Points": "950", "Notes": "None"}, {"ID": "F3-53 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "ハーティフラムクラウン", "Brand": "ラブミーティア", "Type": "ポップ", "Appeal": "同じフレンズブランドのアピールポイントがアップ！", "Points": "500", "Notes": "None"}, {"ID": "F3-54 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "ハーティリュミエールトップス", "Brand": "ラブミーティア", "Type": "ポップ", "Appeal": "ベストラブミーティアマーチ", "Points": "950", "Notes": "None"}, {"ID": "F3-55 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "ハーティリュミエールスカート", "Brand": "ラブミーティア", "Type": "ポップ", "Appeal": "ベストラブミーティアマーチ", "Points": "900", "Notes": "None"}, {"ID": "F3-56 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "ハーティリュミエールパンプス", "Brand": "ラブミーティア", "Type": "ポップ", "Appeal": "ベストラブミーティアマーチ", "Points": "900", "Notes": "None"}, {"ID": "F3-57 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "ハーティリュミエールクラウン", "Brand": "ラブミーティア", "Type": "ポップ", "Appeal": "同じフレンズブランドのスペシャルアピールが強くなるよ！", "Points": "500", "Notes": "None"}, {"ID": "F3-58 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "シェイキンパーティートップス", "Brand": "カラフルシェイク", "Type": "ポップ", "Appeal": "プレミアムカラフルショット", "Points": "900", "Notes": "None"}, {"ID": "F3-59 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "シェイキンパーティースカート", "Brand": "カラフルシェイク", "Type": "ポップ", "Appeal": "プレミアムカラフルショット", "Points": "950", "Notes": "None"}, {"ID": "F3-60 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "シェイキンパーティースニーカー", "Brand": "カラフルシェイク", "Type": "ポップ", "Appeal": "プレミアムカラフルショット", "Points": "900", "Notes": "None"}, {"ID": "F3-61 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "シェイキンパーティーカチューシャ", "Brand": "カラフルシェイク", "Type": "ポップ", "Appeal": "同じブランドのアピールポイントがアップするよ！", "Points": "500", "Notes": "None"}, {"ID": "F3-62 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ホワイトレトロスポトップス", "Brand": "カラフルシェイク", "Type": "ポップ", "Appeal": "カラフルショット", "Points": "650", "Notes": "None"}, {"ID": "F3-63 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ホワイトレトロスポスカート", "Brand": "カラフルシェイク", "Type": "ポップ", "Appeal": "カラフルショット", "Points": "600", "Notes": "None"}, {"ID": "F3-64 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ホワイトレトロスポシューズ", "Brand": "カラフルシェイク", "Type": "ポップ", "Appeal": "カラフルショット", "Points": "700", "Notes": "None"}, {"ID": "F3-65 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ホワイトレトロスポミニカンカン帽", "Brand": "カラフルシェイク", "Type": "ポップ", "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！", "Points": "400", "Notes": "None"}, {"ID": "F3-66 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["トップス"], "Name": "ファインフラワートップス", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "ポップスマイル", "Points": "350", "Notes": "None"}, {"ID": "F3-67 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["ボトムス"], "Name": "ファインフラワーショーパン", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "ポップスマイル", "Points": "400", "Notes": "None"}, {"ID": "F3-68 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["シューズ"], "Name": "ファインフラワーサンダル", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "ポップスマイル", "Points": "350", "Notes": "None"}, {"ID": "F3-69 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "トゥインクルティアーズトップス", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "ラブミーティアマーチ", "Points": "500", "Notes": "None"}, {"ID": "F3-70 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "トゥインクルティアーズスカート", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "ラブミーティアマーチ", "Points": "550", "Notes": "None"}, {"ID": "F3-71 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "トゥインクルティアーズブーツ", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "ラブミーティアマーチ", "Points": "450", "Notes": "None"}, {"ID": "F3-72 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "トゥインクルティアーズリボンカチューシャ", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "キュートフレンズボーナス中にアピールポイントが少しアップ！", "Points": "350", "Notes": "None"}, {"ID": "F3-73 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "スパークルティアーズトップス", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "ラブミーティアマーチ", "Points": "550", "Notes": "None"}, {"ID": "F3-74 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "スパークルティアーズスカート", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "ラブミーティアマーチ", "Points": "450", "Notes": "None"}, {"ID": "F3-75 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "スパークルティアーズブーツ", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "ラブミーティアマーチ", "Points": "500", "Notes": "None"}, {"ID": "F3-76 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "スパークルティアーズリボンカチューシャ", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "キュートフレンズボーナス中にスペシャルアピールが少しアップ！", "Points": "350", "Notes": "None"}, {"ID": "F3-77 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ドリームエピソードトップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "スターズマーチ", "Points": "500", "Notes": "None"}, {"ID": "F3-78 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ドリームエピソードスカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "スターズマーチ", "Points": "550", "Notes": "None"}, {"ID": "F3-79 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ドリームエピソードパンプス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "スターズマーチ", "Points": "450", "Notes": "None"}, {"ID": "F3-80 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ドリームエピソードアクセサリー", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズのときにアピールポイントが少しアップ！", "Points": "350", "Notes": "None"}, {"ID": "F3-81 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "プリンセスエピソードトップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "スターズマーチ", "Points": "500", "Notes": "None"}, {"ID": "F3-82 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "プリンセスエピソードスカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "スターズマーチ", "Points": "450", "Notes": "None"}, {"ID": "F3-83 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "プリンセスエピソードパンプス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "スターズマーチ", "Points": "550", "Notes": "None"}, {"ID": "F3-84 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "プリンセスエピソードアクセサリー", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズのときにリズムゲームのポイントが少しアップ！", "Points": "350", "Notes": "None"}, {"ID": "F3-85 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ライジングピンクトップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "500", "Notes": "None"}, {"ID": "F3-86 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ライジングピンクスカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "550", "Notes": "None"}, {"ID": "F3-87 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ライジングピンクサイハイブーツ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "450", "Notes": "None"}, {"ID": "F3-88 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ライジングピンクサンアクセ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズフィーバーのポイントが少しアップするよ！", "Points": "350", "Notes": "None"}, {"ID": "F3-89 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ライジングオレンジトップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "550", "Notes": "None"}, {"ID": "F3-90 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ライジングオレンジスカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "500", "Notes": "None"}, {"ID": "F3-91 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ライジングオレンジサイハイブーツ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "450", "Notes": "None"}, {"ID": "F3-92 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ライジングオレンジサンアクセ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "キュートフレンズボーナス中にアピールポイントが少しアップ！", "Points": "350", "Notes": "None"}, {"ID": "F3-93 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ライジングパープルトップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "450", "Notes": "None"}, {"ID": "F3-94 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ライジングパープルスカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "500", "Notes": "None"}, {"ID": "F3-95 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ライジングパープルサイハイブーツ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "550", "Notes": "None"}, {"ID": "F3-96 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ライジングパープルサンアクセ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "キュートフレンズボーナス中にスペシャルアピールが少しアップ！", "Points": "350", "Notes": "None"}, {"ID": "F3-97 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ピンクスターダストトップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "550", "Notes": "None"}, {"ID": "F3-98 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ピンクスターダストスカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "450", "Notes": "None"}, {"ID": "F3-99 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ピンクスターダストブーツ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "500", "Notes": "None"}, {"ID": "F3-100 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ピンクスターダストフラワーアクセ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズのときにアピールポイントが少しアップ！", "Points": "350", "Notes": "None"}, {"ID": "F3-101 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ライラックスターダストトップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "450", "Notes": "None"}, {"ID": "F3-102 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ライラックスターダストスカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "550", "Notes": "None"}, {"ID": "F3-103 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ライラックスターダストブーツ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "500", "Notes": "None"}, {"ID": "F3-104 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ライラックスターダストフラワーアクセ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズのときにリズムゲームのポイントが少しアップ！", "Points": "350", "Notes": "None"}, {"ID": "F3-105 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "マーガレットスターダストトップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "500", "Notes": "None"}, {"ID": "F3-106 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "マーガレットスターダストスカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "550", "Notes": "None"}, {"ID": "F3-107 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "マーガレットスターダストブーツ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "トリオフライト", "Points": "450", "Notes": "None"}, {"ID": "F3-108 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "マーガレットスターダストフラワーアクセ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズフィーバーのポイントが少しアップするよ！", "Points": "350", "Notes": "None"}, {"ID": "F3-109 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "スイートライムライトトップス", "Brand": "フワフワドリーム", "Type": "ポップ", "Appeal": "プレミアムミルキードリーミータイム", "Points": "900", "Notes": "None"}, {"ID": "F3-110 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "スイートライムライトスカート", "Brand": "フワフワドリーム", "Type": "ポップ", "Appeal": "プレミアムミルキードリーミータイム", "Points": "900", "Notes": "None"}, {"ID": "F3-111 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "スイートライムライトパンプス", "Brand": "フワフワドリーム", "Type": "ポップ", "Appeal": "プレミアムミルキードリーミータイム", "Points": "950", "Notes": "None"}, {"ID": "F3-112 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "スイートライムライトカチューシャ", "Brand": "フワフワドリーム", "Type": "ポップ", "Appeal": "ポップタイプのアピールポイントがアップするよ！", "Points": "500", "Notes": "None"}, {"ID": "F3-113 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ハッピーピクニックトップス", "Brand": "マイリトルハート", "Type": "キュート", "Appeal": "ハートフルワールド", "Points": "650", "Notes": "None"}, {"ID": "F3-114 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ハッピーピクニックスカート", "Brand": "マイリトルハート", "Type": "キュート", "Appeal": "ハートフルワールド", "Points": "600", "Notes": "None"}, {"ID": "F3-115 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ハッピーピクニックブーツ", "Brand": "マイリトルハート", "Type": "キュート", "Appeal": "ハートフルワールド", "Points": "550", "Notes": "None"}, {"ID": "F3-116 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ピクニックリボンアクセ", "Brand": "マイリトルハート", "Type": "キュート", "Appeal": "キュートタイプのアピールポイントが少しアップするよ！", "Points": "350", "Notes": "None"}, {"ID": "F3-117 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ファントムタキシードトップス", "Brand": "スパイスコード", "Type": "クール", "Appeal": "アンチェインコード", "Points": "650", "Notes": "None"}, {"ID": "F3-118 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ファントムタキシードボトムス", "Brand": "スパイスコード", "Type": "クール", "Appeal": "アンチェインコード", "Points": "600", "Notes": "None"}, {"ID": "F3-119 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ファントムタキシードシューズ", "Brand": "スパイスコード", "Type": "クール", "Appeal": "アンチェインコード", "Points": "550", "Notes": "None"}, {"ID": "F3-120 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ファントムタキシードアクセ", "Brand": "スパイスコード", "Type": "クール", "Appeal": "クールタイプのアピールポイントが少しアップするよ！", "Points": "350", "Notes": "None"}, {"ID": "F3-121 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ブレーズロータストップス", "Brand": "ロマンスキス", "Type": "セクシー", "Appeal": "キッシングジュエル", "Points": "650", "Notes": "None"}, {"ID": "F3-122 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ブレーズロータススカート", "Brand": "ロマンスキス", "Type": "セクシー", "Appeal": "キッシングジュエル", "Points": "600", "Notes": "None"}, {"ID": "F3-123 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ブレーズロータスサンダル", "Brand": "ロマンスキス", "Type": "セクシー", "Appeal": "キッシングジュエル", "Points": "550", "Notes": "None"}, {"ID": "F3-124 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ブレーズロータスリボン", "Brand": "ロマンスキス", "Type": "セクシー", "Appeal": "セクシータイプのアピールポイントが少しアップするよ！", "Points": "350", "Notes": "None"}, {"ID": "F3-125 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["トップス"], "Name": "ガーリークロノストップス", "Brand": "ドリーミークラウン", "Type": "キュート", "Appeal": "ドリーミングハート", "Points": "300", "Notes": "None"}, {"ID": "F3-126 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["ボトムス"], "Name": "ガーリークロノススカート", "Brand": "ドリーミークラウン", "Type": "キュート", "Appeal": "ドリーミングハート", "Points": "200", "Notes": "None"}, {"ID": "F3-127 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["シューズ"], "Name": "ガーリークロノスシューズ", "Brand": "ドリーミークラウン", "Type": "キュート", "Appeal": "ドリーミングハート", "Points": "250", "Notes": "None"}, {"ID": "F3-128 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "スノープリンセストップス", "Brand": "ロリゴシック", "Type": "クール", "Appeal": "プレミアムクロックサーカス", "Points": "700", "Notes": "None"}, {"ID": "F3-129 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "スノープリンセススカート", "Brand": "ロリゴシック", "Type": "クール", "Appeal": "プレミアムクロックサーカス", "Points": "700", "Notes": "None"}, {"ID": "F3-130 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "スノープリンセスブーツ", "Brand": "ロリゴシック", "Type": "クール", "Appeal": "プレミアムクロックサーカス", "Points": "750", "Notes": "None"}, {"ID": "F3-131 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "スノープリンセスアップルクラウン", "Brand": "ロリゴシック", "Type": "クール", "Appeal": "クールタイプのアピールポイントがアップするよ！", "Points": "350", "Notes": "None"}, {"ID": "F3-132 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "バブルスマーメードトップス", "Brand": "ヴィヴィッドキス", "Type": "ポップ", "Appeal": "プレミアムチアフルキッス", "Points": "700", "Notes": "None"}, {"ID": "F3-133 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "バブルスマーメードスカート", "Brand": "ヴィヴィッドキス", "Type": "ポップ", "Appeal": "プレミアムチアフルキッス", "Points": "700", "Notes": "None"}, {"ID": "F3-134 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "バブルスマーメードサンダル", "Brand": "ヴィヴィッドキス", "Type": "ポップ", "Appeal": "プレミアムチアフルキッス", "Points": "750", "Notes": "None"}, {"ID": "F3-135 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "バブルスマーメードティアラ", "Brand": "ヴィヴィッドキス", "Type": "ポップ", "Appeal": "ポップタイプのアピールポイントがアップするよ！", "Points": "350", "Notes": "None"}]
+[
+    {
+        "ID": "F3-1 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ミントフィーユフリルトップス",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "ドリームメロディ",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-2 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ミントフィーユスカート",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "ドリームメロディ",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-3 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ミントフィーユサンダル",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "ドリームメロディ",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-4 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ミントフィーユアクセサリー",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-5 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "マーメードブルートップス",
+        "Brand": "クラシカルアンジュ",
+        "Type": "キュート",
+        "Appeal": "エンジェルガーデン",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-6 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "マーメードブルースカート",
+        "Brand": "クラシカルアンジュ",
+        "Type": "キュート",
+        "Appeal": "エンジェルガーデン",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-7 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "マーメードブルーサンダル",
+        "Brand": "クラシカルアンジュ",
+        "Type": "キュート",
+        "Appeal": "エンジェルガーデン",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-8 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "マーメードブルーカチューシャ",
+        "Brand": "クラシカルアンジュ",
+        "Type": "キュート",
+        "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-9 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ピンキーホリデイノースリトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "キュートスマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-10 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ピンキーホリデイスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "キュートスマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-11 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ピンキーホリデイウェッジソール",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "キュートスマイル",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-12 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "アクアパレットトップス",
+        "Brand": "ピュアパレット",
+        "Type": "クール",
+        "Appeal": "ベストピュアパレットマーチ",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-13 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "アクアパレットスカート",
+        "Brand": "ピュアパレット",
+        "Type": "クール",
+        "Appeal": "ベストピュアパレットマーチ",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-14 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "アクアパレットショートブーツ",
+        "Brand": "ピュアパレット",
+        "Type": "クール",
+        "Appeal": "ベストピュアパレットマーチ",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-15 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "アクアパレットリボンアクセ",
+        "Brand": "ピュアパレット",
+        "Type": "クール",
+        "Appeal": "同じフレンズブランドのアピールポイントがアップ！",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-16 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ブルームパレットトップス",
+        "Brand": "ピュアパレット",
+        "Type": "クール",
+        "Appeal": "ベストピュアパレットマーチ",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-17 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ブルームパレットスカート",
+        "Brand": "ピュアパレット",
+        "Type": "クール",
+        "Appeal": "ベストピュアパレットマーチ",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-18 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ブルームパレットショートブーツ",
+        "Brand": "ピュアパレット",
+        "Type": "クール",
+        "Appeal": "ベストピュアパレットマーチ",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-19 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ブルームパレットリボンアクセ",
+        "Brand": "ピュアパレット",
+        "Type": "クール",
+        "Appeal": "同じフレンズブランドのスペシャルアピールが強くなるよ！",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-20 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ノクターンナイトコルセット",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "プレミアムルナシンフォニア",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-21 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ノクターンナイトスカート",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "プレミアムルナシンフォニア",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-22 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ノクターンナイトパンプス",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "プレミアムルナシンフォニア",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-23 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ノクターンナイトアクセサリー",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "同じブランドのアピールポイントがアップするよ！",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-24 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "スカーレットクライシストップス",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "ルナシンフォニア",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-25 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "スカーレットクライシススカート",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "ルナシンフォニア",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-26 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "スカーレットクライシスロングブーツ",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "ルナシンフォニア",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-27 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "スカーレットクライシスカチューシャ",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "クールタイプのアピールポイントが少しアップするよ！",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-28 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ミッドナイトインディゴトップス",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "ルナシンフォニア",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-29 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ミッドナイトインディゴスカート",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "ルナシンフォニア",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-30 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ミッドナイトインディゴブーツ",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "ルナシンフォニア",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-31 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ミッドナイトインディゴリボン",
+        "Brand": "ルナウィッチ",
+        "Type": "クール",
+        "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-32 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ターコイズグリーントップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "クール",
+        "Appeal": "クールスマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-33 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ターコイズグリーンスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "クール",
+        "Appeal": "クールスマイル",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-34 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ターコイズグリーンショートブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "クール",
+        "Appeal": "クールスマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-35 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ドーリーレディトップス",
+        "Brand": "ハニーキャット",
+        "Type": "セクシー",
+        "Appeal": "ハニーキャットマーチ",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-36 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ドーリーレディスカート",
+        "Brand": "ハニーキャット",
+        "Type": "セクシー",
+        "Appeal": "ハニーキャットマーチ",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-37 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ドーリーレディシューズ",
+        "Brand": "ハニーキャット",
+        "Type": "セクシー",
+        "Appeal": "ハニーキャットマーチ",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-38 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ドーリーレディボーラーハット",
+        "Brand": "ハニーキャット",
+        "Type": "セクシー",
+        "Appeal": "セクシーフレンズボーナス中にアピールポイントが少しアップ！",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-39 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "チャーミーレディトップス",
+        "Brand": "ハニーキャット",
+        "Type": "セクシー",
+        "Appeal": "ハニーキャットマーチ",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-40 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "チャーミーレディスカート",
+        "Brand": "ハニーキャット",
+        "Type": "セクシー",
+        "Appeal": "ハニーキャットマーチ",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-41 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "チャーミーレディシューズ",
+        "Brand": "ハニーキャット",
+        "Type": "セクシー",
+        "Appeal": "ハニーキャットマーチ",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-42 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "チャーミーレディボーラーハット",
+        "Brand": "ハニーキャット",
+        "Type": "セクシー",
+        "Appeal": "セクシーフレンズボーナス中にアピールポイントが少しアップ！",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-43 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ジャパネスクフェスタトップス",
+        "Brand": "ダンシングミラージュ",
+        "Type": "セクシー",
+        "Appeal": "バタフライビート",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-44 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ジャパネスクフェスタフリルパンツ",
+        "Brand": "ダンシングミラージュ",
+        "Type": "セクシー",
+        "Appeal": "バタフライビート",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-45 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ジャパネスクフェスタサイハイブーツ",
+        "Brand": "ダンシングミラージュ",
+        "Type": "セクシー",
+        "Appeal": "バタフライビート",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-46 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ジャパネスクフェスタアクセ",
+        "Brand": "ダンシングミラージュ",
+        "Type": "セクシー",
+        "Appeal": "同じブランドのアピールポイントが少しアップするよ！",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-47 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "アーバンスタイルトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "セクシー",
+        "Appeal": "セクシースマイル",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-48 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "アーバンスタイルデニム",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "セクシー",
+        "Appeal": "セクシースマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-49 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "アーバンスタイルサンダル",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "セクシー",
+        "Appeal": "セクシースマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-50 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ハーティフラムトップス",
+        "Brand": "ラブミーティア",
+        "Type": "ポップ",
+        "Appeal": "ベストラブミーティアマーチ",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-51 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ハーティフラムスカート",
+        "Brand": "ラブミーティア",
+        "Type": "ポップ",
+        "Appeal": "ベストラブミーティアマーチ",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-52 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ハーティフラムパンプス",
+        "Brand": "ラブミーティア",
+        "Type": "ポップ",
+        "Appeal": "ベストラブミーティアマーチ",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-53 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ハーティフラムクラウン",
+        "Brand": "ラブミーティア",
+        "Type": "ポップ",
+        "Appeal": "同じフレンズブランドのアピールポイントがアップ！",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-54 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ハーティリュミエールトップス",
+        "Brand": "ラブミーティア",
+        "Type": "ポップ",
+        "Appeal": "ベストラブミーティアマーチ",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-55 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ハーティリュミエールスカート",
+        "Brand": "ラブミーティア",
+        "Type": "ポップ",
+        "Appeal": "ベストラブミーティアマーチ",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-56 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ハーティリュミエールパンプス",
+        "Brand": "ラブミーティア",
+        "Type": "ポップ",
+        "Appeal": "ベストラブミーティアマーチ",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-57 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ハーティリュミエールクラウン",
+        "Brand": "ラブミーティア",
+        "Type": "ポップ",
+        "Appeal": "同じフレンズブランドのスペシャルアピールが強くなるよ！",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-58 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "シェイキンパーティートップス",
+        "Brand": "カラフルシェイク",
+        "Type": "ポップ",
+        "Appeal": "プレミアムカラフルショット",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-59 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "シェイキンパーティースカート",
+        "Brand": "カラフルシェイク",
+        "Type": "ポップ",
+        "Appeal": "プレミアムカラフルショット",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-60 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "シェイキンパーティースニーカー",
+        "Brand": "カラフルシェイク",
+        "Type": "ポップ",
+        "Appeal": "プレミアムカラフルショット",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-61 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "シェイキンパーティーカチューシャ",
+        "Brand": "カラフルシェイク",
+        "Type": "ポップ",
+        "Appeal": "同じブランドのアピールポイントがアップするよ！",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-62 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ホワイトレトロスポトップス",
+        "Brand": "カラフルシェイク",
+        "Type": "ポップ",
+        "Appeal": "カラフルショット",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-63 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ホワイトレトロスポスカート",
+        "Brand": "カラフルシェイク",
+        "Type": "ポップ",
+        "Appeal": "カラフルショット",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-64 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ホワイトレトロスポシューズ",
+        "Brand": "カラフルシェイク",
+        "Type": "ポップ",
+        "Appeal": "カラフルショット",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-65 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ホワイトレトロスポミニカンカン帽",
+        "Brand": "カラフルシェイク",
+        "Type": "ポップ",
+        "Appeal": "同じブランドのスペシャルアピールが少し強くなるよ！",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-66 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ファインフラワートップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "ポップスマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-67 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ファインフラワーショーパン",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "ポップスマイル",
+        "Points": "400",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-68 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ファインフラワーサンダル",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "ポップスマイル",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-69 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "トゥインクルティアーズトップス",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "ラブミーティアマーチ",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-70 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "トゥインクルティアーズスカート",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "ラブミーティアマーチ",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-71 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "トゥインクルティアーズブーツ",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "ラブミーティアマーチ",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-72 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "トゥインクルティアーズリボンカチューシャ",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "キュートフレンズボーナス中にアピールポイントが少しアップ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-73 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "スパークルティアーズトップス",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "ラブミーティアマーチ",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-74 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "スパークルティアーズスカート",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "ラブミーティアマーチ",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-75 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "スパークルティアーズブーツ",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "ラブミーティアマーチ",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-76 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "スパークルティアーズリボンカチューシャ",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "キュートフレンズボーナス中にスペシャルアピールが少しアップ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-77 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ドリームエピソードトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "スターズマーチ",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-78 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ドリームエピソードスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "スターズマーチ",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-79 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ドリームエピソードパンプス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "スターズマーチ",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-80 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ドリームエピソードアクセサリー",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズのときにアピールポイントが少しアップ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-81 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "プリンセスエピソードトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "スターズマーチ",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-82 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "プリンセスエピソードスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "スターズマーチ",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-83 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "プリンセスエピソードパンプス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "スターズマーチ",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-84 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "プリンセスエピソードアクセサリー",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズのときにリズムゲームのポイントが少しアップ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-85 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ライジングピンクトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-86 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ライジングピンクスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-87 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ライジングピンクサイハイブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-88 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ライジングピンクサンアクセ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズフィーバーのポイントが少しアップするよ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-89 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ライジングオレンジトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-90 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ライジングオレンジスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-91 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ライジングオレンジサイハイブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-92 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ライジングオレンジサンアクセ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "キュートフレンズボーナス中にアピールポイントが少しアップ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-93 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ライジングパープルトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-94 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ライジングパープルスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-95 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ライジングパープルサイハイブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-96 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ライジングパープルサンアクセ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "キュートフレンズボーナス中にスペシャルアピールが少しアップ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-97 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ピンクスターダストトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-98 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ピンクスターダストスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-99 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ピンクスターダストブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-100 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ピンクスターダストフラワーアクセ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズのときにアピールポイントが少しアップ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-101 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ライラックスターダストトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-102 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ライラックスターダストスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-103 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ライラックスターダストブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-104 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ライラックスターダストフラワーアクセ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズのときにリズムゲームのポイントが少しアップ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-105 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "マーガレットスターダストトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-106 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "マーガレットスターダストスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-107 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "マーガレットスターダストブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "トリオフライト",
+        "Points": "450",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-108 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "マーガレットスターダストフラワーアクセ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズフィーバーのポイントが少しアップするよ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-109 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "スイートライムライトトップス",
+        "Brand": "フワフワドリーム",
+        "Type": "ポップ",
+        "Appeal": "プレミアムミルキードリーミータイム",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-110 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "スイートライムライトスカート",
+        "Brand": "フワフワドリーム",
+        "Type": "ポップ",
+        "Appeal": "プレミアムミルキードリーミータイム",
+        "Points": "900",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-111 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "スイートライムライトパンプス",
+        "Brand": "フワフワドリーム",
+        "Type": "ポップ",
+        "Appeal": "プレミアムミルキードリーミータイム",
+        "Points": "950",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-112 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "スイートライムライトカチューシャ",
+        "Brand": "フワフワドリーム",
+        "Type": "ポップ",
+        "Appeal": "ポップタイプのアピールポイントがアップするよ！",
+        "Points": "500",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-113 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ハッピーピクニックトップス",
+        "Brand": "マイリトルハート",
+        "Type": "キュート",
+        "Appeal": "ハートフルワールド",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-114 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ハッピーピクニックスカート",
+        "Brand": "マイリトルハート",
+        "Type": "キュート",
+        "Appeal": "ハートフルワールド",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-115 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ハッピーピクニックブーツ",
+        "Brand": "マイリトルハート",
+        "Type": "キュート",
+        "Appeal": "ハートフルワールド",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-116 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ピクニックリボンアクセ",
+        "Brand": "マイリトルハート",
+        "Type": "キュート",
+        "Appeal": "キュートタイプのアピールポイントが少しアップするよ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-117 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ファントムタキシードトップス",
+        "Brand": "スパイスコード",
+        "Type": "クール",
+        "Appeal": "アンチェインコード",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-118 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ファントムタキシードボトムス",
+        "Brand": "スパイスコード",
+        "Type": "クール",
+        "Appeal": "アンチェインコード",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-119 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ファントムタキシードシューズ",
+        "Brand": "スパイスコード",
+        "Type": "クール",
+        "Appeal": "アンチェインコード",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-120 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ファントムタキシードアクセ",
+        "Brand": "スパイスコード",
+        "Type": "クール",
+        "Appeal": "クールタイプのアピールポイントが少しアップするよ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-121 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ブレーズロータストップス",
+        "Brand": "ロマンスキス",
+        "Type": "セクシー",
+        "Appeal": "キッシングジュエル",
+        "Points": "650",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-122 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ブレーズロータススカート",
+        "Brand": "ロマンスキス",
+        "Type": "セクシー",
+        "Appeal": "キッシングジュエル",
+        "Points": "600",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-123 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ブレーズロータスサンダル",
+        "Brand": "ロマンスキス",
+        "Type": "セクシー",
+        "Appeal": "キッシングジュエル",
+        "Points": "550",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-124 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ブレーズロータスリボン",
+        "Brand": "ロマンスキス",
+        "Type": "セクシー",
+        "Appeal": "セクシータイプのアピールポイントが少しアップするよ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-125 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ガーリークロノストップス",
+        "Brand": "ドリーミークラウン",
+        "Type": "キュート",
+        "Appeal": "ドリーミングハート",
+        "Points": "300",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-126 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ガーリークロノススカート",
+        "Brand": "ドリーミークラウン",
+        "Type": "キュート",
+        "Appeal": "ドリーミングハート",
+        "Points": "200",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-127 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ガーリークロノスシューズ",
+        "Brand": "ドリーミークラウン",
+        "Type": "キュート",
+        "Appeal": "ドリーミングハート",
+        "Points": "250",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-128 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "スノープリンセストップス",
+        "Brand": "ロリゴシック",
+        "Type": "クール",
+        "Appeal": "プレミアムクロックサーカス",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-129 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "スノープリンセススカート",
+        "Brand": "ロリゴシック",
+        "Type": "クール",
+        "Appeal": "プレミアムクロックサーカス",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-130 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "スノープリンセスブーツ",
+        "Brand": "ロリゴシック",
+        "Type": "クール",
+        "Appeal": "プレミアムクロックサーカス",
+        "Points": "750",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-131 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "スノープリンセスアップルクラウン",
+        "Brand": "ロリゴシック",
+        "Type": "クール",
+        "Appeal": "クールタイプのアピールポイントがアップするよ！",
+        "Points": "350",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-132 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "バブルスマーメードトップス",
+        "Brand": "ヴィヴィッドキス",
+        "Type": "ポップ",
+        "Appeal": "プレミアムチアフルキッス",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-133 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "バブルスマーメードスカート",
+        "Brand": "ヴィヴィッドキス",
+        "Type": "ポップ",
+        "Appeal": "プレミアムチアフルキッス",
+        "Points": "700",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-134 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "バブルスマーメードサンダル",
+        "Brand": "ヴィヴィッドキス",
+        "Type": "ポップ",
+        "Appeal": "プレミアムチアフルキッス",
+        "Points": "750",
+        "Notes": "None"
+    },
+    {
+        "ID": "F3-135 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "バブルスマーメードティアラ",
+        "Brand": "ヴィヴィッドキス",
+        "Type": "ポップ",
+        "Appeal": "ポップタイプのアピールポイントがアップするよ！",
+        "Points": "350",
+        "Notes": "None"
+    }
+]
