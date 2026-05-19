@@ -140,5 +140,11 @@
         "parade": {
 
         }
+    },
+    "Types": {
+        "キュート": "icon_cute.png",
+        "クール": "icon_cool.png",
+        "セクシー": "icon_sexy.png",
+        "ポップ": "icon_pop.png"
     }
 }

@@ -1,14 +1,8 @@
 from nicegui import ui
 import json
+from identifiers import load_identifiers
 
-with open('database/SeriesIdentifiers.json', 'r', encoding='utf-8') as series:
-    seriesList = json.load(series)
-    ogkatsuList = seriesList['Series']['Aikatsu!']
-    starsList = seriesList['Series']['Aikatsu Stars!']
-    friendsList = seriesList['Series']['Aikatsu Friends!']
-    paradeList = seriesList['Series']['Aikatsu on Parade!']
-    planetList = seriesList['Series']['Aikatsu Planet!']
-    encoreList = seriesList['Series']['Aikatsu Encore!']
+ogkatsuList, starsList, friendsList, paradeList, planetList, encoreList, brands, types = load_identifiers()
 
 def mainUI(headerText):
     ui.add_head_html("""
