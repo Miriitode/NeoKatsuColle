@@ -1,7 +1,8 @@
 from nicegui import app, ui
 from mainUI import mainUI
 from pathlib import Path
-import collectList
+import cardDatabase
+import scanCard
 
 def homePage():
     with ui.element('div').style('height: calc(85vh - 64px);').classes('w-full flex justify-center items-center') as homePage:

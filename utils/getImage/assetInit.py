@@ -124,7 +124,10 @@ def get_series_brand(series):
             ]
 
         case 'parade':
-            imglist = []
+            imglist = [
+                'maple-ribbon_01',
+                'cheer-star_02'
+            ]
 
         case 'planet':
             imglist = []

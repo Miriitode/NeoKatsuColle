@@ -13,5 +13,6 @@ def load_identifiers():
 
         brands = seriesList['Brands']
         types = seriesList['Types']
+        planetype = seriesList['PlanetType']
 
-    return aikatsu, stars, friends, parade, planet, encore, brands, types
+    return aikatsu, stars, friends, parade, planet, encore, brands, types, planetype

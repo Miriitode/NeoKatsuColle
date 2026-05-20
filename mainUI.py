@@ -1,8 +1,7 @@
 from nicegui import ui
-import json
 from identifiers import load_identifiers
 
-ogkatsuList, starsList, friendsList, paradeList, planetList, encoreList, brands, types = load_identifiers()
+ogkatsuList, starsList, friendsList, paradeList, planetList, encoreList, brands, types, planetype = load_identifiers()
 
 def mainUI(headerText):
     ui.add_head_html("""
@@ -18,8 +17,8 @@ def mainUI(headerText):
     with ui.header(elevated=True).style('position:relative; display:flex; justify-content:center; align-items:center') as mainHeader:
         ui.label(headerText)
         with ui.row().style('position:absolute; right:16px;') as headerButtons:
-            with ui.button().props('elevated') as QrCode:
-                ui.icon('qr_code')
+            with ui.button(on_click=lambda: ui.navigate.to('/scanCard')).props('elevated') as QrCode:
+                ui.icon('qr_code_scanner')
                 ui.tooltip('Scan QR Code').props('position-bottom')
 
             with ui.button().props('elevated') as profileButton:
