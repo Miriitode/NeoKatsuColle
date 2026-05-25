@@ -1,8 +1,4 @@
-from bs4 import BeautifulSoup
 import requests
-import os
-import re
-from lxml import etree
 from pathlib import Path
 
 # Project root directory

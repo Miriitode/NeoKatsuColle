@@ -1,0 +1,322 @@
+{
+   "スカイレストランシャツ": {
+      "ID": "02-01 R",
+      "Barcode": "AK1HNUVEF",
+      "QR": "http://aikatsu.com/qr/id=IV6J4FtMINbx"
+   },
+   "水色ギンガムブラウス": {
+      "ID": "02-02 N",
+      "Barcode": "AK1UWTVHN",
+      "QR": "http://aikatsu.com/qr/id=E2p0HJVegfOu"
+   },
+   "ピンクドットオフショルダー": {
+      "ID": "02-03 N",
+      "Barcode": "AK1T82R1P",
+      "QR": "http://aikatsu.com/qr/id=r7OocP8hZXh3"
+   },
+   "スカイレストランスカート": {
+      "ID": "02-04 R",
+      "Barcode": "AK1NTCVUB",
+      "QR": "http://aikatsu.com/qr/id=cEpL1grNFpxa"
+   },
+   "ホワイトカプリパンツ": {
+      "ID": "02-05 N",
+      "Barcode": "AK1VHAV6N",
+      "QR": "http://aikatsu.com/qr/id=F7LEiOtoyjU8"
+   },
+   "ホワイトレーシースカート": {
+      "ID": "02-06 N",
+      "Barcode": "AK18KTYUW",
+      "QR": "http://aikatsu.com/qr/id=B4Bto0jn8egH"
+   },
+   "スカイレストランシューズ": {
+      "ID": "02-07 R",
+      "Barcode": "AK1EXBVU4",
+      "QR": "http://aikatsu.com/qr/id=U1qbHeJbrPJB"
+   },
+   "ラベンダーリボンウエッジソール": {
+      "ID": "02-08 N",
+      "Barcode": "AK139RBHK",
+      "QR": "http://aikatsu.com/qr/id=B2TEJa9eUeCt"
+   },
+   "桜色ラウンドトゥシューズ": {
+      "ID": "02-09 N",
+      "Barcode": "AK1JHVY1W",
+      "QR": "http://aikatsu.com/qr/id=CrnXhschTp0M"
+   },
+   "ラベンダーティアードワンピース": {
+      "ID": "02-10 N",
+      "Barcode": "AK1UXCVDP",
+      "QR": "http://aikatsu.com/qr/id=CsfTqPtBysIl"
+   },
+   "ラッキーパイロットジャケット": {
+      "ID": "02-11 R",
+      "Barcode": "AK13YDY9V",
+      "QR": "http://aikatsu.com/qr/id=ehcnteT7pP2d"
+   },
+   "ブラックライダースジャケット": {
+      "ID": "02-12 N",
+      "Barcode": "AK1EZ1R3N",
+      "QR": "http://aikatsu.com/qr/id=TwePRJ1D4iQ7"
+   },
+   "ホワイトサイバーノースリーブ": {
+      "ID": "02-13 N",
+      "Barcode": "AK1L26V6P",
+      "QR": "http://aikatsu.com/qr/id=aD46hsRdPm2M"
+   },
+   "テクノ風ジャージ": {
+      "ID": "02-14 N",
+      "Barcode": "AK1EB6V1N",
+      "QR": "http://aikatsu.com/qr/id=F2VzusCNPkSX"
+   },
+   "ラッキーパイロットスカート": {
+      "ID": "02-15 R",
+      "Barcode": "AK14RAY95",
+      "QR": "http://aikatsu.com/qr/id=SVdnshjyXFwa"
+   },
+   "花柄モノトーンパギンス": {
+      "ID": "02-16 N",
+      "Barcode": "AK1REZRU7",
+      "QR": "http://aikatsu.com/qr/id=qh2K0HCz9mCD"
+   },
+   "サイバーホットミニ": {
+      "ID": "02-17 N",
+      "Barcode": "AK1PP3VU7",
+      "QR": "http://aikatsu.com/qr/id=1VXecQ9MyY8Y"
+   },
+   "サイバープリーツスカート": {
+      "ID": "02-18 N",
+      "Barcode": "AK1MPUBD0",
+      "QR": "http://aikatsu.com/qr/id=Cso3WrRwOE4z"
+   },
+   "ラッキーパイロットブーツ": {
+      "ID": "02-19 R",
+      "Barcode": "AK1D6MVHM",
+      "QR": "http://aikatsu.com/qr/id=K4NMhcgNvnva"
+   },
+   "クロスベルトブーツ": {
+      "ID": "02-20 N",
+      "Barcode": "AK1H14YE0",
+      "QR": "http://aikatsu.com/qr/id=SpQXUCSD3r0F"
+   },
+   "サイバーラバーブーツ": {
+      "ID": "02-21 N",
+      "Barcode": "AK1ZEFB98",
+      "QR": "http://aikatsu.com/qr/id=rp3uDrU2uY18"
+   },
+   "エメラルドサイバーワンピース": {
+      "ID": "02-22 N",
+      "Barcode": "AK1LV1RHP",
+      "QR": "http://aikatsu.com/qr/id=mJTEABxW0HZW"
+   },
+   "ローズボンボントップス": {
+      "ID": "02-23 P",
+      "Barcode": "AK1UMHVUG",
+      "QR": "http://aikatsu.com/qr/id=r2mYpEjb5qDW"
+   },
+   "グリッターローズコルセット": {
+      "ID": "02-24 R",
+      "Barcode": "AK1ZA6Y94",
+      "QR": "http://aikatsu.com/qr/id=ArCjoyqnowgr"
+   },
+   "ルージュベアトップ": {
+      "ID": "02-25 N",
+      "Barcode": "AK1E19RU8",
+      "QR": "http://aikatsu.com/qr/id=TsPb0hNdlwB7"
+   },
+   "エリつきベスト": {
+      "ID": "02-26 N",
+      "Barcode": "AK1LEUVD0",
+      "QR": "http://aikatsu.com/qr/id=cRKki9mPDPsa"
+   },
+   "ローズボンボンスカート": {
+      "ID": "02-27 P",
+      "Barcode": "AK1P3DYEN",
+      "QR": "http://aikatsu.com/qr/id=1rMGJMklPpm2"
+   },
+   "グリッターローズスカート": {
+      "ID": "02-28 R",
+      "Barcode": "AK1FACBEV",
+      "QR": "http://aikatsu.com/qr/id=77RZvpV93OO1"
+   },
+   "ボルドーひらミニスカート": {
+      "ID": "02-29 N",
+      "Barcode": "AK1P8UB1P",
+      "QR": "http://aikatsu.com/qr/id=T7FY0Jjz50lW"
+   },
+   "シャイニーブラックスカート": {
+      "ID": "02-30 N",
+      "Barcode": "AK1M83VHW",
+      "QR": "http://aikatsu.com/qr/id=e1mNxsYWMisF"
+   },
+   "ローズボンボンブーツ": {
+      "ID": "02-31 P",
+      "Barcode": "AK1EVNYH8",
+      "QR": "http://aikatsu.com/qr/id=JoZjJgILiwzi"
+   },
+   "グリッターローズサンダル": {
+      "ID": "02-32 R",
+      "Barcode": "AK1JYPR9M",
+      "QR": "http://aikatsu.com/qr/id=Xw0Qht1Bvpm4"
+   },
+   "スタッズつきブーティー": {
+      "ID": "02-33 N",
+      "Barcode": "AK1DH7Y37",
+      "QR": "http://aikatsu.com/qr/id=SV2CpSCp3tef"
+   },
+   "ファーつきシルバーサンダル": {
+      "ID": "02-34 N",
+      "Barcode": "AK1A9PB6G",
+      "QR": "http://aikatsu.com/qr/id=lEHFYDDYysTE"
+   },
+   "ゴールドマジックワンピース": {
+      "ID": "02-35 R",
+      "Barcode": "AK16NJHHN",
+      "QR": "http://aikatsu.com/qr/id=UwaI4LSL503H"
+   },
+   "トロピカルバスケットワンショルダー": {
+      "ID": "02-36 P",
+      "Barcode": "AK1CPZ31P",
+      "QR": "http://aikatsu.com/qr/id=X7okDeVsClME"
+   },
+   "ピンキーファンキーベスト": {
+      "ID": "02-37 R",
+      "Barcode": "AK1ZK9910",
+      "QR": "http://aikatsu.com/qr/id=17uH2zfoWNau"
+   },
+   "ポッピンキャンディーシャツ": {
+      "ID": "02-38 N",
+      "Barcode": "AK1XTAU60",
+      "QR": "http://aikatsu.com/qr/id=MhbLiC96ooYa"
+   },
+   "イエローステージボレロ": {
+      "ID": "02-39 N",
+      "Barcode": "AK11YAU18",
+      "QR": "http://aikatsu.com/qr/id=C2o8AbsXCnRB"
+   },
+   "トロピカルバスケットスカート": {
+      "ID": "02-40 P",
+      "Barcode": "AK1PAEBUN",
+      "QR": "http://aikatsu.com/qr/id=XEAEVDDiHK3t"
+   },
+   "ピンキーファンキースカート": {
+      "ID": "02-41 R",
+      "Barcode": "AK1Y4291W",
+      "QR": "http://aikatsu.com/qr/id=yJvJhIDpqju6"
+   },
+   "ももいろかぼちゃパンツ": {
+      "ID": "02-42 N",
+      "Barcode": "AK18FHYH0",
+      "QR": "http://aikatsu.com/qr/id=41LNcTlCrlV2"
+   },
+   "イエローステージスカート": {
+      "ID": "02-43 N",
+      "Barcode": "AK1VF9R17",
+      "QR": "http://aikatsu.com/qr/id=CV34EOtv1LtZ"
+   },
+   "トロピカルバスケットシューズ": {
+      "ID": "02-44 P",
+      "Barcode": "AK1DK8BUG",
+      "QR": "http://aikatsu.com/qr/id=4VDosvdUX6wN"
+   },
+   "ピンキーファンキーブーツ": {
+      "ID": "02-45 R",
+      "Barcode": "AK1ECV398",
+      "QR": "http://aikatsu.com/qr/id=yhw9qOnsKODM"
+   },
+   "ハイカットスニーカー": {
+      "ID": "02-46 N",
+      "Barcode": "AK1DLPB17",
+      "QR": "http://aikatsu.com/qr/id=AwSpRS1TUcDZ"
+   },
+   "イエローステージパンプス": {
+      "ID": "02-47 N",
+      "Barcode": "AK1AC7YHG",
+      "QR": "http://aikatsu.com/qr/id=L4Xgr8m7s5Vl"
+   },
+   "虹色アリスワンピース": {
+      "ID": "02-48 R",
+      "Barcode": "AK1XRL9H0",
+      "QR": "http://aikatsu.com/qr/id=ApEVHDRtZHOH"
+   },
+   "スイートレストランリボン": {
+      "ID": "02-49 R",
+      "Barcode": "AK10RYR9K",
+      "QR": "http://aikatsu.com/qr/id=HDYnWo4vMmZl"
+   },
+   "パイロットガールアクセサリー": {
+      "ID": "02-50 R",
+      "Barcode": "AK1YRRYEN",
+      "QR": "http://aikatsu.com/qr/id=hsAg04CufAyI"
+   },
+   "ローズボンボンヘアコサージュ": {
+      "ID": "02-51 R",
+      "Barcode": "AK1W3RRUP",
+      "QR": "http://aikatsu.com/qr/id=f2jHIam9VqOY"
+   },
+   "トロピカルバスケットカチューシャ": {
+      "ID": "02-52 R",
+      "Barcode": "AK1B3YYDW",
+      "QR": "http://aikatsu.com/qr/id=KJsS4FKVTuHk"
+   },
+   "スイートレストランシャツ": {
+      "ID": "02-CP01",
+      "Barcode": "AK1T3CVEN",
+      "QR": "http://aikatsu.com/qr/id=esx7i86cVYS3"
+   },
+   "スイートレストランスカート": {
+      "ID": "02-CP02",
+      "Barcode": "AK18HXB3K",
+      "QR": "http://aikatsu.com/qr/id=LwAWc8X32c4b"
+   },
+   "スイートレストランシューズ": {
+      "ID": "02-CP03",
+      "Barcode": "AK1ZVBY6N",
+      "QR": "http://aikatsu.com/qr/id=cs1hotd2O316"
+   },
+   "パイロットガールジャケット": {
+      "ID": "02-CP04",
+      "Barcode": "AK1A7HB10",
+      "QR": "http://aikatsu.com/qr/id=S1yXHIbwEIHf"
+   },
+   "パイロットガールスカート": {
+      "ID": "02-CP05",
+      "Barcode": "AK1KE2YD0",
+      "QR": "http://aikatsu.com/qr/id=lrCRE8lTWj2Z"
+   },
+   "パイロットガールブーツ": {
+      "ID": "02-CP06",
+      "Barcode": "AK1X45Y9G",
+      "QR": "http://aikatsu.com/qr/id=T4TbqaItcE94"
+   },
+   "グリッターバイオレットコルセット": {
+      "ID": "02-CP07",
+      "Barcode": "AK1T43RD7",
+      "QR": "http://aikatsu.com/qr/id=CVJ4Ws2gbNxN"
+   },
+   "グリッターバイオレットスカート": {
+      "ID": "02-CP08",
+      "Barcode": "AK1M36R9K",
+      "QR": "http://aikatsu.com/qr/id=LhLfWoQ01sSl"
+   },
+   "グリッターバイオレットサンダル": {
+      "ID": "02-CP09",
+      "Barcode": "AK1LBGB10",
+      "QR": "http://aikatsu.com/qr/id=aVlwpIYJQ6RZ"
+   },
+   "ハッピーファンキーベスト": {
+      "ID": "02-CP10",
+      "Barcode": "AK11JL938",
+      "QR": "http://aikatsu.com/qr/id=7pVJAKiGXqfu"
+   },
+   "ハッピーファンキースカート": {
+      "ID": "02-CP11",
+      "Barcode": "AK1MA1VDK",
+      "QR": "http://aikatsu.com/qr/id=zwHGJd7vHwPE"
+   },
+   "ハッピーファンキーブーツ": {
+      "ID": "02-CP12",
+      "Barcode": "AK1A0KYD7",
+      "QR": "http://aikatsu.com/qr/id=M4BmJnOo5rHz"
+   }
+}
