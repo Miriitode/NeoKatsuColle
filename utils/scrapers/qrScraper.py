@@ -61,7 +61,7 @@ def patch(patchData, series, subnum, is_promote=False):
                 #             card['QR'] = patchData[patch]['QR']
 
                 #match by name
-                if test4 == test3:
+                if test2 == test1:
                     found = True
                     # print(f"Detected! | {card['Name']}")
                     if 'http://aikatsu.com/qr/id=' not in patchData[patch]['QR']:
@@ -78,6 +78,7 @@ def patch(patchData, series, subnum, is_promote=False):
 def Generate(link, series, subnum, is_promote=False):
     if not is_promote:
         assoc_Info.clear() 
+        assoc_Unique.clear()
 
     qrList = BeautifulSoup(requests.get(link).content, 'html.parser')
 
@@ -185,7 +186,7 @@ print('Warning! This script will modify the current database json files to inclu
 arg = input()
 
 if arg.lower() == 'y':
-    # scrape_QR()
+    scrape_QR()
     patch_QR()
 else:
     quit()
