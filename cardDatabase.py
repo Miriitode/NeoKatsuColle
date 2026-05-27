@@ -3,6 +3,8 @@ import mainUI
 import json
 from identifiers import load_identifiers
 
+LIGHTWEIGHT_MODE = True
+
 ogkatsuList, starsList, friendsList, paradeList, planetList, encoreList, brands, types, planetype = load_identifiers()
 
 def headerDetail(card, route_prefix):
@@ -58,22 +60,34 @@ def mainInfo(card, route_prefix, j):
     return columns, headers, values
 
 def card_opt(card, route_prefix, j):
+
+    if LIGHTWEIGHT_MODE:
+        if route_prefix == 'planet':
+            front_src = card['frontLink']
+            back_src = card['backLink']
+        else:
+            img_src = card['imgLink']
+    else:
+        img_src = f'/Assets/Cards/{route_prefix}/cardimg-{j}/{card["ID"]}.png'
+        front_src = f'/Assets/Cards/{route_prefix}/cardimg-{j}/{card["ID"]} Front.png'
+        back_src = f'/Assets/Cards/{route_prefix}/cardimg-{j}/{card["ID"]} Back.png'
+
     column_width = '560px' if route_prefix == 'planet' else '240px'
     with ui.column().classes('items-center shrink-0 gap-2').style(f'width: {column_width};'):
 
         if route_prefix != 'planet':
             ui.image(
-                f'/Assets/Cards/{route_prefix}/cardimg-{j}/{card["ID"]}.png'
+                img_src
             ).style('width: 100%;')
 
         else:
             with ui.row().classes('w-full no-wrap gap-2 justify-center'):
                 ui.image(
-                    f'/Assets/Cards/{route_prefix}/cardimg-{j}/{card["ID"]} Front.png'
+                    front_src
                 ).style('width: 50%;')
 
                 ui.image(
-                    f'/Assets/Cards/{route_prefix}/cardimg-{j}/{card["ID"]} Back.png'
+                    back_src
                 ).style('width: 50%;')
 
         with ui.row().classes('w-full justify-center gap-1'):
@@ -134,7 +148,7 @@ def create_series_pages(series_list, route_prefix, series_title):
         clean_i = i.replace(' ', '-').lower()
 
         def create_page(i=i, clean_i=clean_i, j=j):
-            with open(f'Database/{route_prefix}/CardList/{route_prefix}_Data-{j}.json', 'r', encoding='utf-8') as cardData:
+            with open(f'Database/{route_prefix}/{route_prefix}_Data-{j}.json', 'r', encoding='utf-8') as cardData:
                 data = json.load(cardData)
 
             @ui.page(f'/{route_prefix}/{clean_i}')

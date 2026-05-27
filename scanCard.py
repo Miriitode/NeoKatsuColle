@@ -9,7 +9,7 @@ ogkatsuList, starsList, friendsList, paradeList, planetList, encoreList, brands,
 all_cards = []
 
 for i, _ in enumerate(ogkatsuList):
-    with open(f'Database/aikatsu/CardList/aikatsu_Data-{i}.json','r',encoding='utf-8') as cardData:
+    with open(f'Database/aikatsu/aikatsu_Data-{i}.json','r',encoding='utf-8') as cardData:
         cards = json.load(cardData)
 
         for card in cards:
