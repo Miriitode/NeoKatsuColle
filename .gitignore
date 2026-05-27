@@ -1,4 +1,5 @@
 .venv
+venv
 utils/scrapers/__pycache__
 __pycache__
 Assets

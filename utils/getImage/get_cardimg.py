@@ -1,12 +1,10 @@
 import requests
-import os
 import json
 import time
 from pathlib import Path
 
 # Project root
 BASE_DIR = Path(__file__).resolve().parents[3]
-
 DATABASE_DIR = BASE_DIR / "Database"
 ASSETS_DIR = BASE_DIR / "Assets"
 
@@ -22,7 +20,7 @@ def timer(start, end):
 
 def get_img(series, refnum):
 
-    json_path = DATABASE_DIR / series / "ImgList" / f'{series}_Img-{refnum}.json'
+    json_path = DATABASE_DIR / series / f'{series}_Data-{refnum}.json'
 
     with open(json_path, encoding='utf-8') as data:
         imgdata = json.load(data)
@@ -36,9 +34,9 @@ def get_img(series, refnum):
 
             data = requests.get(i["imgLink"]).content
 
-            print(f'Saving: {i["imgFile"]}.png')
+            print(f'Saving: {i["ID"]}.png')
 
-            with open(output_dir / f'{i["imgFile"]}.png', 'wb') as file:
+            with open(output_dir / f'{i["ID"]}.png', 'wb') as file:
                 file.write(data)
 
         else:
@@ -46,12 +44,12 @@ def get_img(series, refnum):
             data_front = requests.get(i["frontLink"]).content
             data_back = requests.get(i["backLink"]).content
 
-            print(f'Saving: {i["imgFront"]}.png | {i["imgBack"]}.png')
+            print(f'Saving: {i["ID"]} Front.png | {i["ID"]} Back.png')
 
-            with open(output_dir / f'{i["imgFront"]}.png', 'wb') as file:
+            with open(output_dir / f'{i["ID"]} Front.png', 'wb') as file:
                 file.write(data_front)
 
-            with open(output_dir / f'{i["imgBack"]}.png', 'wb') as file:
+            with open(output_dir / f'{i["ID"]} Back.png', 'wb') as file:
                 file.write(data_back)
 
 
@@ -101,7 +99,7 @@ def main():
 
                     dir_path = DATABASE_DIR / i / "ImgList"
 
-                    for j in range(len(os.listdir(dir_path))):
+                    for j in range(len(list(dir_path.iterdir()))):
 
                         if (i == 'Friends') and (j == 11):
                             continue
@@ -122,7 +120,7 @@ def main():
 
                 dir_path = DATABASE_DIR / series[opt - 1] / "ImgList"
 
-                for k in range(len(os.listdir(dir_path))):
+                for k in range(len(list(dir_path.iterdir()))):
 
                     if (series[opt - 1] == 'Friends') and (k == 11):
                         continue

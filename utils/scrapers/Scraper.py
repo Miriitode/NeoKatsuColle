@@ -1,11 +1,35 @@
 import time
-import os
-import utils.scrapers.PlanetScraper as PlanetScraper
-import utils.scrapers.ParadeScraper as ParadeScraper
-import utils.scrapers.FriendsScraper as FriendsScraper
-import utils.scrapers.StarsScraper as StarsScraper
-import utils.scrapers.AikatsuScraper as AikatsuScraper
-        
+from pathlib import Path
+import PlanetScraper as PlanetScraper
+import ParadeScraper as ParadeScraper
+import FriendsScraper as FriendsScraper
+import StarsScraper as StarsScraper
+import AikatsuScraper as AikatsuScraper
+from qrScraper import patch_QR
+
+BASE_DIR = Path(__file__).resolve().parents[2]
+
+def aikatsuQR_Warn(unidentify):
+    warning = (
+        "[WARN | AikatsuScraper.py] The scraper has not resolved the following cards. "
+        "This is due to name text mismatches from the QR code library "
+        "and the Database library. Please locate the missing codes in "
+        "the generated json files and add them to the database manually."
+    )
+
+    print(warning)
+
+    report_path = BASE_DIR / "utils" / "scrapers" / "unidentified_cards.txt"
+
+    with open(report_path, "w", encoding="utf-8") as report:
+        report.write(warning + "\n")
+
+        for mismatch in unidentify:
+            print(mismatch)
+            report.write(mismatch + "\n")
+
+    print(f"\nReport written to: {report_path}")
+
 def timer(start, end):
     runtime = round((end - start), 2)
     if runtime < 60:
@@ -14,18 +38,13 @@ def timer(start, end):
         return str(round((runtime/60), 2)) + ' minutes'
 
 def Database_Check():
-    '''
-    Generates Directories when no folders are present
-    '''
-
     series = ["aikatsu", "stars", "friends", "parade", "planet"]
-    subfolder = ["CardList", "ImgList"]
-    databaseDir = os.path.join(os.getcwd(),"Database")
+    subfolder = ["CardList"]
+    databaseDir = Path(__file__).resolve().parents[2] / "Database"
 
     for ser in series:
         for sub in subfolder:
-            try: os.makedirs(os.path.join(databaseDir,ser,sub))
-            except OSError: pass
+            (databaseDir / ser / sub).mkdir(parents=True, exist_ok=True)
 
 def main():
 
@@ -126,6 +145,7 @@ def main():
                 print("Generating Aikatsu Database...")
                 for i in enumerate(ogkatsuList):
                     AikatsuScraper.Generate(i[1], i[0])
+                result = patch_QR()
                 print("Generating Stars Database...")
                 for i in enumerate(starsList):
                     StarsScraper.Generate(i[1], i[0])
@@ -205,5 +225,8 @@ def main():
 
     end = time.perf_counter()
     print(f'DONE! Operation took {timer(start, end)}')
+
+    if result:
+        aikatsuQR_Warn(result)
 
 main() #called when program runs independently, otherwise individual scrapers are called in the app

@@ -1,41 +1,26 @@
 from bs4 import BeautifulSoup
 import requests
-import os
+from pathlib import Path
 import re
 import json
 from lxml import etree
 
+BASE_DIR = Path(__file__).resolve().parents[2]
+
 def Generate(link, series):
-    '''
-    Generates a card database for the game Aikatsu Friends!
-
-    Scrapes a given card list link for the specific series and compiles the data into two 'csv' files. One for the card list data, another for the card image links.
-
-    Can be configured to only generate the card list, or card image links. (TODO)
-
-    Args:
-        link (string): A link to the card list to scrape
-        series (int): The series identifier used in the output file
-
-    Returns:
-        None
-    '''
     webLink = f'https://www.aikatsu.com/friends/cardlist/?search=true&category={link}'
     game = 'データカードダスアイカツフレンズ!'
     cardData = []
-    imgData = []
 
-    if os.path.isfile(os.path.join(os.getcwd(),f'Database/friends/CardList/Friends_Data-{series}.json')):
-        file = os.path.join(os.getcwd(),f'Database/friends/CardList/Friends_Data-{series}.json')
+    if (BASE_DIR / "Database" / "friends" / f"friends_Data-{series}.json").is_file():
+        file = BASE_DIR / "Database" / "friends" / f"friends_Data-{series}.json"
 
-        if os.stat(file).st_size != 0:
+        if file.stat().st_size != 0:
             print("Database exists! Scraping next cardset...")
             return
         
-    #friends = BeautifulSoup(open(os.path.join(os.getcwd(), "Sample_Data/Friends/friends.html"), encoding="utf-8"), 'html.parser')
     friends = BeautifulSoup(requests.get(webLink).content, 'html.parser')
-    export = open(os.path.join(os.getcwd(),f'Database/friends/CardList/Friends_Data-{series}.json'), 'w', encoding='utf-8')
-    img = open(os.path.join(os.getcwd(),f'Database/friends/ImgList/Friends_Img-{series}.json'), 'w', encoding='utf-8')
+    export = open(BASE_DIR / "Database" / "friends" / f"friends_Data-{series}.json", 'w', encoding='utf-8')
     cardList = friends.find("div", {"class":"cardlistCol clearfix"}).find("div", {"id":"lists"}).find_all("div", class_=re.compile("data page"))
     title = friends.find("div", {"id":"titCol"}).h3.img.attrs.get('alt')
     print(f'({series}) Generating Card Database: {game} {title}')
@@ -75,45 +60,24 @@ def Generate(link, series):
             'Appeal': cardAppeal,
             'Points': cardAP,
             'Notes': cardRemarks,
-            }
-        
-        imgExport = {
-            'imgFile':cardID,
-            'imgLink':cardOut,
+            'imgLink': cardOut
             }
 
         cardData.append(cardExport)
-        imgData.append(imgExport)
 
     #Write Operations
-    outImg = json.dumps(imgData)
     outData = json.dumps(cardData,ensure_ascii=False)
-    img.write(outImg)
     export.write(outData)
     export.close()
-    img.close()
 
 def GenerateIdolCard():
-    '''
-    Generates a card database for the Idol Cards in the game Aikatsu Friends!
-
-    Can be configured to only generate the card list, or card image links. (TODO)
-
-    Args:
-        None
-
-    Retuns:
-        None
-    '''
     webLink = 'https://www.aikatsu.com/friends/cardlist/idolcard.php?search=true&category=458004'
     game = 'データカードダスアイカツフレンズ!'
     cardData = []
-    imgData = []
 
-    #friends = BeautifulSoup(open(os.path.join(os.getcwd(), "Sample_Data/Friends/friends.html"), encoding="utf-8"), 'html.parser')
+    #friends = BeautifulSoup(open(BASE_DIR / "Sample_Data" / "Friends" / "friends.html", encoding="utf-8"), 'html.parser')
     friends = BeautifulSoup(requests.get(webLink).content, 'html.parser')
-    export = open(os.path.join(os.getcwd(),f'Database/friends/CardList/Friends_Data-IdolCard.json'), 'w', encoding='utf-8')
-    img = open(os.path.join(os.getcwd(),f'Database/friends/ImgList/Friends_Img-IdolCard.json'), 'w', encoding='utf-8')
+    export = open(BASE_DIR / "Database" / "friends" / "friends_Data-IdolCard.json", 'w', encoding='utf-8')
     cardList = friends.find_all("div", class_=re.compile("data page"))
     title = friends.find("div", {"id":"titCol"}).h3.img.attrs.get('alt')
     print(f'Generating Card Database: {game} {title}')
@@ -133,20 +97,12 @@ def GenerateIdolCard():
             'Name': cardName,
             'Code': cardCode,
             'Note': cardNote,
-            }
-        
-        imgExport = {
-            'imgFile':cardID,
-            'imgLink':cardOut,
+            'imgLink':cardOut
             }
 
         cardData.append(cardExport)
-        imgData.append(imgExport)
 
     #Write Operations
-    outImg = json.dumps(imgData, indent = 3)
     outData = json.dumps(cardData,ensure_ascii=False, indent = 3)
-    img.write(outImg)
     export.write(outData)
     export.close()
-    img.close()

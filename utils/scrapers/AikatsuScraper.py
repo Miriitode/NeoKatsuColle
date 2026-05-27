@@ -1,9 +1,11 @@
 from bs4 import BeautifulSoup
 import requests
-import os
+from pathlib import Path
 import re
 import json
 from lxml import etree
+
+BASE_DIR = Path(__file__).resolve().parents[2]
 
 def findCardType(input):
     if input == "icon-tycute.jpg":
@@ -158,37 +160,20 @@ def findCardBoom(input):
     # raise Exception(f'Boom not implemented: {input}')
 
 def Generate(link, series):
-    '''
-    Generates a card database for the game Aikatsu!
-
-    Scrapes a given card list link for the specific series and compiles the data into two 'csv' files. One for the card list data, another for the card image links.
-
-    Can be configured to only generate the card list, or card image links. (TODO)
-
-    Args:
-        link (string): A link to the card list to scrape
-        series (int): The series identifier used in the output file
-
-    Returns:
-        None
-    '''
-
     webLink = f'https://www.aikatsu.com/cardlist/index.php?search=true&category={link}'
     game = 'データカードダスアイカツ!'
     cardData = []
-    imgData = []
 
-    if os.path.isfile(os.path.join(os.getcwd(),f'Database/aikatsu/CardList/OGKatsu_Data-{series}.json')):
-        file = os.path.join(os.getcwd(),f'Database/aikatsu/CardList/OGKatsu_Data-{series}.json')
+    if (BASE_DIR / "Database" / "aikatsu" / f"aikatsu_Data-{series}.json").is_file():
+        file = BASE_DIR / "Database" / "aikatsu" / f"aikatsu_Data-{series}.json"
 
-        if os.stat(file).st_size != 0:
+        if file.stat().st_size != 0:
             print("Database exists! Scraping next cardset...")
             return  
         
     OGKatsu = BeautifulSoup(requests.get(webLink).content, 'html.parser')  
         
-    export = open(os.path.join(os.getcwd(),f'Database/aikatsu/CardList/OGKatsu_Data-{series}.json'), 'w', encoding='utf-8')
-    img = open(os.path.join(os.getcwd(),f'Database/aikatsu/ImgList/OGKatsu_Img-{series}.json'), 'w', encoding='utf-8')
+    export = open(BASE_DIR / "Database" / "aikatsu" / f"aikatsu_Data-{series}.json", 'w', encoding='utf-8')
     cardList = OGKatsu.find_all("div", {"class": "card"})
     title = OGKatsu.find("section", {"id":"contents"}).h3.img.attrs.get('alt') #change this
     print(f'({series}) Generating Card Database: {game} {title}')
@@ -286,21 +271,13 @@ def Generate(link, series):
             'Look1Compat': lookACompat,
             'Look2Compat': lookBCompat,
             'Barcode': '', #todo
-            'QR': '' #todo
-            }
-        
-        imgExport = {
-            'imgFile':cardID,
-            'imgLink':cardOut,
+            'QR': '', #todo
+            'imgLink': cardOut
             }
 
         cardData.append(cardExport)
-        imgData.append(imgExport)
 
     #Write Operations
-    outImg = json.dumps(imgData, indent = 3)
     outData = json.dumps(cardData,ensure_ascii=False, indent = 3)
-    img.write(outImg)
     export.write(outData)
     export.close()
-    img.close()

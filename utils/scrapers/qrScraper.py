@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import requests
-import os
 import re
 import json
 from pathlib import Path
@@ -30,46 +29,47 @@ def patch(patchData, series, subnum, is_promote=False):
             case 'aikatsu':
                 asc = '22'
 
-    with open(BASE_DIR / "Database" / series / "CardList" / f'{series}_Data-{asc}.json', 'r', encoding='utf-8') as file:
+    with open(BASE_DIR / "Database" / series / f'{series}_Data-{asc}.json', 'r', encoding='utf-8') as file:
         cards = json.load(file)
 
-    with open(BASE_DIR / "Database" / series / "CardList" / f'{series}_Data-{asc}.json', 'w', encoding='utf-8') as file:
+    with open(BASE_DIR / "Database" / series / f'{series}_Data-{asc}.json', 'w', encoding='utf-8') as file:
         for card in cards:
             found = False
             for patch in patchData.keys():
-                test1 = unicodedata.normalize("NFKC", patch)
-                test2 = card['Name']
-                test3 = patchData[patch]['ID']
-                test4 = card['ID']
-                # if not is_promote:
-                #     if test2 == test1:
-                #         found = True
-                #         # print(f"Detected! | {card['Name']}")
-                #         if 'http://aikatsu.com/qr/id=' not in patchData[patch]['QR']:
-                #             print(f'[WARN] {card['Name']} has no QR code')
-                #         else:
-                #             card['Barcode'] = patchData[patch]['Barcode']
-                #             card['QR'] = patchData[patch]['QR']
-                # else:
-                #     if test4 == test3:
-                #         found = True
-                #         # print(f"Detected! | {card['Name']}")
-                #         if 'http://aikatsu.com/qr/id=' not in patchData[patch]['QR']:
-                #             print(f'[WARN] {card['Name']} has no QR code')
-                #         else:
-                #             card['Barcode'] = patchData[patch]['Barcode']
-                #             card['QR'] = patchData[patch]['QR']
+                qrName = unicodedata.normalize("NFKC", patch)
+                cardName = card['Name']
+                qrID = patchData[patch]['ID']
 
-                #match by name
-                if test2 == test1:
+                if not is_promote:
+                    match card['Rarity']:
+                        case "ノーマル":
+                            cardID = f'{card['ID']} N'
+                        case "レア":
+                            cardID = f'{card['ID']} R'
+                        case "プレミアムレア":
+                            if subnum < 6:
+                                cardID = f'{card['ID']} P'
+                            else:
+                                cardID = f'{card['ID']} PR'
+                else:
+                    cardID = card['ID']
+
+                #try comparison by ID first:
+                if cardID == qrID:
                     found = True
-                    # print(f"Detected! | {card['Name']}")
                     if 'http://aikatsu.com/qr/id=' not in patchData[patch]['QR']:
                         print(f'[WARN] {card['Name']} has no QR code')
                     else:
                         card['Barcode'] = patchData[patch]['Barcode']
                         card['QR'] = patchData[patch]['QR']
-        
+                #then, try with card name
+                elif cardName == qrName:
+                    found = True
+                    if 'http://aikatsu.com/qr/id=' not in patchData[patch]['QR']:
+                        print(f'[WARN] {card['Name']} has no QR code')
+                    else:
+                        card['Barcode'] = patchData[patch]['Barcode']
+                        card['QR'] = patchData[patch]['QR']
             if not found:
                 unidentify.append(f'{card['ID']} | {card['Name']}')
 
@@ -179,43 +179,18 @@ def patch_QR():
     with open(BASE_DIR / "utils" / "scrapers" / "qr_Data" / 'aikatsu' / f'aikatsu_QRData-{22}.json', 'r', encoding='utf-8') as data:
         assoc = json.load(data)
     patch(assoc, 'aikatsu', 22, True)
+
+    if len(unidentify) > 0:
+        return unidentify
     
 
-print('Warning! This script will modify the current database json files to include QR and Barcodes. This will take a while. Continue? (Press Y to continue)')
+# print('Warning! This script will modify the current database json files to include QR and Barcodes. This will take a while. Continue? (Press Y to continue)')
 
-arg = input()
+# arg = input()
 
-if arg.lower() == 'y':
-    scrape_QR()
-    patch_QR()
-else:
-    quit()
-
-if len(unidentify) > 0:
-    warning = (
-        "[WARN] The scraper has not resolved the following cards. "
-        "This is due to name text mismatches from the QR code library "
-        "and the Database library. Please locate the missing codes in "
-        "the generated json files and add them to the database manually."
-    )
-
-    note = (
-        "Note: This does not track unadded promotional cards. "
-        "Please check manually."
-    )
-
-    print(warning)
-    print(note)
-
-    report_path = BASE_DIR / "utils" / "scrapers" / "unidentified_cards.txt"
-
-    with open(report_path, "w", encoding="utf-8") as report:
-        report.write(warning + "\n")
-        report.write(note + "\n\n")
-
-        for mismatch in unidentify:
-            print(mismatch)
-            report.write(mismatch + "\n")
-
-    print(f"\nReport written to: {report_path}")
+# if arg.lower() == 'y':
+#     scrape_QR()
+#     patch_QR()
+# else:
+#     quit()
 

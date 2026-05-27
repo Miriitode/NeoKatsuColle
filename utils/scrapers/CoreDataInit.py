@@ -1,8 +1,10 @@
 from bs4 import BeautifulSoup
 import requests
-import os
+from pathlib import Path
 import re
 from lxml import etree
+
+BASE_DIR = Path(__file__).resolve().parents[2]
 
 def get_series_img():
     series = [
@@ -12,17 +14,17 @@ def get_series_img():
         "logo-aikatsuonparade.png",
         "logo-aikatsuplanet.png"
     ]
-    if os.path.isdir(os.path.join(os.getcwd(),f'Assets/Core/SeriesImg')):
+    series_img_dir = BASE_DIR / 'Assets' / 'Core' / 'SeriesImg'
+    if series_img_dir.is_dir():
         print("Series Image Directory Exists!")
     else:
-        os.makedirs(os.path.join(os.getcwd(),f'Assets/Core/SeriesImg'))
+        series_img_dir.mkdir(parents=True, exist_ok=True)
 
     for i in series:
         url = f'https://www.aikatsu.net/portal/img/{i}'
         data = requests.get(url).content
-        with open(os.path.join(os.getcwd(), f'Assets/Core/SeriesImg/{i}'), 'wb') as file:
+        with open(series_img_dir / i, 'wb') as file:
             file.write(data)
-        file.close()
 
 def get_planet_type_img():
     imglist = [
@@ -40,17 +42,17 @@ def get_planet_type_img():
         'icon_SWEETS.png'
     ]
 
-    if os.path.isdir(os.path.join(os.getcwd(),f'Assets/Core/Types')):
+    core_types_dir = BASE_DIR / 'Assets' / 'Core' / 'Types'
+    if core_types_dir.is_dir():
         print("Series Image Directory Exists!")
     else:
-        os.makedirs(os.path.join(os.getcwd(),f'Assets/Core/Types'))
+        core_types_dir.mkdir(parents=True, exist_ok=True)
 
     for i in imglist:
         url = f'https://card.aikatsu.net/planet/images/swinglist/dressia/{i}'
         data = requests.get(url).content
-        with open(os.path.join(os.getcwd(), f'Assets/Core/Types/{i}'), 'wb') as file:
+        with open(core_types_dir / i, 'wb') as file:
             file.write(data)
-        file.close()
 
 def get_series_brand(series):
     match series:
@@ -116,17 +118,17 @@ def get_series_brand(series):
         case 'Planet':
             imglist = []
 
-    if os.path.isdir(os.path.join(os.getcwd(),f'Assets/Brands')):
+    brands_dir = BASE_DIR / 'Assets' / 'Brands'
+    if brands_dir.is_dir():
         print("Series Image Directory Exists!")
     else:
-        os.makedirs(os.path.join(os.getcwd(),f'Assets/Brands'))
+        brands_dir.mkdir(parents=True, exist_ok=True)
 
     for i in imglist:
         url = f'https://www.aikatsu.net/portal/brand-type/img/{i}.png'
         data = requests.get(url).content
-        with open(os.path.join(os.getcwd(), f'Assets/Brands/{i[:-3]}.png'), 'wb') as file:
+        with open(brands_dir / f'{i[:-3]}.png', 'wb') as file:
             file.write(data)
-        file.close()
 
 #get_series_img()
 

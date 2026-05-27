@@ -1,9 +1,11 @@
 from bs4 import BeautifulSoup
 import requests
-import os
+from pathlib import Path
 import re
 import json
 from lxml import etree
+
+BASE_DIR = Path(__file__).resolve().parents[2]
 
 def Generate(link, series):
     '''
@@ -24,19 +26,17 @@ def Generate(link, series):
     webLink = f'https://www.aikatsu.com/onparade/cardlist/index.php?search=true&category={link}'
     game = 'データカードダスアイカツオンパレード！'
     cardData = []
-    imgData = []
 
-    if os.path.isfile(os.path.join(os.getcwd(),f'Database/parade/CardList/Parade_Data-{series}.json')):
-        file = os.path.join(os.getcwd(),f'Database/parade/CardList/Parade_Data-{series}.json')
+    if (BASE_DIR / "Database" / "parade" / f"parade_Data-{series}.json").is_file():
+        file = BASE_DIR / "Database" / "parade" / f"parade_Data-{series}.json"
 
-        if os.stat(file).st_size != 0:
+        if file.stat().st_size != 0:
             print("Database exists! Scraping next cardset...")
             return
         
-    #parade = BeautifulSoup(open(os.path.join(os.getcwd(), "Sample_Data/Parade/parade.html"), encoding="utf-8"), 'html.parser')
+    #parade = BeautifulSoup(open(BASE_DIR / "Sample_Data" / "Parade" / "parade.html", encoding="utf-8"), 'html.parser')
     parade = BeautifulSoup(requests.get(webLink).content, 'html.parser')
-    export = open(os.path.join(os.getcwd(),f'Database/parade/CardList/Parade_Data-{series}.json'), 'w', encoding='utf-8')
-    img = open(os.path.join(os.getcwd(),f'Database/parade/ImgList/Parade_Img-{series}.json'), 'w', encoding='utf-8')
+    export = open(BASE_DIR / "Database" / "parade" / f"parade_Data-{series}.json", 'w', encoding='utf-8')
     cardList = parade.find("div", {"class":"cardlistCol"}).find("div", {"id":"lists"}).find_all("div", class_=re.compile("data page"))
     title = parade.find("div", {"class":"titCol titCol_cardlist"}).h3.img.attrs.get('alt')
     print(f'({series}) Generating Card Database: {game} {title}')
@@ -83,20 +83,12 @@ def Generate(link, series):
             'Appeal': cardAppeal,
             'Points': cardAP,
             'Notes': cardRemarks,
-            }
-        
-        imgExport = {
-            'imgFile':cardID, #woops where are the image links
-            'imgLink':cardOut,
+            'imgLink':cardOut
             }
 
         cardData.append(cardExport)
-        imgData.append(imgExport)
 
     #Write Operations
-    outImg = json.dumps(imgData, indent = 3)
     outData = json.dumps(cardData,ensure_ascii=False, indent = 3)
-    img.write(outImg)
     export.write(outData)
     export.close()
-    img.close()

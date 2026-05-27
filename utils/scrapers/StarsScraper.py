@@ -1,9 +1,11 @@
 from bs4 import BeautifulSoup
 import requests
-import os
+from pathlib import Path
 import re
 import json
 from lxml import etree
+
+BASE_DIR = Path(__file__).resolve().parents[2]
 
 def Generate(link, series):
     # This might be the most complicated scraper I ever have to do...
@@ -12,20 +14,17 @@ def Generate(link, series):
     webLink = f'https://www.aikatsu.com/stars/cardlist/dresslist.php?search=true&category={link}'
     game = 'データカードダスアイカツスターズ!'
     cardData = []
-    imgData = []
     s = requests.session()
     stars = BeautifulSoup(s.get(webLink).content, 'lxml')
 
-    if os.path.isfile(os.path.join(os.getcwd(),f'Database/stars/CardList/Stars_Data-{series}.json')):
-        file = os.path.join(os.getcwd(),f'Database/stars/CardList/Stars_Data-{series}.json')
+    if (BASE_DIR / "Database" / "stars" / f"stars_Data-{series}.json").is_file():
+        file = BASE_DIR / "Database" / "stars" / f"stars_Data-{series}.json"
 
-        if os.stat(file).st_size != 0:
+        if file.stat().st_size != 0:
             print("Database exists! Scraping next cardset...")
             return
 
-    export = open(os.path.join(os.getcwd(),f'Database/stars/CardList/Stars_Data-{series}.json'), 'w', encoding='utf-8')
-    
-    img = open(os.path.join(os.getcwd(),f'Database/stars/ImgList/Stars_Img-{series}.json'), 'w', encoding='utf-8')
+    export = open(BASE_DIR / "Database" / "stars" / f"stars_Data-{series}.json", 'w', encoding='utf-8')
     cardList = stars.find("div", {"id":"list"}).find_all("a")
     title = stars.find("h3", {"id":"title"}).img.attrs.get("alt")
     print(f'({series}) Generating Card Database: {game} {title}')
@@ -40,7 +39,6 @@ def Generate(link, series):
         cardAPP = None
 
         cardTitle = card.find("div", {"class": "dress-detail-title clearfix"})
-        # cardTable = card.find("div", {"class": "dress-detail clearfix"})
         
         if "星のツバサ" in title:
             brand = card.find("li", {"class":"brand"})
@@ -98,6 +96,7 @@ def Generate(link, series):
             'Type': cardType,
             'Appeal': cardAppeal,
             'Points': cardAP,
+            'imgLink': cardOut
         }
 
         if cardGrade:
@@ -115,19 +114,9 @@ def Generate(link, series):
         else:
             cardExport['Plus'] = '-'
 
-
-        imgExport = {
-            'imgFile': cardID,
-            'imgLink': cardOut,
-        }
-
         cardData.append(cardExport)
-        imgData.append(imgExport)
 
     #Write Operations
-    outImg = json.dumps(imgData, indent = 3)
     outData = json.dumps(cardData,ensure_ascii=False, indent = 3)
-    img.write(outImg)
     export.write(outData)
     export.close()
-    img.close()
