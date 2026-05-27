@@ -1,0 +1,651 @@
+[
+   {
+      "ID": "OD3-61 LPR",
+      "RarityFull": "レジェンドプレミアムレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス＆ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "スターライトシャイニングコーデ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "スターライト学園",
+      "Type": "キュート",
+      "Appeal": "レジェンドプレミアムシャイニングスターライト",
+      "Points": "3060",
+      "Notes": "期間限定イベント ドリームスクールグランプリ",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/od3-61lpr_00.png"
+   },
+   {
+      "ID": "OD3-61 LPR",
+      "RarityFull": "レジェンドプレミアムレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス＆ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "ドリームエミネンスコーデ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "ドリームアカデミー",
+      "Type": "クール",
+      "Appeal": "レジェンドプレミアムシャイニングドリーム",
+      "Points": "3060",
+      "Notes": "期間限定イベント ドリームスクールグランプリ",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/od3-61lpr_00_d2.png"
+   },
+   {
+      "ID": "OD3-61 LPR",
+      "RarityFull": "レジェンドプレミアムレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス＆ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "フォースターラグジュアルコーデ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "四ツ星学園",
+      "Type": "キュート",
+      "Appeal": "レジェンドプレミアムシャイニングフォースター",
+      "Points": "3060",
+      "Notes": "期間限定イベント ドリームスクールグランプリ",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/od3-61lpr_00_d3.png"
+   },
+   {
+      "ID": "OD3-61 LPR",
+      "RarityFull": "レジェンドプレミアムレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス＆ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "グレイテストヴィーナスコーデ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "ネオ・ヴィーナスアーク",
+      "Type": "セクシー",
+      "Appeal": "レジェンドプレミアムシャイニングヴィーナス",
+      "Points": "3060",
+      "Notes": "期間限定イベント ドリームスクールグランプリ",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/od3-61lpr_00_d4.png"
+   },
+   {
+      "ID": "OD3-61 LPR",
+      "RarityFull": "レジェンドプレミアムレア",
+      "RarityFig": "★★★★",
+      "Category": [
+         "トップス＆ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "スターハーモニーピュアフルコーデ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "スターハーモニー学園",
+      "Type": "キュート",
+      "Appeal": "レジェンドプレミアムシャイニングハーモニー",
+      "Points": "3060",
+      "Notes": "期間限定イベント ドリームスクールグランプリ",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/od3-61lpr_00_d5.png"
+   },
+   {
+      "ID": "OP3-84 PR",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "ロゼチアフルコーデ",
+      "Brand": "ハニーキャット",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "ベストハニーキャットウィッシュ",
+      "Points": "2930",
+      "Notes": "第3弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op3-84pr_00.png"
+   },
+   {
+      "ID": "OP3-85 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "フェアリーガーデンコーデ",
+      "Brand": "マイリトルハート",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ハートフルワールド",
+      "Points": "1950",
+      "Notes": "第3弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op3-85r_00.png"
+   },
+   {
+      "ID": "OP3-86 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "ホワイトパレスコーデ",
+      "Brand": "ロイヤルソード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "レイジングスラッシュ",
+      "Points": "1950",
+      "Notes": "第3弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op3-86r_00.png"
+   },
+   {
+      "ID": "OP3-87 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "カントリーステッチコーデ",
+      "Brand": "ハミングリーフ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ハミングパッチワーク",
+      "Points": "2120",
+      "Notes": "第3弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op3-87r_00.png"
+   },
+   {
+      "ID": "OP3-88 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "レッドゴシックストライプコーデ",
+      "Brand": "スパイスコード",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "アンチェインコード",
+      "Points": "1950",
+      "Notes": "第3弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op3-88r_00.png"
+   },
+   {
+      "ID": "OP3-89 PR",
+      "RarityFull": "プレミアムレア",
+      "RarityFig": "★★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "ロゼヒロイックコーデ",
+      "Brand": "ハニーキャット",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "ベストハニーキャットウィッシュ",
+      "Points": "2930",
+      "Notes": "第3弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op3-89pr_00.png"
+   },
+   {
+      "ID": "OP3-90 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ"
+      ],
+      "Name": "パステルパープルラインコーデ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "キュートスマイル",
+      "Points": "1760",
+      "Notes": "第3弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op3-90r_00.png"
+   },
+   {
+      "ID": "OP3-91 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "アイカツ！ナビユニフォームコーデ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "キュートスマイル、クールスマイル、セクシースマイル",
+      "Points": "2120",
+      "Notes": "第3弾：フルコーデカードモード 弾限定カード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op3-91r_00.png"
+   },
+   {
+      "ID": "OPP2-59 N",
+      "RarityFull": "ノーマル",
+      "RarityFig": "★",
+      "Category": [
+         "トップス＆ボトムス",
+         "シューズ"
+      ],
+      "Name": "ドリームアカデミー制服コーデ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "クールスマイル",
+      "Points": "850",
+      "Notes": "期間限定イベント アイカツ！ニューワールドフェス ロックステージ",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/opp2-59n_00.png"
+   },
+   {
+      "ID": "OPP2-60 N",
+      "RarityFull": "ノーマル",
+      "RarityFig": "★",
+      "Category": [
+         "トップス＆ボトムス",
+         "シューズ"
+      ],
+      "Name": "スターライト学園制服コーデ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "キュートスマイル",
+      "Points": "850",
+      "Notes": "期間限定イベント アイカツ！ニューワールドフェス ロックステージ",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/opp2-60n_00.png"
+   },
+   {
+      "ID": "OPP2-61 N",
+      "RarityFull": "ノーマル",
+      "RarityFig": "★",
+      "Category": [
+         "トップス＆ボトムス",
+         "シューズ"
+      ],
+      "Name": "スターハーモニー学園高等部制服コーデ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "キュートスマイル",
+      "Points": "850",
+      "Notes": "期間限定イベント アイカツ！ニューワールドフェス フレンズステージ",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/opp2-61n_00.png"
+   },
+   {
+      "ID": "OPP2-62 N",
+      "RarityFull": "ノーマル",
+      "RarityFig": "★",
+      "Category": [
+         "トップス＆ボトムス",
+         "シューズ"
+      ],
+      "Name": "ヴィーナスアーク制服コーデ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "セクシースマイル",
+      "Points": "850",
+      "Notes": "期間限定イベント アイカツ！ニューワールドフェス ダンスステージ",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/opp2-62n_00.png"
+   },
+   {
+      "ID": "OPP2-63 N",
+      "RarityFull": "ノーマル",
+      "RarityFig": "★",
+      "Category": [
+         "トップス＆ボトムス",
+         "シューズ"
+      ],
+      "Name": "四ツ星学園一般生制服コーデ",
+      "Brand": [
+         "ノーブランド"
+      ],
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "キュートスマイル",
+      "Points": "850",
+      "Notes": "期間限定イベント アイカツ！ニューワールドフェス ムーンステージ",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/opp2-63n_00.png"
+   },
+   {
+      "ID": "OP2-85 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "ビューティフルワルツコーデ",
+      "Brand": "マイリトルハート",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "ハートフルワールド",
+      "Points": "1950",
+      "Notes": "第2弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op2-85r_00.png"
+   },
+   {
+      "ID": "OP2-86 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "マカロンアラモードコーデ",
+      "Brand": "ミルキージョーカー",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "ミルキーボム",
+      "Points": "2120",
+      "Notes": "第2弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op2-86r_00.png"
+   },
+   {
+      "ID": "OP2-87 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "クラシックブルーノーブルコーデ",
+      "Brand": "グロリアススノー",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "グロリアスキャッスル",
+      "Points": "2120",
+      "Notes": "第2弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op2-87r_00.png"
+   },
+   {
+      "ID": "OP2-88 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "デイジーライトグリーンコーデ",
+      "Brand": "クラシカルアンジュ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "エンジェルガーデン",
+      "Points": "2120",
+      "Notes": "第2弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op2-88r_00.png"
+   },
+   {
+      "ID": "OP2-89 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "アイディアルレディコーデ",
+      "Brand": "ヘヴンリーパフューム",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "ヘヴンリーフレイム",
+      "Points": "2120",
+      "Notes": "第2弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op2-89r_00.png"
+   },
+   {
+      "ID": "OP2-90 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "ゴージャスバロックコーデ",
+      "Brand": "パーフェクトクイーン",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "グローリージャッジ",
+      "Points": "1950",
+      "Notes": "第2弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op2-90r_00.png"
+   },
+   {
+      "ID": "OP2-91 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ"
+      ],
+      "Name": "アクアリウムコーデ",
+      "Brand": "ラブムーンライズ",
+      "School": "-",
+      "Type": "セクシー",
+      "Appeal": "ダブルムーンジュエル",
+      "Points": "1000",
+      "Notes": "第2弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op2-91r_00.png"
+   },
+   {
+      "ID": "OP2-92 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス＆ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "サマーデイミラクルコーデ",
+      "Brand": "ヴィヴィッドキス",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "チアフルキッス",
+      "Points": "1440",
+      "Notes": "第2弾：フルコーデカードモード 弾限定カード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op2-92r_00.png"
+   },
+   {
+      "ID": "OP2-93 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス＆ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "サマーデイムーンコーデ",
+      "Brand": "ヴィヴィッドキス",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "チアフルキッス",
+      "Points": "1440",
+      "Notes": "第2弾：フルコーデカードモード 弾限定カード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op2-93r_00.png"
+   },
+   {
+      "ID": "OP1-69 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "メルティイエローベルコーデ",
+      "Brand": "フワフワドリーム",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "ミルキードリーミータイム",
+      "Points": "1950",
+      "Notes": "第1弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op1-69r_00.png"
+   },
+   {
+      "ID": "OP1-70 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "ホワイトピトレスクコーデ",
+      "Brand": "ムーンメイデン",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ミスティックムーン",
+      "Points": "2120",
+      "Notes": "第1弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op1-70r_00.png"
+   },
+   {
+      "ID": "OP1-71 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "パープルクルールリボンコーデ",
+      "Brand": "レインボーベリーパルフェ",
+      "School": "-",
+      "Type": "キュート",
+      "Appeal": "レインボーハピネスフォーユー",
+      "Points": "1270",
+      "Notes": "第1弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op1-71r_00.png"
+   },
+   {
+      "ID": "OP1-72 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス＆ボトムス",
+         "シューズ"
+      ],
+      "Name": "ストライプトレンチコーデ",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "クロックサーカス、クールスマイル",
+      "Points": "910",
+      "Notes": "第1弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op1-72r_00.png"
+   },
+   {
+      "ID": "OP1-73 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "メルティピンクベルコーデ",
+      "Brand": "フワフワドリーム",
+      "School": "-",
+      "Type": "ポップ",
+      "Appeal": "ミルキードリーミータイム",
+      "Points": "1950",
+      "Notes": "第1弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op1-73r_00.png"
+   },
+   {
+      "ID": "OP1-74 R",
+      "RarityFull": "レア",
+      "RarityFig": "★★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "ミッドナイトインディゴコーデ",
+      "Brand": "ルナウィッチ",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "ルナシンフォニア",
+      "Points": "2120",
+      "Notes": "第1弾：フルコーデカードモード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op1-74r_00.png"
+   },
+   {
+      "ID": "OP1-75 N",
+      "RarityFull": "ノーマル",
+      "RarityFig": "★",
+      "Category": [
+         "トップス",
+         "ボトムス",
+         "シューズ",
+         "アクセサリー"
+      ],
+      "Name": "ゴシックナイトコーデ",
+      "Brand": "ロリゴシック",
+      "School": "-",
+      "Type": "クール",
+      "Appeal": "クロックサーカス",
+      "Points": "1220",
+      "Notes": "第1弾：フルコーデカードモード 弾限定カード",
+      "imgLink": "https://www.aikatsu.com/onparade/images/cardlist/card/491801/op1-75n_00.png"
+   }
+]

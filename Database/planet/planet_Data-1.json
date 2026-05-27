@@ -1,0 +1,527 @@
+[
+   {
+      "ID": "2-1 PR",
+      "Series": "2",
+      "CardNo": "1",
+      "Rarity": "PR",
+      "Name": "ワンダーランドテイル",
+      "Level": "Lv.7",
+      "Description": "シオリのキードレシア！まるで不思議の国から飛び出してきたようなドレシアだよ！一緒にいろんな世界を冒険したくなっちゃう♪",
+      "Skill": "クライマックスバトルにセットしたら、なかまのレベル＋2",
+      "Type": [
+         "ストーリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-1pr_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-1pr_00_b.png"
+   },
+   {
+      "ID": "2-2 PR",
+      "Series": "2",
+      "CardNo": "2",
+      "Rarity": "PR",
+      "Name": "スウィートホールケーキ",
+      "Level": "Lv.7",
+      "Description": "アンのキードレシア！フルーツとクリームがとってもおいしそう！甘くてかわいいドレスを着させてくれるドレシアだよ！",
+      "Skill": "オープニングバトルにセットしたら、クライマックスバトルのドレシアゲージがとてもたまりやすい",
+      "Type": [
+         "スウィーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-2pr_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-2pr_00_b.png"
+   },
+   {
+      "ID": "2-3 PR",
+      "Series": "2",
+      "CardNo": "3",
+      "Rarity": "PR",
+      "Name": "ピュアフルフェニックス",
+      "Level": "Lv.7",
+      "Description": "大きく広げた燃えるような色の翼が美しいドレシア！ひらひらと揺れる虹色の尾羽が神秘的！首元のリボンがオシャレ♪",
+      "Skill": "メインバトルにセットしたら、フェアリーのレベル＋１",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-3pr_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-3pr_00_b.png"
+   },
+   {
+      "ID": "2-4 R",
+      "Series": "2",
+      "CardNo": "4",
+      "Rarity": "R",
+      "Name": "アイビースリーピング",
+      "Level": "Lv.4",
+      "Description": "眠っているお姫様のように愛らしいドレシア！いばらをモチーフにした金のかざりが素敵なドレスを着させてくれるよ♪",
+      "Skill": "あいてがスウィーツだったら、ぜんいんのドレシアゲージがとてもたまりやすい",
+      "Type": [
+         "ストーリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-4r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-4r_00_b.png"
+   },
+   {
+      "ID": "2-5 R",
+      "Series": "2",
+      "CardNo": "5",
+      "Rarity": "R",
+      "Name": "デザートアラビアンナイト",
+      "Level": "Lv.4",
+      "Description": "帽子についたパープルカラーの羽根が知的に輝くフクロウのドレシア！一夜で千のお話を奏でるように聞かせてくれるよ♪",
+      "Skill": "メインバトルにセットしたら、なかまのレベル＋１",
+      "Type": [
+         "ストーリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-5r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-5r_00_b.png"
+   },
+   {
+      "ID": "2-6 R",
+      "Series": "2",
+      "CardNo": "6",
+      "Rarity": "R",
+      "Name": "ポップメロンクレープ",
+      "Level": "Lv.5",
+      "Description": "クレープをイメージしたドレシアだよ！贅沢なメロンとクリームがベストマッチ！みんなを幸せな気持ちで包んでくれるよ♡",
+      "Skill": "あいてがホロスコープだったら、じぶんのドレシアゲージがとてもたまりやすい",
+      "Type": [
+         "スウィーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-6r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-6r_00_b.png"
+   },
+   {
+      "ID": "2-7 R",
+      "Series": "2",
+      "CardNo": "7",
+      "Rarity": "R",
+      "Name": "アプリコットマカロン",
+      "Level": "Lv.5",
+      "Description": "アプリコットカラーの生地にたっぷりのクリームを挟んだマカロンのドレシア！頭と胸元のリボンがアクセント♪",
+      "Skill": "クライマックスバトルにセットしたら、じぶんのレベル＋１",
+      "Type": [
+         "スウィーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-7r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-7r_00_b.png"
+   },
+   {
+      "ID": "2-8 R",
+      "Series": "2",
+      "CardNo": "8",
+      "Rarity": "R",
+      "Name": "ファンタジックペガサス",
+      "Level": "Lv.5",
+      "Description": "うす紫と水色のたてがみが幻想的なドレシアだよ！コルセットのピンク色がアクセントになって、とてもキュート！",
+      "Skill": "クライマックスバトルにセットしたら、じぶんのレベル＋１",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-8r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-8r_00_b.png"
+   },
+   {
+      "ID": "2-9 R",
+      "Series": "2",
+      "CardNo": "9",
+      "Rarity": "R",
+      "Name": "ブライトアンバー",
+      "Level": "Lv.4",
+      "Description": "温かみのあるオレンジとイエローがきれいなドレシアだよ！美しく輝くアンバーが、明るく前向きな気持ちにさせてくれるよ♪",
+      "Skill": "メインバトルにセットしたら、ジュエルのレベル＋１",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-9r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-9r_00_b.png"
+   },
+   {
+      "ID": "2-10 R",
+      "Series": "2",
+      "CardNo": "10",
+      "Rarity": "R",
+      "Name": "カームカプリコーン",
+      "Level": "Lv.6",
+      "Description": "ゴールドのラインの入った2本の角としっぽがキラキラ光ってとっても美しい、やぎ座をイメージしたドレシアだよ！",
+      "Skill": "オープニングバトルにセットしたら、じぶんのドレシアゲージがたまりやすい",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-10r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-10r_00_b.png"
+   },
+   {
+      "ID": "2-11 R",
+      "Series": "2",
+      "CardNo": "11",
+      "Rarity": "R",
+      "Name": "フォースサジタリウス",
+      "Level": "Lv.6",
+      "Description": "吸い込まれそうな深いグリーンの体にアンバーの瞳が大人っぽくて魅力的！いて座をイメージしたドレシアだよ！",
+      "Skill": "あいてがジュエルだったら、じぶんのドレシアゲージがとてもたまりやすい",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-11r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-11r_00_b.png"
+   },
+   {
+      "ID": "2-12 R",
+      "Series": "2",
+      "CardNo": "12",
+      "Rarity": "R",
+      "Name": "ポイズンロック",
+      "Level": "Lv.5",
+      "Description": "ビビッドカラーを着こなすクールなドレシア！羽のかたちのスピーカーから音楽を響かせて、ロックなドレスを着させてくれるよ♪",
+      "Skill": "あいてのドレシアレベルが５より大きかったら、じぶんのレベル＋２",
+      "Type": [
+         "ミュージック"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-12r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-12r_00_b.png"
+   },
+   {
+      "ID": "2-13 N",
+      "Series": "2",
+      "CardNo": "13",
+      "Rarity": "N",
+      "Name": "ローズスリーピング",
+      "Level": "Lv.2",
+      "Description": "眠っているお姫様のように可愛らしいドレシア！ふんわり広がるスカートが、ぽかぽか暖かそうで一緒にお昼寝したくなっちゃう…♪",
+      "Skill": "クライマックスバトルにセットしたら、メインバトルのレベル＋１",
+      "Type": [
+         "ストーリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-13n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-13n_00_b.png"
+   },
+   {
+      "ID": "2-14 N",
+      "Series": "2",
+      "CardNo": "14",
+      "Rarity": "N",
+      "Name": "ソーンスリーピング",
+      "Level": "Lv.1",
+      "Description": "眠っているお姫様のようにしずかなドレシア！ふんわり広がるスカートが、ひんやりつめたくて一緒にお昼寝したくなっちゃう…♪",
+      "Skill": "なかまのドレシアゲージがすごくたまりやすい",
+      "Type": [
+         "ストーリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-14n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-14n_00_b.png"
+   },
+   {
+      "ID": "2-15 N",
+      "Series": "2",
+      "CardNo": "15",
+      "Rarity": "N",
+      "Name": "スコーチアラビアンナイト",
+      "Level": "Lv.2",
+      "Description": "真っ赤な体に深いブルーのひとみがチャームポイントのドレシアだよ！胸が熱くなるような物語を読み聞かせてくれるよ！",
+      "Skill": "あいてがスウィーツだったら、クライマックスバトルのレベル＋１",
+      "Type": [
+         "ストーリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-15n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-15n_00_b.png"
+   },
+   {
+      "ID": "2-16 N",
+      "Series": "2",
+      "CardNo": "16",
+      "Rarity": "N",
+      "Name": "オアシスアラビアンナイト",
+      "Level": "Lv.2",
+      "Description": "黄色い体に明るいブルーのひとみがチャームポイントのドレシアだよ！心が安らぐような物語を読み聞かせてくれるよ！",
+      "Skill": "オープニングバトルにセットしたら、メインバトルのレベル＋１",
+      "Type": [
+         "ストーリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-16n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-16n_00_b.png"
+   },
+   {
+      "ID": "2-17 N",
+      "Series": "2",
+      "CardNo": "17",
+      "Rarity": "N",
+      "Name": "ポップチェリークレープ",
+      "Level": "Lv.3",
+      "Description": "クレープをイメージしたドレシアだよ！かわいいサクランボとクリームがマッチ！みんなをあまずっぱい気持ちで包んでくれるよ♡",
+      "Skill": "-",
+      "Type": [
+         "スウィーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-17n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-17n_00_b.png"
+   },
+   {
+      "ID": "2-18 N",
+      "Series": "2",
+      "CardNo": "18",
+      "Rarity": "N",
+      "Name": "ポップグレープクレープ",
+      "Level": "Lv.2",
+      "Description": "クレープをイメージしたドレシアだよ！グレープとクリームがマッチ！みんなをあたたかくやさしい気持ちで包んでくれるよ♡",
+      "Skill": "あいてがホロスコープだったら、スウィーツのレベル＋２",
+      "Type": [
+         "スウィーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-18n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-18n_00_b.png"
+   },
+   {
+      "ID": "2-19 N",
+      "Series": "2",
+      "CardNo": "19",
+      "Rarity": "N",
+      "Name": "チョコストロベリーマカロン",
+      "Level": "Lv.3",
+      "Description": "かわいいマカロンをイメージしたドレシアだよ！チョコレートとストロベリーの組み合わせがあまずっぱくてラブリー♡",
+      "Skill": "-",
+      "Type": [
+         "スウィーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-19n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-19n_00_b.png"
+   },
+   {
+      "ID": "2-20 N",
+      "Series": "2",
+      "CardNo": "20",
+      "Rarity": "N",
+      "Name": "ピスタチオバニラマカロン",
+      "Level": "Lv.2",
+      "Description": "かわいいマカロンをイメージしたドレシアだよ！バニラの香りとピスタチオの香ばしさでやさしくつつまれちゃう♪",
+      "Skill": "メインバトルにセットしたら、なかまのレベル＋１",
+      "Type": [
+         "スウィーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-20n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-20n_00_b.png"
+   },
+   {
+      "ID": "2-21 N",
+      "Series": "2",
+      "CardNo": "21",
+      "Rarity": "N",
+      "Name": "レイクペガサス",
+      "Level": "Lv.3",
+      "Description": "ブルーの宝石がついたティアラがかわいい♡やさしいクリーム色の体にあざやかなブルーのたてがみが美しいドレシアだよ！",
+      "Skill": "-",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-21n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-21n_00_b.png"
+   },
+   {
+      "ID": "2-22 N",
+      "Series": "2",
+      "CardNo": "22",
+      "Rarity": "N",
+      "Name": "ミストペガサス",
+      "Level": "Lv.2",
+      "Description": "パープルの宝石がついたティアラがかわいい♡さわやかなライムグリーンの体とたてがみが美しいドレシアだよ！",
+      "Skill": "メインバトルにセットしたら、じぶんのレベル＋１",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-22n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-22n_00_b.png"
+   },
+   {
+      "ID": "2-23 N",
+      "Series": "2",
+      "CardNo": "23",
+      "Rarity": "N",
+      "Name": "ブライトアメジスト",
+      "Level": "Lv.2",
+      "Description": "大きなフリルとアメジストのアクセサリーが魅力的！パープル色のドレスに豪華な金色のラインがクールに輝くよ！",
+      "Skill": "オープニングバトルにセットしたら、Rのレベル＋１",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-23n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-23n_00_b.png"
+   },
+   {
+      "ID": "2-24 N",
+      "Series": "2",
+      "CardNo": "24",
+      "Rarity": "N",
+      "Name": "ブライトピンクサファイア",
+      "Level": "Lv.1",
+      "Description": "大きなフリルとピンクサファイアのアクセサリーが魅力的！マゼンタ色のドレスに豪華な銀色のラインがエレガントに輝くよ！",
+      "Skill": "ストーリーのドレシアゲージがすごくたまりやすい",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-24n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-24n_00_b.png"
+   },
+   {
+      "ID": "2-25 N",
+      "Series": "2",
+      "CardNo": "25",
+      "Rarity": "N",
+      "Name": "フォーチュンアクアマリン",
+      "Level": "Lv.1",
+      "Description": "海のような、澄んだブルーがとってもキレイなドレシアだよ！頭と胸元にあるアクアマリンが幸運と自信をもたらしてくれるよ♪",
+      "Skill": "じぶんのドレシアゲージがすごくたまりやすい",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-25n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-25n_00_b.png"
+   },
+   {
+      "ID": "2-26 N",
+      "Series": "2",
+      "CardNo": "26",
+      "Rarity": "N",
+      "Name": "インテンスカプリコーン",
+      "Level": "Lv.3",
+      "Description": "首元の黒いリボンがシックでオシャレ！赤い角としっぽにゴールドのラインが映える、やぎ座をイメージしたドレシアだよ！",
+      "Skill": "-",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-26n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-26n_00_b.png"
+   },
+   {
+      "ID": "2-27 N",
+      "Series": "2",
+      "CardNo": "27",
+      "Rarity": "N",
+      "Name": "ナチュラルカプリコーン",
+      "Level": "Lv.2",
+      "Description": "首元のブラウンのリボンがシックでオシャレ♪黄色い角としっぽにゴールドのラインが映える、やぎ座をイメージしたドレシアだよ！",
+      "Skill": "メインバトルにセットしたら、じぶんのドレシアゲージがとてもたまりやすい",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-27n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-27n_00_b.png"
+   },
+   {
+      "ID": "2-28 N",
+      "Series": "2",
+      "CardNo": "28",
+      "Rarity": "N",
+      "Name": "ホープサジタリウス",
+      "Level": "Lv.3",
+      "Description": "希望をあたえるまばゆいオレンジのグラデーションが幻想的！弓矢がモチーフのいて座をイメージしたドレシアだよ！",
+      "Skill": "-",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-28n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-28n_00_b.png"
+   },
+   {
+      "ID": "2-29 N",
+      "Series": "2",
+      "CardNo": "29",
+      "Rarity": "N",
+      "Name": "ブレイブサジタリウス",
+      "Level": "Lv.2",
+      "Description": "勇気をあたえる爽やかなブルーのグラデーションが幻想的！弓矢がモチーフのいて座をイメージしたドレシアだよ！",
+      "Skill": "あいてがジュエルだったら、オープニングバトルのドレシアゲージがとてもたまりやすい",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-29n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-29n_00_b.png"
+   },
+   {
+      "ID": "2-30 N",
+      "Series": "2",
+      "CardNo": "30",
+      "Rarity": "N",
+      "Name": "カーモロック",
+      "Level": "Lv.2",
+      "Description": "カーキの迷彩柄とオレンジの組み合わせがオシャレ！深いグリーンのギターがとってもかっこいいドレシアだよ！",
+      "Skill": "あいてがフェアリーだったら、ミュージックのドレシアゲージがとてもたまりやすい",
+      "Type": [
+         "ミュージック"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-30n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-30n_00_b.png"
+   },
+   {
+      "ID": "2-31 N",
+      "Series": "2",
+      "CardNo": "31",
+      "Rarity": "N",
+      "Name": "ジーンズロック",
+      "Level": "Lv.1",
+      "Description": "ジーンズとパープルの組み合わせが落ち着いてカッコイイ！あざやかなライムグリーンのギターが目を引くドレシアだよ！",
+      "Skill": "オープニングバトルにセットしたら、ミュージックのレベル＋２",
+      "Type": [
+         "ミュージック"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-31n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-31n_00_b.png"
+   },
+   {
+      "ID": "2-32 CP",
+      "Series": "2",
+      "CardNo": "32",
+      "Rarity": "CP",
+      "Name": "キュアースリーピング",
+      "Level": "Lv.5",
+      "Description": "ブロンドヘアに愛らしい花のような王冠がかわいいドレシア！花束が刺繍されているミントカラーのドレスを着させてくれるよ♪",
+      "Skill": "なかまにラブリーケットシーがいたら、なかまのドレシアゲージがたまりやすい",
+      "Type": [
+         "ストーリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-32cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-32cp_00_b.png"
+   },
+   {
+      "ID": "2-33 CP",
+      "Series": "2",
+      "CardNo": "33",
+      "Rarity": "CP",
+      "Name": "プレゼントマカロン",
+      "Level": "Lv.5",
+      "Description": "かわいいマカロンをイメージしたドレシアだよ！2色のピンクを組み合わせたマカロンと、胸元のアメのかざりがとってもかわいい♡",
+      "Skill": "アイカラーがハートフルピンクだったら、スウィーツのドレシアゲージがたまりやすい",
+      "Type": [
+         "スウィーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-33cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-33cp_00_b.png"
+   },
+   {
+      "ID": "2-34 CP",
+      "Series": "2",
+      "CardNo": "34",
+      "Rarity": "CP",
+      "Name": "ラブリーケットシー",
+      "Level": "Lv.5",
+      "Description": "王冠についた小さなハートがチャームポイントのラブリーなドレシア♪チョコレートカラーであま～いコーデに着替えちゃおう♡",
+      "Skill": "ヘアカラーがカラメルブラウンだったら、メインバトルのレベル＋１",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-34cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-34cp_00_b.png"
+   },
+   {
+      "ID": "2-35 SEC",
+      "Series": "2",
+      "CardNo": "35",
+      "Rarity": "SEC",
+      "Name": "スウィートホールケーキ",
+      "Level": "Lv.7",
+      "Description": "アンのキードレシア！フルーツとクリームがとってもおいしそう！甘くてかわいいドレスを着させてくれるドレシアだよ！",
+      "Skill": "あいてがPRのピュアフルフェニックスだったら、じぶんのレベル＋３",
+      "Type": [
+         "スウィーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-35sec_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520002/2-35sec_00_b.png"
+   }
+]

@@ -1,0 +1,587 @@
+[
+   {
+      "ID": "1-1 PR",
+      "Series": "1",
+      "CardNo": "1",
+      "Rarity": "PR",
+      "Name": "オーロラペガサス",
+      "Level": "Lv.8",
+      "Description": "ハナのキードレシア！オーロラ色に煌めくたてがみが神秘的！バレエをイメージしたガーリーなドレスを着させてくれるよ！",
+      "Skill": "あいてがホロスコープだったら、じぶんのレベル＋２",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-1pr_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-1pr_00_b.png"
+   },
+   {
+      "ID": "1-2 PR",
+      "Series": "1",
+      "CardNo": "2",
+      "Rarity": "PR",
+      "Name": "ブライトサファイア",
+      "Level": "Lv.6",
+      "Description": "ルリのキードレシア！大きなフリルとサファイアのアクセサリーが魅力的！るり色のスカートに金色のラインがクールに輝くよ！",
+      "Skill": "あいてがPRだったら、ぜんいんのレベル＋１",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-2pr_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-2pr_00_b.png"
+   },
+   {
+      "ID": "1-3 PR",
+      "Series": "1",
+      "CardNo": "3",
+      "Rarity": "PR",
+      "Name": "ラブサジタリウス",
+      "Level": "Lv.9",
+      "Description": "キューピットのキードレシア！夜空に星をちりばめたようなドレスが幻想的！弓矢がモチーフのいて座をイメージしたドレシアだよ！",
+      "Skill": "あいてがジュエルだったら、なかまのドレシアゲージがたまりやすい",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-3pr_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-3pr_00_b.png"
+   },
+   {
+      "ID": "1-4 PR",
+      "Series": "1",
+      "CardNo": "4",
+      "Rarity": "PR",
+      "Name": "ブラッディロック",
+      "Level": "Lv.6",
+      "Description": "ビートのキードレシア！羽のかたちのスピーカーからクールな音楽を響かせて、ロックなドレスを着させてくれるよ♪",
+      "Skill": "あいてのドレシアレベルが６より大きかったら、じぶんのレベル＋２",
+      "Type": [
+         "ミュージック"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-4pr_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-4pr_00_b.png"
+   },
+   {
+      "ID": "1-5 R",
+      "Series": "1",
+      "CardNo": "5",
+      "Rarity": "R",
+      "Name": "スマートキュウビ",
+      "Level": "Lv.5",
+      "Description": "七色に輝く9本のしっぽがとてもキレイ！首元のリボンについたダイヤが高貴な印象をあたえる美しいドレシアだよ！",
+      "Skill": "あいてがPRだったら、メインバトルのレベル＋１",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-5r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-5r_00_b.png"
+   },
+   {
+      "ID": "1-6 R",
+      "Series": "1",
+      "CardNo": "6",
+      "Rarity": "R",
+      "Name": "ソーダジャックフロスト",
+      "Level": "Lv.4",
+      "Description": "ソーダ色の丸い体に氷のような角がカワイイ！ひんやりした場所でももこもこあったかいドレスを着させてくれるよ♪",
+      "Skill": "あいてがRだったら、じぶんのドレシアゲージがとてもたまりやすい",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-6r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-6r_00_b.png"
+   },
+   {
+      "ID": "1-7 R",
+      "Series": "1",
+      "CardNo": "7",
+      "Rarity": "R",
+      "Name": "パステルミックスケットシー",
+      "Level": "Lv.4",
+      "Description": "頭の王冠としっぽのリボンがキュートなドレシア！パステルカラー×フリルのかわいいドレスを着させてくれるよ♪",
+      "Skill": "あいてがホロスコープだったら、クライマックスバトルのレベル＋２",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-7r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-7r_00_b.png"
+   },
+   {
+      "ID": "1-8 R",
+      "Series": "1",
+      "CardNo": "8",
+      "Rarity": "R",
+      "Name": "グロッシールビー",
+      "Level": "Lv.4",
+      "Description": "胸元についた大きなルビーが光り輝くドレシアだよ♪きりっとした顔立ちとひらひら揺れるドレスがとてもクール！",
+      "Skill": "あいてがRだったら、メインバトルのレベル＋１",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-8r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-8r_00_b.png"
+   },
+   {
+      "ID": "1-9 R",
+      "Series": "1",
+      "CardNo": "9",
+      "Rarity": "R",
+      "Name": "マリンパール",
+      "Level": "Lv.4",
+      "Description": "パールと貝がらを身にまとったドレシアだよ！くりくりおめめとおだんごみたいな頭のパールがとてもオシャレ♡",
+      "Skill": "あいてがミュージックだったら、なかまのレベル＋１",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-9r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-9r_00_b.png"
+   },
+   {
+      "ID": "1-10 R",
+      "Series": "1",
+      "CardNo": "10",
+      "Rarity": "R",
+      "Name": "ダズルアクエリアス",
+      "Level": "Lv.5",
+      "Description": "神秘的な水と水瓶が印象的★水が流れるような美しいデザインのドレスを着させてくれる、みずがめ座をイメージしたドレシアだよ！",
+      "Skill": "なかまにNのシャインアクエリアスがいたら、じぶんのドレシアゲージがとてもたまりやすい",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-10r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-10r_00_b.png"
+   },
+   {
+      "ID": "1-11 R",
+      "Series": "1",
+      "CardNo": "11",
+      "Rarity": "R",
+      "Name": "ノーブルレオ",
+      "Level": "Lv.6",
+      "Description": "夜空に浮かぶ星をイメージしたたてがみと金色の王冠がポイント♪凛々しいしし座をイメージしたドレシアだよ！",
+      "Skill": "-",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-11r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-11r_00_b.png"
+   },
+   {
+      "ID": "1-12 R",
+      "Series": "1",
+      "CardNo": "12",
+      "Rarity": "R",
+      "Name": "メタルスコーピオン",
+      "Level": "Lv.5",
+      "Description": "キラキラ輝く体がキレイ！ハサミとしっぽの先についたリボンがチャーミングな、さそり座をイメージしたドレシアだよ！",
+      "Skill": "ドレシアチャンスで勝ったら、じぶんのドレシアチャンスボーナスがアップする",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-12r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-12r_00_b.png"
+   },
+   {
+      "ID": "1-13 R",
+      "Series": "1",
+      "CardNo": "13",
+      "Rarity": "R",
+      "Name": "ヒップホップブレイク",
+      "Level": "Lv.4",
+      "Description": "ヘッドフォンとオーバーサイズのフーディーがとってもクール！激しく踊るのにぴったりなブレイキンなドレスを着させてくれるよ♪",
+      "Skill": "あいてがフェアリーだったら、クライマックスバトルのレベル＋２",
+      "Type": [
+         "ミュージック"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-13r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-13r_00_b.png"
+   },
+   {
+      "ID": "1-14 N",
+      "Series": "1",
+      "CardNo": "14",
+      "Rarity": "N",
+      "Name": "ウォームキュウビ",
+      "Level": "Lv.3",
+      "Description": "みんなを優しく包んでくれるような、あたたかさあふれるオレンジのキュウビ！オレンジとピンクのしっぽがとっても暖かそう！",
+      "Skill": "-",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-14n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-14n_00_b.png"
+   },
+   {
+      "ID": "1-15 N",
+      "Series": "1",
+      "CardNo": "15",
+      "Rarity": "N",
+      "Name": "クールキュウビ",
+      "Level": "Lv.2",
+      "Description": "いつもどこか落ち着きのある、クールな水色のキュウビ！水色と黄色のしっぽがひんやり冷たくて気持ちよさそう！",
+      "Skill": "あいてがNだったら、オープニングバトルのレベル＋１",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-15n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-15n_00_b.png"
+   },
+   {
+      "ID": "1-16 N",
+      "Series": "1",
+      "CardNo": "16",
+      "Rarity": "N",
+      "Name": "レモンフロスト",
+      "Level": "Lv.2",
+      "Description": "レモン色の丸い体に氷のような角がカワイイ！ひんやりした場所でももこもこあったかいドレスを着させてくれるよ♪",
+      "Skill": "あいてがNだったら、メインバトルのレベル＋１",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-16n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-16n_00_b.png"
+   },
+   {
+      "ID": "1-17 N",
+      "Series": "1",
+      "CardNo": "17",
+      "Rarity": "N",
+      "Name": "ストロベリーフロスト",
+      "Level": "Lv.3",
+      "Description": "イチゴ色の丸い体に氷のような角がカワイイ！ひんやりした場所でももこもこあったかいドレスを着させてくれるよ♪",
+      "Skill": "-",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-17n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-17n_00_b.png"
+   },
+   {
+      "ID": "1-18 N",
+      "Series": "1",
+      "CardNo": "18",
+      "Rarity": "N",
+      "Name": "パステルミントケットシー",
+      "Level": "Lv.2",
+      "Description": "頭の王冠とゆれるしっぽがキュートなドレシア！パステルミントをベースにしたかわいいドレスを着させてくれるよ♪",
+      "Skill": "あいてがホロスコープだったら、クライマックスバトルのレベル＋１",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-18n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-18n_00_b.png"
+   },
+   {
+      "ID": "1-19 N",
+      "Series": "1",
+      "CardNo": "19",
+      "Rarity": "N",
+      "Name": "パステルピンクケットシー",
+      "Level": "Lv.3",
+      "Description": "頭の王冠とゆれるしっぽがキュートなドレシア！パステルピンクをベースにしたかわいいドレスを着させてくれるよ♪",
+      "Skill": "-",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-19n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-19n_00_b.png"
+   },
+   {
+      "ID": "1-20 N",
+      "Series": "1",
+      "CardNo": "20",
+      "Rarity": "N",
+      "Name": "グロッシーペリドット",
+      "Level": "Lv.2",
+      "Description": "煌めくペリドットがたくさんついたドレシアだよ！ひたいにあしらわれた3つの宝石の輝きがとてもゴージャス！",
+      "Skill": "なかまにジュエルがいたら、なかまのレベル＋１",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-20n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-20n_00_b.png"
+   },
+   {
+      "ID": "1-21 N",
+      "Series": "1",
+      "CardNo": "21",
+      "Rarity": "N",
+      "Name": "グロッシーピンクルビー",
+      "Level": "Lv.1",
+      "Description": "愛らしいピンクルビーがポイントのドレシアだよ！グラデーションのかかったドレスからのぞくフリルとレースがエレガント♡",
+      "Skill": "ぜんいんのドレシアゲージがすごくたまりやすい",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-21n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-21n_00_b.png"
+   },
+   {
+      "ID": "1-22 N",
+      "Series": "1",
+      "CardNo": "22",
+      "Rarity": "N",
+      "Name": "ピンクパール",
+      "Level": "Lv.2",
+      "Description": "ピンクに落ち着いたカラーを合わせた、甘くて大人っぽいドレシア！ピンクパールと貝がらでオシャレ度がアップ！",
+      "Skill": "あいてがミュージックだったら、なかまのレベル＋１",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-22n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-22n_00_b.png"
+   },
+   {
+      "ID": "1-23 N",
+      "Series": "1",
+      "CardNo": "23",
+      "Rarity": "N",
+      "Name": "ブルーパール",
+      "Level": "Lv.1",
+      "Description": "2つのブルーの組み合わせがまるで海のお姫様みたいなドレシア！ブルーパールと貝がらでオシャレ度アップ！",
+      "Skill": "オープニングバトルのレベル＋３",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-23n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-23n_00_b.png"
+   },
+   {
+      "ID": "1-24 N",
+      "Series": "1",
+      "CardNo": "24",
+      "Rarity": "N",
+      "Name": "シャインアクエリアス",
+      "Level": "Lv.3",
+      "Description": "シャインピンクで女の子らしさがアップ！ふわふわと煌めくしずくがとてもかわいい、みずがめ座をイメージしたドレシアだよ♡",
+      "Skill": "-",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-24n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-24n_00_b.png"
+   },
+   {
+      "ID": "1-25 N",
+      "Series": "1",
+      "CardNo": "25",
+      "Rarity": "N",
+      "Name": "トゥインクルアクエリアス",
+      "Level": "Lv.2",
+      "Description": "透き通るエメラルドグリーンが素敵！頭にのったミルククラウンが涼しさを教えてくれる、みずがめ座をイメージしたドレシアだよ♡",
+      "Skill": "なかまにRがいたら、じぶんのレベル＋１",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-25n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-25n_00_b.png"
+   },
+   {
+      "ID": "1-26 N",
+      "Series": "1",
+      "CardNo": "26",
+      "Rarity": "N",
+      "Name": "シックレオ",
+      "Level": "Lv.3",
+      "Description": "ブラウンオレンジのシックなカラーが豪華！金色の星のアクセサリーがキラキラ輝く、しし座をイメージしたドレシア！",
+      "Skill": "-",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-26n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-26n_00_b.png"
+   },
+   {
+      "ID": "1-27 N",
+      "Series": "1",
+      "CardNo": "27",
+      "Rarity": "N",
+      "Name": "グランドレオ",
+      "Level": "Lv.2",
+      "Description": "落ち着いたグリーンカラーが大人シンプル！背中の金色の模様が豪華に煌めいてかっこいい、しし座をイメージしたドレシア！",
+      "Skill": "あいてがジュエルだったら、じぶんのドレシアゲージがとてもたまりやすい",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-27n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-27n_00_b.png"
+   },
+   {
+      "ID": "1-28 N",
+      "Series": "1",
+      "CardNo": "28",
+      "Rarity": "N",
+      "Name": "スチールスコーピオン",
+      "Level": "Lv.3",
+      "Description": "ブルーの体に白いラインの入ったハサミとしっぽがクールでかっこいい☆はがねの体を持つ、さそり座をイメージしたドレシア！",
+      "Skill": "-",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-28n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-28n_00_b.png"
+   },
+   {
+      "ID": "1-29 N",
+      "Series": "1",
+      "CardNo": "29",
+      "Rarity": "N",
+      "Name": "ブロンズスコーピオン",
+      "Level": "Lv.2",
+      "Description": "明るいオレンジの体にモスグリーンのリボンがアクセント！銅の体を持つ、さそり座をイメージしたドレシア！",
+      "Skill": "ドレシアチャンスで勝ったら、じぶんのドレシアチャンスボーナスがすごくアップする",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-29n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-29n_00_b.png"
+   },
+   {
+      "ID": "1-30 N",
+      "Series": "1",
+      "CardNo": "30",
+      "Rarity": "N",
+      "Name": "ヒップホップアクティブ",
+      "Level": "Lv.2",
+      "Description": "ヘッドフォンとオーバーサイズのフーディーがとってもクール！元気に踊るのにぴったりなアクティブなドレスを着させてくれるよ♪",
+      "Skill": "あいてがホロスコープだったら、メインバトルのレベル＋２",
+      "Type": [
+         "ミュージック"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-30n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-30n_00_b.png"
+   },
+   {
+      "ID": "1-31 N",
+      "Series": "1",
+      "CardNo": "31",
+      "Rarity": "N",
+      "Name": "ヒップホップストリート",
+      "Level": "Lv.1",
+      "Description": "ヘッドフォンとオーバーサイズのフーディーがとってもクール！楽しく踊るのにぴったりなストリートなドレスを着させてくれるよ♪",
+      "Skill": "あいてのドレシアレベルが２より大きかったら、じぶんのレベル＋３",
+      "Type": [
+         "ミュージック"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-31n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-31n_00_b.png"
+   },
+   {
+      "ID": "1-32 CP",
+      "Series": "1",
+      "CardNo": "32",
+      "Rarity": "CP",
+      "Name": "フローズントナカイ",
+      "Level": "Lv.5",
+      "Description": "クリスマスに幸せを運ぶトナカイのドレシア！聖なる夜に降る雪や、氷をイメージしたドレスを着させてくれるよ♪",
+      "Skill": "ヘアカラーがスミレカラーだったら、じぶんのドレシアゲージがたまりやすい",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-32cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-32cp_00_b.png"
+   },
+   {
+      "ID": "1-33 CP",
+      "Series": "1",
+      "CardNo": "33",
+      "Rarity": "CP",
+      "Name": "ノエルスノーマン",
+      "Level": "Lv.5",
+      "Description": "雪だるまみたいな丸い体にサンタ帽がカワイイ♪聖なる夜をイメージしたもこもこあったかいドレスを着させてくれるよ♪",
+      "Skill": "アイカラーがグリントルージュだったら、なかまのドレシアゲージがとてもたまりやすい",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-33cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-33cp_00_b.png"
+   },
+   {
+      "ID": "1-34 CP",
+      "Series": "1",
+      "CardNo": "34",
+      "Rarity": "CP",
+      "Name": "オーナメントアクエリアス",
+      "Level": "Lv.5",
+      "Description": "クリスマスツリーに飾ってあるオーナメントをイメージしたドレシア！赤×緑×金色でクリスマス感をたっぷりあたえてくれるよ☆",
+      "Skill": "なかまにフローズントナカイがいたら、じぶんのレベル＋１",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-34cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-34cp_00_b.png"
+   },
+   {
+      "ID": "1-35 CP",
+      "Series": "1",
+      "CardNo": "35",
+      "Rarity": "CP",
+      "Name": "オーロラペガサス",
+      "Level": "Lv.5",
+      "Description": "ハナのキードレシア！オーロラ色に煌めくたてがみが神秘的！バレエをイメージしたガーリーなドレスを着させてくれるよ！",
+      "Skill": "あいてがホロスコープだったら、フェアリーのレベル＋１",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-35cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-35cp_00_b.png"
+   },
+   {
+      "ID": "1-36 CP",
+      "Series": "1",
+      "CardNo": "36",
+      "Rarity": "CP",
+      "Name": "ブライトサファイア",
+      "Level": "Lv.5",
+      "Description": "ルリのキードレシア！大きなフリルとサファイアのアクセサリーが魅力的！るり色のスカートに金色のラインがクールに輝くよ！",
+      "Skill": "あいてがミュージックだったら、ジュエルのレベル＋１",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-36cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-36cp_00_b.png"
+   },
+   {
+      "ID": "1-37 CP",
+      "Series": "1",
+      "CardNo": "37",
+      "Rarity": "CP",
+      "Name": "ラブサジタリウス",
+      "Level": "Lv.5",
+      "Description": "キューピットのキードレシア！夜空に星をちりばめたようなドレスが幻想的！弓矢がモチーフのいて座をイメージしたドレシアだよ！",
+      "Skill": "あいてがジュエルだったら、ホロスコープのレベル＋１",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-37cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-37cp_00_b.png"
+   },
+   {
+      "ID": "1-38 CP",
+      "Series": "1",
+      "CardNo": "38",
+      "Rarity": "CP",
+      "Name": "ブラッディロック",
+      "Level": "Lv.5",
+      "Description": "ビートのキードレシア！羽のかたちのスピーカーからクールな音楽を響かせて、ロックなドレスを着させてくれるよ♪",
+      "Skill": "あいてがフェアリーだったら、ミュージックのレベル＋１",
+      "Type": [
+         "ミュージック"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-38cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-38cp_00_b.png"
+   },
+   {
+      "ID": "1-39 SEC",
+      "Series": "1",
+      "CardNo": "39",
+      "Rarity": "SEC",
+      "Name": "オーロラペガサス",
+      "Level": "Lv.8",
+      "Description": "ハナのキードレシア！オーロラ色に煌めくたてがみが神秘的！バレエをイメージしたガーリーなドレスを着させてくれるよ！",
+      "Skill": "あいてがPRのラブサジタリウスだったら、じぶんのレベル＋３",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-39sec_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520001/1-39sec_00_b.png"
+   }
+]

@@ -1,0 +1,622 @@
+[
+   {
+      "ID": "U2-1 PR",
+      "Series": "U2",
+      "CardNo": "1",
+      "Rarity": "PR",
+      "Name": "ミスティカルケリュネイア",
+      "Level": "Lv.9",
+      "Description": "全てを見透かすような、厳かで神秘的なドレシア。立派な角には、月下美人や月見草などの月にまつわる草花が咲き誇っているよ♡",
+      "Skill": "ユニットモードだったら、じぶんもあいてもクライマックスバトルのドレシアゲージがすごくたまりやすい",
+      "Type": [
+         "フェアリー",
+         "フラワー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-1pr_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-1pr_00_b.png"
+   },
+   {
+      "ID": "U2-2 PR",
+      "Series": "U2",
+      "CardNo": "2",
+      "Rarity": "PR",
+      "Name": "ミスティカルケリュネイア",
+      "Level": "Lv.9",
+      "Description": "全てを見透かすような、厳かで神秘的なドレシア。立派な角には、月下美人や月見草などの月にまつわる草花が咲き誇っているよ♡",
+      "Skill": "あいてぜんいんのドレシアタイプがあわせて１タイプより多かったら、じぶんのドレシアチャンスボーナスがものすごくアップする",
+      "Type": [
+         "フェアリー",
+         "フラワー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-2pr_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-2pr_00_b.png"
+   },
+   {
+      "ID": "U2-3 PR",
+      "Series": "U2",
+      "CardNo": "3",
+      "Rarity": "PR",
+      "Name": "ジャジーズキャッツアイ",
+      "Level": "Lv.8",
+      "Description": "夜景のように煌めくドレスに、黒いファーコートが大人ゴージャス♪輝くキャッツアイとふわふわの尻尾が魅惑的なドレシアだよ！",
+      "Skill": "ユニットモードだったら、じぶんもあいてもなかまのレベル＋１",
+      "Type": [
+         "ジュエル",
+         "ミュージック"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-3pr_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-3pr_00_b.png"
+   },
+   {
+      "ID": "U2-4 PR",
+      "Series": "U2",
+      "CardNo": "4",
+      "Rarity": "PR",
+      "Name": "ジャジーズキャッツアイ",
+      "Level": "Lv.8",
+      "Description": "夜景のように煌めくドレスに、黒いファーコートが大人ゴージャス♪輝くキャッツアイとふわふわの尻尾が魅惑的なドレシアだよ！",
+      "Skill": "あいてにフェアリーがいたら、なかまのレベル＋２",
+      "Type": [
+         "ジュエル",
+         "ミュージック"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-4pr_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-4pr_00_b.png"
+   },
+   {
+      "ID": "U2-5 R",
+      "Series": "U2",
+      "CardNo": "5",
+      "Rarity": "R",
+      "Name": "ヒーリングカモミールティ",
+      "Level": "Lv.5",
+      "Description": "フレッシュなカモミールティに、白とピンクのカモミールを浮かべたようなドレシア！優しい香りが心をほぐしてくれるよ♪",
+      "Skill": "ユニットモードだったら、じぶんもあいてもカフェのドレシアゲージがたまりやすい",
+      "Type": [
+         "カフェ",
+         "フラワー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-5r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-5r_00_b.png"
+   },
+   {
+      "ID": "U2-6 R",
+      "Series": "U2",
+      "CardNo": "6",
+      "Rarity": "R",
+      "Name": "ヒーリングカモミールティ",
+      "Level": "Lv.6",
+      "Description": "フレッシュなカモミールティに、白とピンクのカモミールを浮かべたようなドレシア！優しい香りが心をほぐしてくれるよ♪",
+      "Skill": "なかまにカフェがいたら、じぶんのレベル＋１",
+      "Type": [
+         "カフェ",
+         "フラワー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-6r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-6r_00_b.png"
+   },
+   {
+      "ID": "U2-7 R",
+      "Series": "U2",
+      "CardNo": "7",
+      "Rarity": "R",
+      "Name": "ペンタスターフルーツ",
+      "Level": "Lv.5",
+      "Description": "スターフルーツとスターサファイアをモチーフにした、煌びやかなドレシア！あちこちにスターサファイアがちりばめられているよ！",
+      "Skill": "あいてにフルーツがいたら、なかまのレベル＋１",
+      "Type": [
+         "ジュエル",
+         "フルーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-7r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-7r_00_b.png"
+   },
+   {
+      "ID": "U2-8 R",
+      "Series": "U2",
+      "CardNo": "8",
+      "Rarity": "R",
+      "Name": "ペンタスターフルーツ",
+      "Level": "Lv.5",
+      "Description": "スターフルーツとスターサファイアをモチーフにした、煌びやかなドレシア！あちこちにスターサファイアがちりばめられているよ！",
+      "Skill": "ドレシアチャンスで勝ったら、もらえるプラネットポイントがアップする",
+      "Type": [
+         "ジュエル",
+         "フルーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-8r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-8r_00_b.png"
+   },
+   {
+      "ID": "U2-9 R",
+      "Series": "U2",
+      "CardNo": "9",
+      "Rarity": "R",
+      "Name": "シャーベットポーラーベア",
+      "Level": "Lv.6",
+      "Description": "色々なフルーツとシロクマのドレシア！ぽってりしたからだは、抱きしめるとひんやりして気持ちいいよ！みかんの肉球はぷにぷに♡",
+      "Skill": "なかまにアクアリウムとスウィーツがいたら、じぶんのドレシアチャンスボーナスがすごくアップする",
+      "Type": [
+         "アクアリウム",
+         "スウィーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-9r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-9r_00_b.png"
+   },
+   {
+      "ID": "U2-10 R",
+      "Series": "U2",
+      "CardNo": "10",
+      "Rarity": "R",
+      "Name": "シャーベットポーラーベア",
+      "Level": "Lv.6",
+      "Description": "色々なフルーツとシロクマのドレシア！ぽってりしたからだは、抱きしめるとひんやりして気持ちいいよ！みかんの肉球はぷにぷに♡",
+      "Skill": "ユニットモードだったら、じぶんもあいてもなかまのドレシアゲージがたまりやすい",
+      "Type": [
+         "アクアリウム",
+         "スウィーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-10r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-10r_00_b.png"
+   },
+   {
+      "ID": "U2-11 R",
+      "Series": "U2",
+      "CardNo": "11",
+      "Rarity": "R",
+      "Name": "パウダースノウブラッシュ",
+      "Level": "Lv.5",
+      "Description": "白雪姫のような白い肌に赤い頬、黒い髪が美しい♡メイクブラシのような裾がゆれて綺麗♡背中に浮かぶのはチークボールだよ！",
+      "Skill": "ストーリーのドレシアタイプレベルが７より大きかったら、じぶんのドレシアチャンスボーナスがすごくアップする",
+      "Type": [
+         "ストーリー",
+         "コスメ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-11r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-11r_00_b.png"
+   },
+   {
+      "ID": "U2-12 R",
+      "Series": "U2",
+      "CardNo": "12",
+      "Rarity": "R",
+      "Name": "パウダースノウブラッシュ",
+      "Level": "Lv.5",
+      "Description": "白雪姫のような白い肌に赤い頬、黒い髪が美しい♡メイクブラシのような裾がゆれて綺麗♡背中に浮かぶのはチークボールだよ！",
+      "Skill": "ドレシアチャンスで勝ったら、もらえるプラネットポイントがとてもアップする",
+      "Type": [
+         "ストーリー",
+         "コスメ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-12r_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-12r_00_b.png"
+   },
+   {
+      "ID": "U2-13 N",
+      "Series": "U2",
+      "CardNo": "13",
+      "Rarity": "N",
+      "Name": "スージングカモミールティ",
+      "Level": "Lv.3",
+      "Description": "フレッシュなカモミールティに、イエローとブルーのカモミールを浮かべたようなドレシア！落ち着く香りが心をほぐしてくれるよ♪",
+      "Skill": "ユニットモードだったら、じぶんもあいてもレベル＋１",
+      "Type": [
+         "カフェ",
+         "フラワー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-13n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-13n_00_b.png"
+   },
+   {
+      "ID": "U2-14 N",
+      "Series": "U2",
+      "CardNo": "14",
+      "Rarity": "N",
+      "Name": "スージングカモミールティ",
+      "Level": "Lv.4",
+      "Description": "フレッシュなカモミールティに、イエローとブルーのカモミールを浮かべたようなドレシア！落ち着く香りが心をほぐしてくれるよ♪",
+      "Skill": "なかまにカフェがいなかったら、じぶんのレベル－１",
+      "Type": [
+         "カフェ",
+         "フラワー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-14n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-14n_00_b.png"
+   },
+   {
+      "ID": "U2-15 N",
+      "Series": "U2",
+      "CardNo": "15",
+      "Rarity": "N",
+      "Name": "サンクスターフルーツ",
+      "Level": "Lv.2",
+      "Description": "スターフルーツとピンクスターサファイアをモチーフにしたドレシア！胸元にピンクスターサファイアのブローチが輝くよ！",
+      "Skill": "ユニットモードだったら、じぶんもあいてもフルーツのドレシアゲージがたまりやすい",
+      "Type": [
+         "ジュエル",
+         "フルーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-15n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-15n_00_b.png"
+   },
+   {
+      "ID": "U2-16 N",
+      "Series": "U2",
+      "CardNo": "16",
+      "Rarity": "N",
+      "Name": "サンクスターフルーツ",
+      "Level": "Lv.3",
+      "Description": "スターフルーツとピンクスターサファイアをモチーフにしたドレシア！胸元にピンクスターサファイアのブローチが輝くよ！",
+      "Skill": "ドレシアチャンスで勝ったら、もらえるプラネットポイントがとてもアップする",
+      "Type": [
+         "ジュエル",
+         "フルーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-16n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-16n_00_b.png"
+   },
+   {
+      "ID": "U2-17 N",
+      "Series": "U2",
+      "CardNo": "17",
+      "Rarity": "N",
+      "Name": "ストームリヴァイアサン",
+      "Level": "Lv.2",
+      "Description": "透き通る二枚の胸ビレとチャームのような長い尾で、海を豪快に泳ぎ回るドレシアだよ。刺激的なピンクで視線を独り占め！",
+      "Skill": "なかまにストーリーがいたら、ぜんいんのレベル＋１",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-17n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-17n_00_b.png"
+   },
+   {
+      "ID": "U2-18 N",
+      "Series": "U2",
+      "CardNo": "18",
+      "Rarity": "N",
+      "Name": "アクアリヴァイアサン",
+      "Level": "Lv.2",
+      "Description": "透き通る二枚の胸ビレとチャームのような長い尾で、海を優雅に泳ぎ回るドレシアだよ。涼やかなライトブルーに魅了されちゃう♪",
+      "Skill": "ドレシアチャンスで勝ったら、もらえるプラネットポイントがアップする",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-18n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-18n_00_b.png"
+   },
+   {
+      "ID": "U2-19 N",
+      "Series": "U2",
+      "CardNo": "19",
+      "Rarity": "N",
+      "Name": "ブライトアメジスト",
+      "Level": "Lv.2",
+      "Description": "大きなフリルとアメジストのアクセサリーが魅力的！パープル色のドレスに豪華な金色のラインがクールに輝くよ！",
+      "Skill": "Rのレベル＋１",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-19n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-19n_00_b.png"
+   },
+   {
+      "ID": "U2-20 N",
+      "Series": "U2",
+      "CardNo": "20",
+      "Rarity": "N",
+      "Name": "ブライトアメトリン",
+      "Level": "Lv.1",
+      "Description": "大きなフリルとアメトリンのアクセサリーが魅力的！シトリンの黄色のドレスにアメジストの紫色のアクセントが輝くよ！",
+      "Skill": "クライマックスバトルにセットしなかったら、フェアリーのレベル＋２",
+      "Type": [
+         "ジュエル"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-20n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-20n_00_b.png"
+   },
+   {
+      "ID": "U2-21 N",
+      "Series": "U2",
+      "CardNo": "21",
+      "Rarity": "N",
+      "Name": "シックレオ",
+      "Level": "Lv.4",
+      "Description": "ブラウンオレンジのシックなカラーが豪華！金色の星のアクセサリーがキラキラ輝く、しし座をイメージしたドレシア！",
+      "Skill": "-",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-21n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-21n_00_b.png"
+   },
+   {
+      "ID": "U2-22 N",
+      "Series": "U2",
+      "CardNo": "22",
+      "Rarity": "N",
+      "Name": "グランドレオ",
+      "Level": "Lv.3",
+      "Description": "落ち着いたグリーンカラーが大人シンプル！背中の金色の模様が豪華に煌めいてかっこいい、しし座をイメージしたドレシア！",
+      "Skill": "あいてよりアイカツランキングが高かったら、じぶんのレベル＋１",
+      "Type": [
+         "ホロスコープ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-22n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-22n_00_b.png"
+   },
+   {
+      "ID": "U2-23 N",
+      "Series": "U2",
+      "CardNo": "23",
+      "Rarity": "N",
+      "Name": "エレキメタル",
+      "Level": "Lv.2",
+      "Description": "ヘヴィなサウンドをかき鳴らし、メタルをイメージした辛口なドレスを着させてくれるドレシアだよ。足元の網模様が小悪魔的♪",
+      "Skill": "じぶんのパーフェクトがとりやすい",
+      "Type": [
+         "ミュージック"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-23n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-23n_00_b.png"
+   },
+   {
+      "ID": "U2-24 N",
+      "Series": "U2",
+      "CardNo": "24",
+      "Rarity": "N",
+      "Name": "サイケメタル",
+      "Level": "Lv.1",
+      "Description": "ヘヴィなサウンドをかき鳴らし、メタルをイメージした派手なドレスを着させてくれるドレシアだよ。シアーな足元が小悪魔的♪",
+      "Skill": "ドレシアチャンスで勝ったら、もらえるプラネットポイントがすごくアップする",
+      "Type": [
+         "ミュージック"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-24n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-24n_00_b.png"
+   },
+   {
+      "ID": "U2-25 N",
+      "Series": "U2",
+      "CardNo": "25",
+      "Rarity": "N",
+      "Name": "スコーチアラビアンナイト",
+      "Level": "Lv.2",
+      "Description": "真っ赤な体に深いブルーのひとみがチャームポイントのドレシアだよ！胸が熱くなるような物語を読み聞かせてくれるよ！",
+      "Skill": "あいてがスウィーツだったら、ストーリーのレベル＋２",
+      "Type": [
+         "ストーリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-25n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-25n_00_b.png"
+   },
+   {
+      "ID": "U2-26 N",
+      "Series": "U2",
+      "CardNo": "26",
+      "Rarity": "N",
+      "Name": "オアシスアラビアンナイト",
+      "Level": "Lv.2",
+      "Description": "黄色い体に明るいブルーのひとみがチャームポイントのドレシアだよ！心が安らぐような物語を読み聞かせてくれるよ！",
+      "Skill": "オープニングバトルにセットしたら、じぶんのパーフェクトがすごくとりやすい",
+      "Type": [
+         "ストーリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-26n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-26n_00_b.png"
+   },
+   {
+      "ID": "U2-27 N",
+      "Series": "U2",
+      "CardNo": "27",
+      "Rarity": "N",
+      "Name": "ウォーターメロンアイスクリーム",
+      "Level": "Lv.2",
+      "Description": "ディッシャーからポンと出したような、丸いシルエットのドレスがスウィート♡シャリシャリしたスイカアイスのドレシアだよ。",
+      "Skill": "午後にセットしたら、スウィーツのレベル＋１",
+      "Type": [
+         "スウィーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-27n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-27n_00_b.png"
+   },
+   {
+      "ID": "U2-28 N",
+      "Series": "U2",
+      "CardNo": "28",
+      "Rarity": "N",
+      "Name": "ラムネアイスクリーム",
+      "Level": "Lv.3",
+      "Description": "ディッシャーからポンと出したような、丸いシルエットのドレスがスウィート♡しゅわっと溶けるラムネアイスのドレシアだよ。",
+      "Skill": "あいてがNだったら、じぶんのドレシアゲージがたまりやすい",
+      "Type": [
+         "スウィーツ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-28n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-28n_00_b.png"
+   },
+   {
+      "ID": "U2-29 N",
+      "Series": "U2",
+      "CardNo": "29",
+      "Rarity": "N",
+      "Name": "パラダイスハイビスカス",
+      "Level": "Lv.5",
+      "Description": "ビビッドなマゼンタがとてもあざやかな、ハイビスカスをモチーフにしたドレシアだよ！南の国でハジけちゃおう♪",
+      "Skill": "あいてにホロスコープがいたら、じぶんのレベル－２",
+      "Type": [
+         "フラワー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-29n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-29n_00_b.png"
+   },
+   {
+      "ID": "U2-30 N",
+      "Series": "U2",
+      "CardNo": "30",
+      "Rarity": "N",
+      "Name": "オーシャンハイビスカス",
+      "Level": "Lv.4",
+      "Description": "さわやかなターコイズブルーがとてもあざやかな、ハイビスカスをモチーフにしたドレシアだよ！南の国のビーチで泳いじゃおう♪",
+      "Skill": "あいてぜんいんのドレシアタイプがあわせて１タイプより多かったら、じぶんのレベル－１",
+      "Type": [
+         "フラワー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-30n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-30n_00_b.png"
+   },
+   {
+      "ID": "U2-31 N",
+      "Series": "U2",
+      "CardNo": "31",
+      "Rarity": "N",
+      "Name": "ゴールドアンティークミラー",
+      "Level": "Lv.2",
+      "Description": "鏡と蝶がモチーフのドレシアだよ。幾何学模様を描く金色のフレームがエレガント！襟元のファーが大人っぽい♪",
+      "Skill": "じぶんがパーフェクトを５回以上とれたら、じぶんのドレシアチャンスボーナスがアップする",
+      "Type": [
+         "コスメ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-31n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-31n_00_b.png"
+   },
+   {
+      "ID": "U2-32 N",
+      "Series": "U2",
+      "CardNo": "32",
+      "Rarity": "N",
+      "Name": "シルバーアンティークミラー",
+      "Level": "Lv.1",
+      "Description": "鏡と蝶がモチーフのドレシアだよ。幾何学模様を描く銀色のフレームがスタイリッシュ！襟元のファーが大人っぽい♪",
+      "Skill": "コスメのレベル＋１",
+      "Type": [
+         "コスメ"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-32n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-32n_00_b.png"
+   },
+   {
+      "ID": "U2-33 N",
+      "Series": "U2",
+      "CardNo": "33",
+      "Rarity": "N",
+      "Name": "フレアーベタ",
+      "Level": "Lv.2",
+      "Description": "ひらひらと揺れる胸ビレに、大きく広がった尾ビレが魅惑♡マゼンタとシアンをまとう、ベタがモチーフのドレシアだよ♪",
+      "Skill": "あいてよりアイカツランキングが低かったら、クライマックスバトルのレベル＋２",
+      "Type": [
+         "アクアリウム"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-33n_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-33n_00_b.png"
+   },
+   {
+      "ID": "U2-34 CP",
+      "Series": "U2",
+      "CardNo": "34",
+      "Rarity": "CP",
+      "Name": "ミスティカルケリュネイア",
+      "Level": "Lv.6",
+      "Description": "全てを見透かすような、厳かで神秘的なドレシア。立派な角には、月下美人や月見草などの月にまつわる草花が咲き誇っているよ♡",
+      "Skill": "ユニットモードだったら、じぶんもあいてもフェアリーのドレシアゲージがとてもたまりやすい",
+      "Type": [
+         "フェアリー",
+         "フラワー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-34cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-34cp_00_b.png"
+   },
+   {
+      "ID": "U2-35 CP",
+      "Series": "U2",
+      "CardNo": "35",
+      "Rarity": "CP",
+      "Name": "ミスティカルケリュネイア",
+      "Level": "Lv.6",
+      "Description": "全てを見透かすような、厳かで神秘的なドレシア。立派な角には、月下美人や月見草などの月にまつわる草花が咲き誇っているよ♡",
+      "Skill": "ユニットモードだったら、じぶんもあいてもクライマックスバトルのレベル＋１",
+      "Type": [
+         "フェアリー",
+         "フラワー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-35cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-35cp_00_b.png"
+   },
+   {
+      "ID": "U2-36 CP",
+      "Series": "U2",
+      "CardNo": "36",
+      "Rarity": "CP",
+      "Name": "オデットスワン",
+      "Level": "Lv.5",
+      "Description": "10周年を記念したスイングだよ！ドリーミークラウンのオデットスワンコーデのドレスが着られるよ♪",
+      "Skill": "じぶんがパーフェクトを１０回以上とれたら、じぶんのレベル＋２",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-36cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-36cp_00_b.png"
+   },
+   {
+      "ID": "U2-37 CP",
+      "Series": "U2",
+      "CardNo": "37",
+      "Rarity": "CP",
+      "Name": "プルミエールベリー",
+      "Level": "Lv.5",
+      "Description": "10周年を記念したスイングだよ！ベリーパルフェのプルミエールベリーコーデのドレスが着られるよ♪",
+      "Skill": "じぶんがパーフェクトを１０回以上とれたら、クライマックスバトルのレベル＋１",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-37cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-37cp_00_b.png"
+   },
+   {
+      "ID": "U2-38 CP",
+      "Series": "U2",
+      "CardNo": "38",
+      "Rarity": "CP",
+      "Name": "リルリボンストーリー",
+      "Level": "Lv.5",
+      "Description": "10周年を記念したスイングだよ！メープルリボンのリルリボンストーリーコーデのドレスが着られるよ♪",
+      "Skill": "じぶんのパーフェクトがすごくとりやすい",
+      "Type": [
+         "フェアリー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-38cp_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-38cp_00_b.png"
+   },
+   {
+      "ID": "U2-39 SEC",
+      "Series": "U2",
+      "CardNo": "39",
+      "Rarity": "SEC",
+      "Name": "ミスティカルケリュネイア",
+      "Level": "Lv.9",
+      "Description": "全てを見透かすような、厳かで神秘的なドレシア。立派な角には、月下美人や月見草などの月にまつわる草花が咲き誇っているよ♡",
+      "Skill": "あいてがPRのミスティカルケリュネイアだったら、じぶんのレベル＋３",
+      "Type": [
+         "フェアリー",
+         "フラワー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-39sec_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-39sec_00_b.png"
+   },
+   {
+      "ID": "U2-40 SEC",
+      "Series": "U2",
+      "CardNo": "40",
+      "Rarity": "SEC",
+      "Name": "ミスティカルケリュネイア",
+      "Level": "Lv.9",
+      "Description": "全てを見透かすような、厳かで神秘的なドレシア。立派な角には、月下美人や月見草などの月にまつわる草花が咲き誇っているよ♡",
+      "Skill": "じぶんがパーフェクトを１５回以上とれたら、フラワーのドレシアゲージがすごくたまりやすい",
+      "Type": [
+         "フェアリー",
+         "フラワー"
+      ],
+      "frontLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-40sec_00.png",
+      "backLink": "https://www.aikatsu.com/planet/images/swinglist/swing/520008/u2-40sec_00_b.png"
+   }
+]

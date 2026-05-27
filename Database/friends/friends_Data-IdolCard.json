@@ -1,0 +1,283 @@
+[
+   {
+      "ID": "IF-H3",
+      "Name": "蝶乃舞花",
+      "Code": "パープルリンクコーデ",
+      "Note": [
+         "アイドルカードGETキャンペーン"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-h3.png"
+   },
+   {
+      "ID": "IF-H4",
+      "Name": "日向エマ",
+      "Code": "イエローリンクコーデ",
+      "Note": [
+         "アイドルカードGETキャンペーン"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-h4.png"
+   },
+   {
+      "ID": "IF-T12",
+      "Name": "友希あいね",
+      "Code": "ハッピーレボリューションコーデ",
+      "Note": [
+         "2019年3月 店頭イベント フレンズスカウト～友希あいね～"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-t12.png"
+   },
+   {
+      "ID": "IF-T11",
+      "Name": "湊みお",
+      "Code": "アートレボリューションコーデ",
+      "Note": [
+         "2019年2月 店頭イベント フレンズスカウト～湊みお～"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-t11.png"
+   },
+   {
+      "ID": "IF-T10",
+      "Name": "明日香ミライ",
+      "Code": "ソウルデスティニーコーデ",
+      "Note": [
+         "2019年1月 店頭イベント フレンズスカウト～明日香ミライ～"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-t10.png"
+   },
+   {
+      "ID": "IF-T9",
+      "Name": "神城カレン",
+      "Code": "ラブデスティニーコーデ",
+      "Note": [
+         "2018年12月 店頭イベント フレンズスカウト～神城カレン～"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-t9.png"
+   },
+   {
+      "ID": "IF-H1",
+      "Name": "白百合さくや",
+      "Code": "ネイビーツインコーデ",
+      "Note": [
+         "オリジナルアイドルカードGETキャンペーン"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-h1.png"
+   },
+   {
+      "ID": "IF-H2",
+      "Name": "白百合かぐや",
+      "Code": "ラベンダーツインコーデ",
+      "Note": [
+         "オリジナルアイドルカードGETキャンペーン"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-h2.png"
+   },
+   {
+      "ID": "IF-T8",
+      "Name": "白百合かぐや",
+      "Code": "ブランプリュムコーデ",
+      "Note": [
+         "2018年11月 店頭イベント フレンズスカウト～白百合かぐや～"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-t8.png"
+   },
+   {
+      "ID": "IF-T7",
+      "Name": "白百合さくや",
+      "Code": "ノワールプリュムコーデ",
+      "Note": [
+         "2018年10月 店頭イベント フレンズスカウト～白百合さくや～"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-t7.png"
+   },
+   {
+      "ID": "IF-T6",
+      "Name": "湊みお",
+      "Code": "アクアパレットコーデ",
+      "Note": [
+         "2018年9月 店頭イベント フレンズスカウト～湊みお～"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-t6.png"
+   },
+   {
+      "ID": "IF-E5",
+      "Name": "神城カレン",
+      "Code": "シャンパンピンクコーデ",
+      "Note": [
+         "ちゃおサマーフェスティバル2018 ほか"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-e5.png"
+   },
+   {
+      "ID": "IF-E6",
+      "Name": "明日香ミライ",
+      "Code": "シャンパンレッドコーデ",
+      "Note": [
+         "ちゃおサマーフェスティバル2018 ほか"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-e6.png"
+   },
+   {
+      "ID": "IF-E7",
+      "Name": "白百合さくや",
+      "Code": "ネイビーツインコーデ",
+      "Note": [
+         "ちゃおサマーフェスティバル2018 ほか"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-e7.png"
+   },
+   {
+      "ID": "IF-T5",
+      "Name": "友希あいね",
+      "Code": "ブルームパレットコーデ",
+      "Note": [
+         "2018年8月 店頭イベント フレンズスカウト～友希あいね～"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-t5.png"
+   },
+   {
+      "ID": "IF-E4",
+      "Name": "蝶乃舞花",
+      "Code": "パープルリンクコーデ",
+      "Note": [
+         "アイカツ！オフィシャルショップ",
+         "アイドルカード配布キャンペーン ほか"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-e4.png"
+   },
+   {
+      "ID": "IF-T4",
+      "Name": "日向エマ",
+      "Code": "プリティキティコーデ",
+      "Note": [
+         "2018年7月 店頭イベント フレンズスカウト～日向エマ～"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-t4.png"
+   },
+   {
+      "ID": "I-1",
+      "Name": "星宮いちご",
+      "Code": "スターサンシャインコーデ",
+      "Note": [
+         "アイカツ！格言4ポケットバインダー あかりジェネレーション"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/i-1.png"
+   },
+   {
+      "ID": "I-2",
+      "Name": "霧矢あおい",
+      "Code": "スターサンライズコーデ",
+      "Note": [
+         "アイカツ！格言4ポケットバインダー あかりジェネレーション"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/i-2.png"
+   },
+   {
+      "ID": "I-3",
+      "Name": "紫吹蘭",
+      "Code": "スターサンセットコーデ",
+      "Note": [
+         "アイカツ！格言4ポケットバインダー あかりジェネレーション"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/i-3.png"
+   },
+   {
+      "ID": "I-4",
+      "Name": "大空あかり",
+      "Code": "アルメリアプリズムコーデ",
+      "Note": [
+         "アイカツ！格言4ポケットバインダー あかりジェネレーション"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/i-4.png"
+   },
+   {
+      "ID": "I-5",
+      "Name": "氷上スミレ",
+      "Code": "ライラックプリズムコーデ",
+      "Note": [
+         "アイカツ！格言4ポケットバインダー あかりジェネレーション"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/i-5.png"
+   },
+   {
+      "ID": "I-6",
+      "Name": "新庄ひなき",
+      "Code": "マーガレットプリズムコーデ",
+      "Note": [
+         "アイカツ！格言4ポケットバインダー あかりジェネレーション"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/i-6.png"
+   },
+   {
+      "ID": "IF-E3",
+      "Name": "湊みお",
+      "Code": "ブルーリンクコーデ",
+      "Note": [
+         "アイカツ！オフィシャルショップ",
+         "アイドルカード配布キャンペーン ほか"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-e3.png"
+   },
+   {
+      "ID": "IF-T3",
+      "Name": "蝶乃舞花",
+      "Code": "スパイシーキティコーデ",
+      "Note": [
+         "2018年6月 店頭イベント フレンズスカウト～蝶乃舞花～"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-t3.png"
+   },
+   {
+      "ID": "IF-T2",
+      "Name": "明日香ミライ",
+      "Code": "ダイヤモンドフューチャーコーデ",
+      "Note": [
+         "2018年5月 店頭イベント フレンズスカウト～明日香ミライ～"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-t2.png"
+   },
+   {
+      "ID": "IF-T1",
+      "Name": "神城カレン",
+      "Code": "ダイヤモンドエンジェルコーデ",
+      "Note": [
+         "2018年4月 店頭イベント フレンズスカウト～神城カレン～"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-t1.png"
+   },
+   {
+      "ID": "IF-E2",
+      "Name": "日向エマ",
+      "Code": "イエローリンクコーデ",
+      "Note": [
+         "アイカツフレンズ！1弾稼働イベント ほか"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-e2.png"
+   },
+   {
+      "ID": "IF-E1",
+      "Name": "友希あいね",
+      "Code": "ピンクリンクコーデ",
+      "Note": [
+         "アイカツフレンズ！1弾稼働イベント ほか"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-e1.png"
+   },
+   {
+      "ID": "IS-1",
+      "Name": "虹野ゆめ",
+      "Code": "レインボーエトワールコーデ",
+      "Note": [
+         "バトンタッチキャンペーン"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/is-1.png"
+   },
+   {
+      "ID": "IF-1",
+      "Name": "友希あいね",
+      "Code": "ピンクリンクコーデ",
+      "Note": [
+         "友だち100万人キャンペーン"
+      ],
+      "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/idolcard/if-1.png"
+   }
+]
