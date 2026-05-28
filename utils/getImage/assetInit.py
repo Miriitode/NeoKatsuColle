@@ -2,7 +2,7 @@ import requests
 from pathlib import Path
 
 # Project root directory
-BASE_DIR = Path(__file__).resolve().parents[3]
+BASE_DIR = Path(__file__).resolve().parents[2]
 
 ASSETS_DIR = BASE_DIR / "Assets"
 CORE_DIR = ASSETS_DIR / "Core"
