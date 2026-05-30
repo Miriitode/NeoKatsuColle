@@ -2,10 +2,56 @@ from nicegui import ui
 import mainUI
 import json
 from identifiers import load_identifiers
+import qrcode
+from io import BytesIO
+import base64
+from qrcode.constants import ERROR_CORRECT_L, ERROR_CORRECT_M, ERROR_CORRECT_Q, ERROR_CORRECT_H
+from barcode import Code128
+from barcode.writer import ImageWriter
 
-LIGHTWEIGHT_MODE = True
+LIGHTWEIGHT_MODE = False
 
 ogkatsuList, starsList, friendsList, paradeList, planetList, encoreList, brands, types, planetype = load_identifiers()
+
+def generateBarcode(data):
+    buffer = BytesIO()
+
+    barcode = Code128(data, writer=ImageWriter())
+
+    barcode.write(buffer)
+
+    encoded = base64.b64encode(buffer.getvalue()).decode()
+
+    return f'data:image/png;base64,{encoded}'
+
+def generateQR(data): #does not match the qr code in actual card, will try to figure this out sometime
+    qr = qrcode.QRCode()
+    qr.add_data(data)
+    qr.make(fit=False)
+
+    img = qr.make_image(fill_color='black', back_color='white')
+    buffer = BytesIO()
+    img.save(buffer, format="PNG")
+
+    encoded = base64.b64encode(buffer.getvalue()).decode()
+
+    return f'data:image/png;base64,{encoded}'
+
+def showQRBarcode(card, isAikatsu = False, isBarcode = False):
+    with ui.dialog() as dialog:
+        with ui.card().style('min-width: 500px'):
+            with ui.column().classes('w-full items-center q-gutter-md'):
+                if isAikatsu and isBarcode:
+                    ui.label('Card Barcode').classes('w-full text-center text-h6')
+                    ui.image().set_source(generateBarcode(card["Barcode"])).style('width: 50%;')
+                else:
+                    ui.label('Card QR').classes('w-full text-center text-h6')
+                    ui.image().set_source(generateQR(card["QR"])).style('width: 50%;')
+                    ui.label(f'{card["QR"]}').classes('w-full text-center')
+
+                ui.button('Close', on_click=dialog.close)
+
+    dialog.open()
 
 def headerDetail(card, route_prefix):
     with ui.row().classes('w-full items-center gap-3') as idHeader:
@@ -31,7 +77,6 @@ def headerDetail(card, route_prefix):
                     ui.tooltip('Card Not Owned').props('position-bottom')
 
 def mainInfo(card, route_prefix, j):
-
     if route_prefix == 'aikatsu':
         columns = 9
         headers = ['Type','Brand','Category','Lucky Star','Points','Constellation','Romance','BOOM','Fever']
@@ -73,33 +118,27 @@ def card_opt(card, route_prefix, j):
         back_src = f'/Assets/Cards/{route_prefix}/cardimg-{j}/{card["ID"]} Back.png'
 
     column_width = '560px' if route_prefix == 'planet' else '240px'
+    
     with ui.column().classes('items-center shrink-0 gap-2').style(f'width: {column_width};'):
-
         if route_prefix != 'planet':
-            ui.image(
-                img_src
-            ).style('width: 100%;')
-
+            ui.image(img_src).style('width: 100%;')
         else:
             with ui.row().classes('w-full no-wrap gap-2 justify-center'):
-                ui.image(
-                    front_src
-                ).style('width: 50%;')
-
-                ui.image(
-                    back_src
-                ).style('width: 50%;')
+                ui.image(front_src).style('width: 50%;')
+                ui.image(back_src).style('width: 50%;')
 
         with ui.row().classes('w-full justify-center gap-1'):
 
             with ui.button(icon='favorite').props('flat rouond dense color=red') as cardLike:
                 ui.tooltip('Add to favorites')
 
-            with ui.button(icon='qr_code').props('flat round dense') as cardQR:
-                ui.tooltip('See QR Code')
+            if route_prefix != 'planet':
+                with ui.button(icon='qr_code', on_click=lambda: showQRBarcode(card)).props('flat round dense') as cardQR:
+                    ui.tooltip('See QR Code')
 
-            with ui.button(icon='rectangle').props('flat round dense') as cardBarcode:
-                ui.tooltip('See card Barcode')
+            if route_prefix == 'aikatsu':
+                with ui.button(icon='rectangle', on_click=lambda: showQRBarcode(card, isAikatsu=True, isBarcode=True)).props('flat round dense') as cardBarcode:
+                    ui.tooltip('See card Barcode')
 
 def render_value(header, value, route_prefix, card):
     # Brand
