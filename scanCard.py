@@ -4,11 +4,15 @@ from identifiers import load_identifiers
 import json
 from pathlib import Path
 
-ogkatsuList, starsList, friendsList, paradeList, planetList, encoreList, brands, types, planetype = load_identifiers()
+aikatsuList = load_identifiers('aikatsu')
+starsList = load_identifiers('stars')
+friendsList = load_identifiers('friends')
+paradeList = load_identifiers('planet')
+encoreList = load_identifiers('encore')
 
 all_cards = []
 
-for i, _ in enumerate(ogkatsuList):
+for i, _ in enumerate(aikatsuList):
     with open(f'Database/aikatsu/aikatsu_Data-{i}.json','r',encoding='utf-8') as cardData:
         cards = json.load(cardData)
 

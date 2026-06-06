@@ -11,7 +11,15 @@ from barcode.writer import ImageWriter
 
 LIGHTWEIGHT_MODE = False
 
-ogkatsuList, starsList, friendsList, paradeList, planetList, encoreList, brands, types, planetype = load_identifiers()
+aikatsuList = load_identifiers('aikatsu')
+starsList = load_identifiers('stars')
+friendsList = load_identifiers('friends')
+paradeList = load_identifiers('parade')
+planetList = load_identifiers('planet')
+encoreList = load_identifiers('encore')
+brands = load_identifiers('brands')
+types = load_identifiers('types')
+planetype = load_identifiers('planettype')
 
 def generateBarcode(data):
     buffer = BytesIO()
@@ -141,14 +149,12 @@ def card_opt(card, route_prefix, j):
                     ui.tooltip('See card Barcode')
 
 def render_value(header, value, route_prefix, card):
-    # Brand
     if header == 'Brand':
         if type(value) != list and value in brands and value != 'ノーブランド':
             with ui.element('div').classes('w-full flex justify-center'):
                 ui.image(f'/Assets/Brands/{brands[value]}').style('width: 80px;')
         else:
             ui.label(card["Brand"]).classes('text-center w-full').style('color: gray;')
-    # Type
     elif header == 'Type':
         if value != '-':
             with ui.element('div').classes('w-full flex justify-center'):
@@ -159,30 +165,28 @@ def render_value(header, value, route_prefix, card):
                         ui.image(f'/Assets/Core/Types/{planetype[i]}').style('width: 240px;')
         else:
             ui.label('None').classes('text-center w-full').style('color: gray;')
-
-    # Friends category list
     elif header == 'Category' and route_prefix == 'friends':
         for cat in card['Category']:
             ui.label(cat).classes('text-center w-full').style('color: black;')
-
-    # Default text
     else:
         ui.label(str(value)).classes('text-center w-full').style('color: black;')
 
 
 def render_grid(headers, values, route_prefix, card):
     with ui.grid(columns=len(headers)).classes('w-full gap-x-6 gap-y-2 items-center justify-items-center text-center'):
-
-        # headers
         for header in headers:
             ui.label(header).classes('text-center w-full').style('color: gray; font-size: 13px;')
-
-        # values
+            
         for idx, value in enumerate(values):
             render_value(headers[idx],value,route_prefix,card)
 
 def create_series_pages(series_list, route_prefix, series_title):
-
+    filterState = {
+        'Rarity': None,
+        'Brand': None,
+        'Type': None,
+        'Category': None
+    }
     for j, i in enumerate(series_list):
         clean_i = i.replace(' ', '-').lower()
 
@@ -193,8 +197,17 @@ def create_series_pages(series_list, route_prefix, series_title):
             @ui.page(f'/{route_prefix}/{clean_i}')
             def card_page(i=i):
 
+                with ui.right_drawer(fixed=False, value=False).style('background-color: #ebf1fa').props('bordered overlay') as rightDrawer:
+                    ui.label('Filters').classes('text-h6')
+                    rarity_select = ui.select(['N', 'R', 'PR', 'CP'],label='Rarity')
+                    brand_select = ui.select(sorted(brands.keys()),label='Brand')
+                    type_select = ui.select(sorted(types.keys()),label='Type')
+
+                    ui.button('Apply Filters',on_click=lambda: apply_filters())
+                    ui.button('Clear Filters',on_click=lambda: clear_filters())
+
                 # Main UI here
-                mainUI.mainUI(f'NeoKatsuColle | {series_title} - {i}')
+                mainUI.mainUI(f'NeoKatsuColle | {series_title} - {i}', isCardDB=True, drawer=rightDrawer)
 
                 ITEMS_PER_PAGE = 35
 
@@ -202,13 +215,48 @@ def create_series_pages(series_list, route_prefix, series_title):
                 total_pages = max(1, (len(data) + ITEMS_PER_PAGE - 1) // ITEMS_PER_PAGE)
 
                 with ui.column().classes('w-full'):
-                    # scrollable content container
                     with ui.scroll_area().classes('w-full').style('height: calc(85vh - 90px);'):
                         card_container = ui.column().classes('w-full gap-4 p-4')
 
                     # pagination controls
                     with ui.row().classes('w-full justify-center p-2'):
                         pagination = ui.pagination(1,total_pages,direction_links=True,value=current_page['value'])
+
+                    filtered_data = data.copy()
+
+                    def apply_filters():
+                        nonlocal filtered_data
+
+                        filtered_data = data
+
+                        if rarity_select.value:
+                            filtered_data = [card for card in filtered_data if card.get('Rarity') == rarity_select.value]
+
+                        if brand_select.value:
+                            filtered_data = [card for card in filtered_data if card.get('Brand') == brand_select.value]
+
+                        if type_select.value:
+                            filtered_data = [card for card in filtered_data if card.get('Type') == type_select.value]
+                        current_page['value'] = 1
+
+                        pagination.max = max(1,(len(filtered_data) + ITEMS_PER_PAGE - 1)// ITEMS_PER_PAGE)
+
+                        render_page()
+
+                    def clear_filters():
+                        nonlocal filtered_data
+
+                        rarity_select.value = None
+                        brand_select.value = None
+                        type_select.value = None
+
+                        filtered_data = data.copy()
+
+                        current_page['value'] = 1
+
+                        pagination.max = max(1,(len(filtered_data) + ITEMS_PER_PAGE - 1)// ITEMS_PER_PAGE)
+
+                        render_page()
 
                     def render_page():
 
@@ -217,7 +265,7 @@ def create_series_pages(series_list, route_prefix, series_title):
                         start = (current_page['value'] - 1) * ITEMS_PER_PAGE
                         end = start + ITEMS_PER_PAGE
 
-                        visible_cards = data[start:end]
+                        visible_cards = filtered_data[start:end]
 
                         with card_container:
 
@@ -239,7 +287,6 @@ def create_series_pages(series_list, route_prefix, series_title):
                                                 split_index = (len(headers) + 1) // 2
                                                 render_grid(headers[:split_index],values[:split_index],route_prefix,card)
                                                 render_grid(headers[split_index:],values[split_index:],route_prefix,card)
-
                                             else:
                                                 render_grid(headers,values,route_prefix,card)
 
@@ -262,7 +309,7 @@ def create_series_pages(series_list, route_prefix, series_title):
 
 # Data Carddass Aikatsu!
 create_series_pages(
-    ogkatsuList,
+    aikatsuList,
     'aikatsu',
     'Data Carddass Aikatsu!'
 )
