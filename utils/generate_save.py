@@ -72,7 +72,18 @@ def countSeries():
         'planet': {
             'overallTotal': 0,
             'seriesTotal': [],
-            #TODO: add proper planet types here
+            'countFairy': [],
+            'countJewel': [],
+            'countHoroscope': [],
+            'countMusic': [],
+            'countStory': [],
+            'countSweets': [],
+            'countFlower': [],
+            'countCosme': [],
+            'countCafe': [],
+            'countFruits': [],
+            'countAquarium': [],
+            'countMeltyhouse': [],
             'countN': [],
             'countR': [],
             'countPR': [],
@@ -92,8 +103,35 @@ def countSeries():
                 for card in info:
                     ...
 
-def generate_save(name):
+def generateSave(name):
     save = {
         'profile': name,
-        'cardsCollected': 0
+        'cardsCollected': 0,
+        'series': {
+            'aikatsu': {
+                'collected': [0]*len(aikatsuList),
+                'overallTotal': 0,
+            },
+            'stars': {
+                'collected': [0]*len(starsList),
+                'overallTotal': 0,
+            },
+            'friends': {
+                'collected': [0]*len(friendsList),
+                'overallTotal': 0,
+            },
+            'parade': {
+                'collected': [0]*len(paradeList),
+                'overallTotal': 0,
+            },
+            'planet': {
+                'collected': [0]*len(planetList),
+                'overallTotal': 0,
+            },
+            'encore': {
+                'collected': [0]*len(encoreList),
+                'overallTotal': 0,
+            }
+        }
+
     }
