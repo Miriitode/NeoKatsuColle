@@ -19,76 +19,76 @@ def countSeries():
         'aikatsu': {
             'overallTotal': 0,
             'seriesTotal': [],
-            'countCute': [],
-            'countCool': [],
-            'countSexy': [],
-            'countPop': [],
-            'countN': [],
-            'countR': [],
-            'countPR': [],
-            'countCPR': [],
-            'countAcc': []
+            'totalCute': [],
+            'totalCool': [],
+            'totalSexy': [],
+            'totalPop': [],
+            'totalN': [],
+            'totalR': [],
+            'totalPR': [],
+            'totalCPR': [],
+            'totalAcc': []
         },
         'stars': {
             'overallTotal': 0,
             'seriesTotal': [],
-            'countCute': [],
-            'countCool': [],
-            'countSexy': [],
-            'countPop': [],
-            'countN': [],
-            'countR': [],
-            'countPR': [],
-            'countCR': [],
-            'countSPR': []
+            'totalCute': [],
+            'totalCool': [],
+            'totalSexy': [],
+            'totalPop': [],
+            'totalN': [],
+            'totalR': [],
+            'totalPR': [],
+            'totalCR': [],
+            'totalSPR': []
         },
         'friends': {
             'overallTotal': 0,
             'seriesTotal': [],
-            'countCute': [],
-            'countCool': [],
-            'countSexy': [],
-            'countPop': [],
-            'countN': [],
-            'countR': [],
-            'countPR': [],
-            'countFR': [],
-            'countJR': [],
-            'countBFR': []
+            'totalCute': [],
+            'totalCool': [],
+            'totalSexy': [],
+            'totalPop': [],
+            'totalN': [],
+            'totalR': [],
+            'totalPR': [],
+            'totalFR': [],
+            'totalJR': [],
+            'totalBFR': []
         },
         'parade': {
             'overallTotal': 0,
             'seriesTotal': [],
-            'countCute': [],
-            'countCool': [],
-            'countSexy': [],
-            'countPop': [],
-            'countN': [],
-            'countR': [],
-            'countPR': [],
-            'countCR': [],
-            'countLPR': []
+            'totalCute': [],
+            'totalCool': [],
+            'totalSexy': [],
+            'totalPop': [],
+            'totalN': [],
+            'totalR': [],
+            'totalPR': [],
+            'totalCR': [],
+            'totalLPR': []
         },
         'planet': {
             'overallTotal': 0,
             'seriesTotal': [],
-            'countFairy': [],
-            'countJewel': [],
-            'countHoroscope': [],
-            'countMusic': [],
-            'countStory': [],
-            'countSweets': [],
-            'countFlower': [],
-            'countCosme': [],
-            'countCafe': [],
-            'countFruits': [],
-            'countAquarium': [],
-            'countMeltyhouse': [],
-            'countN': [],
-            'countR': [],
-            'countPR': [],
-            'countCP': [],
-            'countSEC': []
+            'totalFairy': [],
+            'totalJewel': [],
+            'totalHoroscope': [],
+            'totalMusic': [],
+            'totalStory': [],
+            'totalSweets': [],
+            'totalFlower': [],
+            'totalCosme': [],
+            'totalCafe': [],
+            'totalFruits': [],
+            'totalAquarium': [],
+            'totalMeltyhouse': [],
+            'totalN': [],
+            'totalR': [],
+            'totalPR': [],
+            'totalCP': [],
+            'totalSEC': []
         },
         'encore': {
 
@@ -96,12 +96,58 @@ def countSeries():
     }
 
     for series in [('aikatsu', aikatsuList), ('stars', starsList), ('friends', friendsList), ('parade', paradeList), ('planet', planetList), ('encore', encoreList)]:
+        totalCount = 0
         for refnum, _ in enumerate(series[1]):
+            for key in db[series[0]].keys():
+                if key != 'overallTotal' and key != 'seriesTotal':
+                    db[series[0]][key].append(0)
+
             with open(BASE_DIR / "Database" / series[0] / f'{series[0]}_Data-{refnum}.json', 'r', encoding='utf-8') as data:
                 info = json.load(data)
                 
+                db[series[0]]['seriesTotal'].append(len(info))
+
                 for card in info:
-                    ...
+                    if series[0] != 'friends' or series[0] != 'parade':
+                        rarity = card['Rarity']
+                    else:
+                        rarity = card['RarityFull']
+
+                    match card['Rarity']:
+                        case 'ノーマル' | 'N':
+                            db[series[0]]['totalN'][-1] += 1
+                        case 'レア' | 'R':
+                            db[series[0]]['totalR'][-1] += 1
+                        case 'プレミアムレア' | 'PR':
+                            db[series[0]]['totalPR'][-1] += 1
+                        case 'キャンペーンレア' | 'CP':
+                            db[series[0]]['totalCPR'][-1] += 1
+                        case '':
+                            db[series[0]]['totalCR'][-1] += 1
+                        case 'スタープレミアムレア':
+                            db[series[0]]['totalSPR'][-1] += 1
+                        case 'フレンズレア':
+                            db[series[0]]['totalFR'][-1] += 1
+                        case 'ジュエリングレア':
+                            db[series[0]]['totalJR'][-1] += 1
+                        case 'ベストフレンズレア':
+                            db[series[0]]['totalBFR'][-1] += 1
+                        case 'レジェンドプレミアムレア':
+                            db[series[0]]['totalLPR'][-1] += 1
+                        case 'SEC':
+                            db[series[0]]['totalSEC'][-1] += 1
+                
+                    match card['Type']:
+                        case 'キュート':
+                            db[series[0]]['totalCute'][-1] += 1
+                        case 'クール':
+                            db[series[0]]['totalCool'][-1] += 1
+                        case 'セクシー':
+                            db[series[0]]['totalSexy'][-1] += 1
+                        case 'ポップ':
+                            db[series[0]]['totalPop'][-1] += 1
+                        case _:
+                            db[series[0]]['totalAcc'][-1] += 1
 
 def generateSave(name):
     save = {
