@@ -113,7 +113,10 @@ def countSeries():
                     else:
                         rarity = card['RarityFull']
 
-                    match card['Rarity']:
+                    if series[0] != 'planet':
+                        cardType = [card['Type']]
+
+                    match rarity:
                         case 'ノーマル' | 'N':
                             db[series[0]]['totalN'][-1] += 1
                         case 'レア' | 'R':
@@ -136,18 +139,49 @@ def countSeries():
                             db[series[0]]['totalLPR'][-1] += 1
                         case 'SEC':
                             db[series[0]]['totalSEC'][-1] += 1
-                
-                    match card['Type']:
-                        case 'キュート':
-                            db[series[0]]['totalCute'][-1] += 1
-                        case 'クール':
-                            db[series[0]]['totalCool'][-1] += 1
-                        case 'セクシー':
-                            db[series[0]]['totalSexy'][-1] += 1
-                        case 'ポップ':
-                            db[series[0]]['totalPop'][-1] += 1
                         case _:
-                            db[series[0]]['totalAcc'][-1] += 1
+                            print(f"[WARN] No matching rarity {rarity}")
+                
+                    for cardEvalType in cardType:
+                        match cardEvalType:
+                            case 'キュート':
+                                db[series[0]]['totalCute'][-1] += 1
+                            case 'クール':
+                                db[series[0]]['totalCool'][-1] += 1
+                            case 'セクシー':
+                                db[series[0]]['totalSexy'][-1] += 1
+                            case 'ポップ':
+                                db[series[0]]['totalPop'][-1] += 1
+                            case '-':
+                                db[series[0]]['totalAcc'][-1] += 1
+                            case 'フェアリー':
+                                db[series[0]]['totalFairy'][-1] += 1
+                            case 'ジュエル':
+                                db[series[0]]['totalJewel'][-1] += 1
+                            case 'ホロスコープ':
+                                db[series[0]]['totalHoroscope'][-1] += 1
+                            case 'ミュージック':
+                                db[series[0]]['totalMusic'][-1] += 1
+                            case 'ストーリー':
+                                db[series[0]]['totalStory'][-1] += 1
+                            case 'スウィーツ':
+                                db[series[0]]['totalSweets'][-1] += 1
+                            case 'フラワー':
+                                db[series[0]]['totalFlower'][-1] += 1
+                            case 'コスメ':
+                                db[series[0]]['totalCosme'][-1] += 1
+                            case 'カフェ':
+                                db[series[0]]['totalCafe'][-1] += 1
+                            case 'フルーツ':
+                                db[series[0]]['totalFruits'][-1] += 1
+                            case 'アクアリウム':
+                                db[series[0]]['totalAquarium'][-1] += 1
+                            case 'メルティーハウス':
+                                db[series[0]]['totalMeltyhouse'][-1] += 1
+                            case '_':
+                                print(f"[WARN] No matching type {card['Type']}")
+                    
+                        
 
 def generateSave(name):
     save = {
