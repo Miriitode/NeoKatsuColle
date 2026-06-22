@@ -68,6 +68,6 @@ def mainUI(headerText, isSettings=False, isCardDB=False, drawer=None):
                         clean_i = i.replace(' ', '-').lower()
                         ui.button(i, on_click=lambda clean_i=clean_i: ui.navigate.to(f'/planet/{clean_i}')).props('flat').style('text-align: left;')
 
-                with ui.expansion('Aikatsu Encore!').style('width: 220px;'):
-                    for i in encoreList:
-                        clean_i = i.replace(' ', '-').lower()
+                # with ui.expansion('Aikatsu Encore!').style('width: 220px;'):
+                #     for i in encoreList:
+                #         clean_i = i.replace(' ', '-').lower()
