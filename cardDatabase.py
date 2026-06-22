@@ -165,9 +165,10 @@ def render_value(header, value, route_prefix, card):
                         ui.image(f'/Assets/Core/Types/{planetype[i]}').style('width: 240px;')
         else:
             ui.label('None').classes('text-center w-full').style('color: gray;')
-    elif header == 'Category' and route_prefix == 'friends':
-        for cat in card['Category']:
-            ui.label(cat).classes('text-center w-full').style('color: black;')
+    elif header == 'Category' and (route_prefix == 'friends' or route_prefix == 'parade'):
+        with ui.column().classes('w-full') as categoryColumn:
+            for cat in card['Category']:
+                ui.label(cat).classes('text-center w-full').style('color: red;')
     else:
         ui.label(str(value)).classes('text-center w-full').style('color: black;')
 
