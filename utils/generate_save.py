@@ -39,7 +39,7 @@ def countSeries():
             'totalN': [],
             'totalR': [],
             'totalPR': [],
-            'totalCR': [],
+            'totalCP': [],
             'totalSPR': []
         },
         'friends': {
@@ -66,6 +66,7 @@ def countSeries():
             'totalN': [],
             'totalR': [],
             'totalPR': [],
+            'totalJR': [],
             'totalCR': [],
             'totalLPR': []
         },
@@ -95,9 +96,10 @@ def countSeries():
         }
     }
 
-    for series in [('aikatsu', aikatsuList), ('stars', starsList), ('friends', friendsList), ('parade', paradeList), ('planet', planetList), ('encore', encoreList)]:
+    for series in [('aikatsu', aikatsuList), ('stars', starsList), ('friends', friendsList), ('parade', paradeList), ('planet', planetList)]:
         totalCount = 0
         for refnum, _ in enumerate(series[1]):
+            print(series[0])
             for key in db[series[0]].keys():
                 if key != 'overallTotal' and key != 'seriesTotal':
                     db[series[0]][key].append(0)
@@ -107,26 +109,31 @@ def countSeries():
                 
                 db[series[0]]['seriesTotal'].append(len(info))
 
+                totalCount += len(info)
+
                 for card in info:
-                    if series[0] != 'friends' or series[0] != 'parade':
+                    if series[0] != 'friends' and series[0] != 'parade':
                         rarity = card['Rarity']
                     else:
                         rarity = card['RarityFull']
 
                     if series[0] != 'planet':
                         cardType = [card['Type']]
+                    else:
+                        cardType = card['Type']
 
                     match rarity:
                         case 'ノーマル' | 'N':
                             db[series[0]]['totalN'][-1] += 1
-                        case 'レア' | 'R':
+                        case 'レア' | 'R' | 'レア+':
                             db[series[0]]['totalR'][-1] += 1
                         case 'プレミアムレア' | 'PR':
                             db[series[0]]['totalPR'][-1] += 1
-                        case 'キャンペーンレア' | 'CP':
-                            db[series[0]]['totalCPR'][-1] += 1
-                        case '':
-                            db[series[0]]['totalCR'][-1] += 1
+                        case 'キャンペーンレア' | 'CP' | 'キャンペーンレア+':
+                            if series[0] == 'aikatsu':
+                                db[series[0]]['totalCPR'][-1] += 1
+                            elif series[0] == 'stars' or series[0] == 'planet':
+                                db[series[0]]['totalCP'][-1] += 1
                         case 'スタープレミアムレア':
                             db[series[0]]['totalSPR'][-1] += 1
                         case 'フレンズレア':
@@ -139,6 +146,8 @@ def countSeries():
                             db[series[0]]['totalLPR'][-1] += 1
                         case 'SEC':
                             db[series[0]]['totalSEC'][-1] += 1
+                        case '-':
+                            continue
                         case _:
                             print(f"[WARN] No matching rarity {rarity}")
                 
@@ -181,8 +190,10 @@ def countSeries():
                             case '_':
                                 print(f"[WARN] No matching type {card['Type']}")
                     
-                        
-
+                
+            with open(BASE_DIR / "Database" / "db.json", 'w') as writeDB:
+                json.dump(db, writeDB)
+                    
 def generateSave(name):
     save = {
         'profile': name,
@@ -215,3 +226,8 @@ def generateSave(name):
         }
 
     }
+
+if __name__ == "__main__":
+    countSeries()
+else:
+    generateSave()
