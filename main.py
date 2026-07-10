@@ -3,6 +3,7 @@ from headerUI import mainUI
 from pathlib import Path
 import cardViewer
 import scanCard
+from init import userInitCheck
 
 ui.add_head_html('''
     <style>
@@ -30,8 +31,10 @@ def homePage():
 
 @ui.page('/')
 def Page():
+    userInitCheck()
     mainUI('Welcome to NeoKatsuColle!')
     homePage()
+    
 
 app.add_static_files('/Assets', Path('Assets'))
 ui.run()

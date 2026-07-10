@@ -1,11 +1,15 @@
 from nicegui import ui
 import headerUI
 import json
+import configparser
+from pathlib import Path
 
 from identifiers import load_identifiers
 from viewerUtils import headerDetail, mainInfo, cardOpt, renderValue, renderGrid
 from uiCardColor import ui_cardcolor
 
+BASE_DIR = Path(__file__).resolve().parents[0]
+config_dir = BASE_DIR / "config.ini"
 LIGHTWEIGHT_MODE = False
 
 aikatsuList = load_identifiers('aikatsu')
@@ -18,7 +22,18 @@ brands = load_identifiers('brands')
 types = load_identifiers('types')
 planetype = load_identifiers('planettype')
 filtercodes = load_identifiers('filtercode')
-            
+
+profile = ''
+
+def readprofile():
+    global profile
+    if not config_dir.exists():
+        profile = 'save_Default.json'
+    else:
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+        profile = f'save_{config['SAVES']['profile']}.json'
+
 def create_series_pages(series_list, route_prefix, series_title):
     filterState = {
         'Rarity': None,
@@ -26,6 +41,14 @@ def create_series_pages(series_list, route_prefix, series_title):
         'Type': None,
         'Category': None
     }
+
+    readprofile()
+
+    with open(BASE_DIR / "Saves" / profile, "r") as savefile:
+        save = json.load(savefile)
+
+    editMode = {"value": False, 'dirty': False}
+
     for j, i in enumerate(series_list):
         clean_i = i.replace(' ', '-').lower()
 
@@ -46,7 +69,7 @@ def create_series_pages(series_list, route_prefix, series_title):
                     ui.button('Clear Filters',on_click=lambda: clear_filters())
 
                 # Main UI here
-                headerUI.mainUI(f'NeoKatsuColle | {series_title} - {i}', isCardDB=True, drawer=rightDrawer)
+                headerUI.mainUI(f'NeoKatsuColle | {series_title} - {i}', isCardDB=True, drawer=rightDrawer, editMode=editMode, refreshCallback = lambda: refreshCallback(), saveFile= save, savePath= BASE_DIR / "Saves" / profile)
 
                 ITEMS_PER_PAGE = 35
 
@@ -111,7 +134,9 @@ def create_series_pages(series_list, route_prefix, series_title):
 
                         with card_container:
 
-                            for card in visible_cards:
+                            for idx, card in enumerate(visible_cards):
+
+                                actual_idx = start + idx
 
                                 if route_prefix == 'planet':
                                     planet_colors = ui_cardcolor(card['Type'], 'bg', isPlanetType=True)
@@ -121,7 +146,7 @@ def create_series_pages(series_list, route_prefix, series_title):
 
                                 with ui.card().classes('w-full p-0').style(f'{cardColor} border-radius: 20px 20px 20px 20px;') as mainCard:
 
-                                    headerDetail(card, route_prefix)
+                                    headerDetail(card, route_prefix, save["series"][route_prefix]["collected"][j][actual_idx], editMode, save, j, actual_idx)
 
                                     with ui.row().classes('w-full items-start gap-4 p-4') as cardImg_cardInfo:
 
@@ -159,6 +184,8 @@ def create_series_pages(series_list, route_prefix, series_title):
                                                         ui.label('Notes').classes('text-center w-full').style(f'color: {ui_cardcolor(card['Type'], 't1', isPlanetType = True)}; font-size: 18px;')
 
                                                     ui.label(card['Description']).style(f'color: {ui_cardcolor(card['Type'], "t2")}; font-size: 16px;')
+
+                    refreshCallback = render_page
 
                     def change_page(e):
                         current_page['value'] = e.value

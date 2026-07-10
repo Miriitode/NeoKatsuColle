@@ -1,9 +1,11 @@
 from nicegui import ui
+from pathlib import Path
 
 from identifiers import load_identifiers
 from uiCardColor import ui_cardcolor
 from barcodeUtils import showQRBarcode
 
+BASE_DIR = Path(__file__).resolve().parents[0]
 LIGHTWEIGHT_MODE = False
 
 aikatsuList = load_identifiers('aikatsu')
@@ -17,8 +19,7 @@ types = load_identifiers('types')
 planetype = load_identifiers('planettype')
 filtercodes = load_identifiers('filtercode')
 
-
-def headerDetail(card, route_prefix):
+def headerDetail(card, route_prefix, isOwned, editMode, saveFile, idx, card_idx):
     if route_prefix != 'planet':
         headerStyle = f"background-color: {ui_cardcolor(card['Type'], 'fg')};"
     else:
@@ -47,7 +48,16 @@ def headerDetail(card, route_prefix):
                         ui.label(f"{card['RarityFull']} ({card['RarityFig']})").style(f"color: {ui_cardcolor(card['Type'], 't3')};")
 
             with ui.row().classes('items-center gap-2 ml-auto') as infoHeader:
-                with ui.checkbox().props('disable') as owned:
+                def update_owned(e):
+                    saveFile["series"][route_prefix]["collected"][idx][card_idx] = int(e.value)
+                    editMode['dirty'] = True
+
+                tooltip = ui.tooltip('Card Owned' if isOwned else 'Card Not Owned').props('position-bottom')
+
+                with ui.checkbox(value=bool(isOwned), on_change=update_owned) as owned:
+
+                    owned.disable() if not editMode['value'] else owned.enable()
+                    
                     if owned.value:
                         ui.tooltip('Card Owned').props('position-bottom')
                     else:

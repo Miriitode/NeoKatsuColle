@@ -1,11 +1,10 @@
 from pathlib import Path
-import sys
-BASE_DIR = Path(__file__).resolve().parents[1]
-sys.path.append(str(BASE_DIR))
-
 import json
+import re
+
 from identifiers import load_identifiers
 
+BASE_DIR = Path(__file__).resolve().parents[0]
 
 aikatsuList = load_identifiers('aikatsu')
 starsList = load_identifiers('stars')
@@ -190,44 +189,89 @@ def countSeries():
                             case '_':
                                 print(f"[WARN] No matching type {card['Type']}")
                     
-                
+            db[series[0]]['overallTotal'] = totalCount
+
+            json_string = json.dumps(db, indent = 4)
+
+            flattened_json = re.sub(
+                r'\[[^\]]*?\]', 
+                lambda m: m.group(0).replace("\n", "").replace(" ", ""), 
+                json_string
+)
             with open(BASE_DIR / "Database" / "db.json", 'w') as writeDB:
-                json.dump(db, writeDB)
+                writeDB.write(flattened_json)
                     
-def generateSave(name):
+def generateSave(name, save_dir=None):
+    save_dir = Path(save_dir) if save_dir is not None else BASE_DIR / "Saves"
+    save_dir.mkdir(parents=True, exist_ok=True)
+
+    with open(BASE_DIR / "Database" / "db.json", "r") as readDB:
+        db = json.load(readDB)
+
     save = {
         'profile': name,
         'cardsCollected': 0,
         'series': {
             'aikatsu': {
-                'collected': [0]*len(aikatsuList),
+                'collected': [[0]*x for x in db["aikatsu"]["seriesTotal"]],
                 'overallTotal': 0,
+                'totalN': [0]*len(aikatsuList),
+                'totalR': [0]*len(aikatsuList),
+                'totalPR': [0]*len(aikatsuList),
+                'totalCPR': [0]*len(aikatsuList),
+                'totalACC': [0]*len(aikatsuList)
             },
             'stars': {
-                'collected': [0]*len(starsList),
+                'collected': [[0]*x for x in db["stars"]["seriesTotal"]],
                 'overallTotal': 0,
+                'totalN': [0]*len(starsList),
+                'totalR': [0]*len(starsList),
+                'totalPR': [0]*len(starsList),
+                'totalCP': [0]*len(starsList),
+                'totalSPR': [0]*len(starsList)
             },
             'friends': {
-                'collected': [0]*len(friendsList),
+                'collected': [[0]*x for x in db["friends"]["seriesTotal"]],
                 'overallTotal': 0,
+                'totalN': [0]*len(friendsList),
+                'totalR': [0]*len(friendsList),
+                'totalPR': [0]*len(friendsList),
+                'totalFP': [0]*len(friendsList),
+                'totalJR': [0]*len(friendsList),
+                'totalBFR': [0]*len(friendsList)
             },
             'parade': {
-                'collected': [0]*len(paradeList),
+                'collected': [[0]*x for x in db["parade"]["seriesTotal"]],
                 'overallTotal': 0,
+                'totalN': [0]*len(paradeList),
+                'totalR': [0]*len(paradeList),
+                'totalPR': [0]*len(paradeList),
+                'totalJP': [0]*len(paradeList),
+                'totalCR': [0]*len(paradeList),
+                'totalLPR': [0]*len(paradeList)
             },
             'planet': {
-                'collected': [0]*len(planetList),
+                'collected': [[0]*x for x in db["planet"]["seriesTotal"]],
                 'overallTotal': 0,
-            },
-            'encore': {
-                'collected': [0]*len(encoreList),
-                'overallTotal': 0,
+                'totalN': [0]*len(paradeList),
+                'totalR': [0]*len(paradeList),
+                'totalPR': [0]*len(paradeList),
+                'totalCP': [0]*len(paradeList),
+                'totalSEC': [0]*len(paradeList)
             }
         }
-
     }
+
+    json_string = json.dumps(save, indent = 4)
+
+    flattened_json = re.sub(
+        r'\[[^\]]*?\]', 
+        lambda m: m.group(0).replace("\n", "").replace(" ", ""), 
+        json_string
+    )
+
+    with open(save_dir / f"save_{name}.json", 'w', encoding='utf-8') as writeDB:
+        writeDB.write(flattened_json)
 
 if __name__ == "__main__":
     countSeries()
-else:
-    generateSave()

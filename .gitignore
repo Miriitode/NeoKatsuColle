@@ -3,4 +3,6 @@ venv
 utils/scrapers/__pycache__
 __pycache__
 Assets
-save.json
+Saves*
+!Saves/save_Default.json
+config.ini

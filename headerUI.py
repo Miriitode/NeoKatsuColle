@@ -1,5 +1,10 @@
+import json
+import re
+from pathlib import Path
 from nicegui import ui
 from identifiers import load_identifiers
+
+BASE_DIR = Path(__file__).resolve().parents[0]
 
 aikatsuList = load_identifiers('aikatsu')
 starsList = load_identifiers('stars')
@@ -8,7 +13,20 @@ paradeList = load_identifiers('parade')
 planetList = load_identifiers('planet')
 encoreList = load_identifiers('encore')
 
-def mainUI(headerText, isSettings=False, isCardDB=False, drawer=None):
+def write_save(saveFile, savePath):
+    json_string = json.dumps(saveFile, indent = 4)
+
+    flattened_json = re.sub(
+        r'\[[^\]]*?\]', 
+        lambda m: m.group(0).replace("\n", "").replace(" ", ""), 
+        json_string
+    )
+    with open(savePath, 'w') as f:
+        f.write(flattened_json)
+
+    ui.notify('Collection saved')
+
+def mainUI(headerText, isSettings=False, isCardDB=False, drawer=None, editMode=False, refreshCallback=None, saveFile=None, savePath=None):
     ui.add_head_html("""
         <style>
         html, body {
@@ -22,10 +40,35 @@ def mainUI(headerText, isSettings=False, isCardDB=False, drawer=None):
     with ui.header(elevated=True).style('position:relative; display:flex; justify-content:center; align-items:center; min-height: 52px; padding: 0 16px;') as mainHeader:
         ui.label(headerText).style('font-size: 24px; margin: 0;')
         with ui.row().style('position:absolute; right:16px; top:50%; transform:translateY(-50%); gap: 8px;') as headerButtons:
-            if isCardDB:
-                with ui.button(on_click=lambda: drawer.toggle()).props('elevated') as filter:
-                    ui.icon('filter_list')
-                    ui.tooltip('Filter Cards').props('position-bottom')
+
+            def toggle_edit_mode():
+                was_editing = editMode['value']
+
+                editMode['value'] = not editMode['value']
+
+                if was_editing and not editMode['value']:
+                    if editMode['dirty']:
+                        write_save(saveFile, savePath)
+                        editMode['dirty'] = False
+
+                if editMode['value']:
+                    edit_icon.name = 'save'
+                    edit_tooltip.text = 'Turn off Edit Mode (Save changes)'
+                else:
+                    edit_icon.name = 'edit'
+                    edit_tooltip.text = 'Turn on Edit Mode'
+
+                if refreshCallback:
+                    refreshCallback()
+
+            with ui.button(on_click=toggle_edit_mode).props('elevated') as edit:
+                edit_icon = ui.icon('edit')
+                edit_tooltip = ui.tooltip('Turn on Edit Mode').props('position-bottom')
+
+
+            with ui.button(on_click=lambda: drawer.toggle()).props('elevated') as filter:
+                ui.icon('filter_list')
+                ui.tooltip('Filter Cards').props('position-bottom')
 
             with ui.button(on_click=lambda: ui.navigate.to('/scanCard')).props('elevated') as QrCode:
                 ui.icon('qr_code_scanner')
