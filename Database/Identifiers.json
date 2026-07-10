@@ -153,5 +153,12 @@
             "フルーツ": "icon_FRUITS.png",
             "アクアリウム": "icon_AQUARIUM.png",
             "メルティーハウス": "icon_MELTYHOUSE.png"
+    },
+    "FilterCode": {
+        "aikatsu": ["N", "R", "PR", "CPR"],
+        "stars": ["N", "R", "PR", "CP", "SPR"],
+        "friends": ["N", "R", "PR", "FR", "JR", "BFR"],
+        "parade": ["N", "R", "PR", "JR", "CR", "LPR"],
+        "planet": ["N", "R", "PR", "CP", "SEC"]
     }
 }

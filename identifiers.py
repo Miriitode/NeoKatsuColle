@@ -32,6 +32,9 @@ def load_identifiers(opt):
             case 'planettype':
                 planetype = seriesList['PlanetType']
                 return planetype
+            case 'filtercode':
+                filtercode = seriesList['FilterCode']
+                return filtercode
             
             #for compatibility, remove once code has been properly refactored
             case None:
