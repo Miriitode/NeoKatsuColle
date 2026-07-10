@@ -19,9 +19,9 @@ def mainUI(headerText, isSettings=False, isCardDB=False, drawer=None):
         </style>
         """)
     
-    with ui.header(elevated=True).style('position:relative; display:flex; justify-content:center; align-items:center') as mainHeader:
-        ui.label(headerText)
-        with ui.row().style('position:absolute; right:16px;') as headerButtons:
+    with ui.header(elevated=True).style('position:relative; display:flex; justify-content:center; align-items:center; min-height: 52px; padding: 0 16px;') as mainHeader:
+        ui.label(headerText).style('font-size: 24px; margin: 0;')
+        with ui.row().style('position:absolute; right:16px; top:50%; transform:translateY(-50%); gap: 8px;') as headerButtons:
             if isCardDB:
                 with ui.button(on_click=lambda: drawer.toggle()).props('elevated') as filter:
                     ui.icon('filter_list')
