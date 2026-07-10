@@ -1,1 +1,1678 @@
-[{"ID": "F1-1 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "ダイヤモンドエンジェルトップス", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "ベストラブミーティアマーチ", "Points": "900", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-1bfr_00.png"}, {"ID": "F1-2 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "ダイヤモンドエンジェルスカート", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "ベストラブミーティアマーチ", "Points": "950", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-2bfr_00.png"}, {"ID": "F1-3 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "ダイヤモンドエンジェルハイヒール", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "ベストラブミーティアマーチ", "Points": "900", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-3bfr_00.png"}, {"ID": "F1-4 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "ダイヤモンドエンジェルティアラ", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "同じフレンズブランドのアピールポイントがアップ！", "Points": "500", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-4bfr_00.png"}, {"ID": "F1-5 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "ダイヤモンドフューチャートップス", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "ベストラブミーティアマーチ", "Points": "900", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-5bfr_00.png"}, {"ID": "F1-6 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "ダイヤモンドフューチャースカート", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "ベストラブミーティアマーチ", "Points": "950", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-6bfr_00.png"}, {"ID": "F1-7 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "ダイヤモンドフューチャーハイヒール", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "ベストラブミーティアマーチ", "Points": "900", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-7bfr_00.png"}, {"ID": "F1-8 BFR", "RarityFull": "ベストフレンズレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "ダイヤモンドフューチャークラウン", "Brand": "ラブミーティア", "Type": "キュート", "Appeal": "同じフレンズブランドのスペシャルアピールが強くなるよ！", "Points": "500", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-8bfr_00.png"}, {"ID": "F1-9 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "スウィートフレーズトップス", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "プレミアムドリームメロディ", "Points": "950", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-9pr_00.png"}, {"ID": "F1-10 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "スウィートフレーズスカート", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "プレミアムドリームメロディ", "Points": "900", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-10pr_00.png"}, {"ID": "F1-11 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "スウィートフレーズシューズ", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "プレミアムドリームメロディ", "Points": "900", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-11pr_00.png"}, {"ID": "F1-12 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "スウィートフレーズヘッドドレス", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "同じブランドのアピールポイントがアップするよ！", "Points": "500", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-12pr_00.png"}, {"ID": "F1-13 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ピンクパートナートップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズマーチ", "Points": "650", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-13fr_00.png"}, {"ID": "F1-14 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ピンクパートナースカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズマーチ", "Points": "700", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-14fr_00.png"}, {"ID": "F1-15 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ピンクパートナーシューズ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズマーチ", "Points": "600", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-15fr_00.png"}, {"ID": "F1-16 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ピンクパートナーリボンカチューシャ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "キュートフレンズボーナス中にアピールポイントが少しアップ！", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-16fr_00.png"}, {"ID": "F1-17 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ブルーパートナートップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズマーチ", "Points": "650", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-17fr_00.png"}, {"ID": "F1-18 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ブルーパートナースカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズマーチ", "Points": "700", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-18fr_00.png"}, {"ID": "F1-19 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ブルーパートナーシューズ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズマーチ", "Points": "600", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-19fr_00.png"}, {"ID": "F1-20 FR", "RarityFull": "フレンズレア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ブルーパートナーリボンカチューシャ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "キュートフレンズボーナス中にアピールポイントが少しアップ！", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-20fr_00.png"}, {"ID": "F1-21 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ライトブルーハミングトップス", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "ドリームメロディ", "Points": "650", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-21r_00.png"}, {"ID": "F1-22 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ライトブルーハミングスカート", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "ドリームメロディ", "Points": "600", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-22r_00.png"}, {"ID": "F1-23 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ライトブルーハミングシューズ", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "ドリームメロディ", "Points": "700", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-23r_00.png"}, {"ID": "F1-24 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ライトブルーハミングアクセサリー", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "キュートタイプのアピールポイントが少しアップするよ！", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-24r_00.png"}, {"ID": "F1-25 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "リトルシャルマントップス", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "ドリームメロディ", "Points": "650", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-25r_00.png"}, {"ID": "F1-26 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "リトルシャルマンスカート", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "ドリームメロディ", "Points": "600", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-26r_00.png"}, {"ID": "F1-27 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "リトルシャルマンシューズ", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "ドリームメロディ", "Points": "700", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-27r_00.png"}, {"ID": "F1-28 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "リトルシャルマンアクセサリー", "Brand": "シュガーメロディ", "Type": "キュート", "Appeal": "同じブランドのスペシャルアピールが少しつよくなるよ！", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-28r_00.png"}, {"ID": "F1-29 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["トップス"], "Name": "アロマフラワートップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "キュートスマイル", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-29n_00.png"}, {"ID": "F1-30 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["ボトムス"], "Name": "アロマフラワースカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "キュートスマイル", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-30n_00.png"}, {"ID": "F1-31 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["シューズ"], "Name": "アロマフラワーブーティ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "キュートスマイル", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-31n_00.png"}, {"ID": "F1-32 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "ネオコンビネーショントップス", "Brand": "マテリアルカラー", "Type": "クール", "Appeal": "プレミアムグラフィカルキューブ", "Points": "900", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-32pr_00.png"}, {"ID": "F1-33 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "ネオコンビネーションスカート", "Brand": "マテリアルカラー", "Type": "クール", "Appeal": "プレミアムグラフィカルキューブ", "Points": "900", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-33pr_00.png"}, {"ID": "F1-34 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "ネオコンビネーションブーツ", "Brand": "マテリアルカラー", "Type": "クール", "Appeal": "プレミアムグラフィカルキューブ", "Points": "950", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-34pr_00.png"}, {"ID": "F1-35 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "ネオコンビネーションミニハット", "Brand": "マテリアルカラー", "Type": "クール", "Appeal": "同じブランドのアピールポイントがアップするよ！", "Points": "500", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-35pr_00.png"}, {"ID": "F1-36 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "モザイクブルービスチェ", "Brand": "マテリアルカラー", "Type": "クール", "Appeal": "グラフィカルキューブ", "Points": "600", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-36r_00.png"}, {"ID": "F1-37 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "モザイクブルースカート", "Brand": "マテリアルカラー", "Type": "クール", "Appeal": "グラフィカルキューブ", "Points": "700", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-37r_00.png"}, {"ID": "F1-38 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "モザイクブルーブーツ", "Brand": "マテリアルカラー", "Type": "クール", "Appeal": "グラフィカルキューブ", "Points": "650", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-38r_00.png"}, {"ID": "F1-39 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "モザイクブルーヘアバンド", "Brand": "マテリアルカラー", "Type": "クール", "Appeal": "同じブランドのスペシャルアピールが少しつよくなるよ！", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-39r_00.png"}, {"ID": "F1-40 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "スマートストレートトップス", "Brand": "マテリアルカラー", "Type": "クール", "Appeal": "グラフィカルキューブ", "Points": "600", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-40r_00.png"}, {"ID": "F1-41 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "スマートストレートパンツ", "Brand": "マテリアルカラー", "Type": "クール", "Appeal": "グラフィカルキューブ", "Points": "700", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-41r_00.png"}, {"ID": "F1-42 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "スマートストレートサンダル", "Brand": "マテリアルカラー", "Type": "クール", "Appeal": "グラフィカルキューブ", "Points": "650", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-42r_00.png"}, {"ID": "F1-43 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "スマートストレートアクセサリー", "Brand": "マテリアルカラー", "Type": "クール", "Appeal": "クールタイプのアピールポイントが少しアップするよ！", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-43r_00.png"}, {"ID": "F1-44 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["トップス"], "Name": "バイカラースペーストップス", "Brand": ["ノーブランド"], "Type": "クール", "Appeal": "クールスマイル", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-44n_00.png"}, {"ID": "F1-45 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["ボトムス"], "Name": "バイカラースペーススカート", "Brand": ["ノーブランド"], "Type": "クール", "Appeal": "クールスマイル", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-45n_00.png"}, {"ID": "F1-46 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["シューズ"], "Name": "バイカラースペースシューズ", "Brand": ["ノーブランド"], "Type": "クール", "Appeal": "クールスマイル", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-46n_00.png"}, {"ID": "F1-47 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["トップス"], "Name": "ライラックロージートップス", "Brand": ["ノーブランド"], "Type": "セクシー", "Appeal": "セクシースマイル", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-47n_00.png"}, {"ID": "F1-48 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["ボトムス"], "Name": "ライラックロージースカート", "Brand": ["ノーブランド"], "Type": "セクシー", "Appeal": "セクシースマイル", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-48n_00.png"}, {"ID": "F1-49 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["シューズ"], "Name": "ライラックロージーパンプス", "Brand": ["ノーブランド"], "Type": "セクシー", "Appeal": "セクシースマイル", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-49n_00.png"}, {"ID": "F1-50 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "バニーパレードトップス", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "プレミアムミルキーボム", "Points": "900", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-50pr_00.png"}, {"ID": "F1-51 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "バニーパレードボトムス", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "プレミアムミルキーボム", "Points": "950", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-51pr_00.png"}, {"ID": "F1-52 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "バニーパレードシューズ", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "プレミアムミルキーボム", "Points": "900", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-52pr_00.png"}, {"ID": "F1-53 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "バニーパレードヘッドドレス", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "同じブランドのアピールポイントがアップするよ！", "Points": "500", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-53pr_00.png"}, {"ID": "F1-54 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "マカロンアラモードトップス", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "ミルキーボム", "Points": "700", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-54r_00.png"}, {"ID": "F1-55 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "マカロンアラモードスカート", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "ミルキーボム", "Points": "600", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-55r_00.png"}, {"ID": "F1-56 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "マカロンアラモードシューズ", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "ミルキーボム", "Points": "650", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-56r_00.png"}, {"ID": "F1-57 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "マカロンアラモードサングラス", "Brand": "ミルキージョーカー", "Type": "ポップ", "Appeal": "同じブランドのスペシャルアピールが少しつよくなるよ！", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-57r_00.png"}, {"ID": "F1-58 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["トップス"], "Name": "ストライクキャロットトップス", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "ポップスマイル", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-58n_00.png"}, {"ID": "F1-59 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["ボトムス"], "Name": "ストライクキャロットスカート", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "ポップスマイル", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-59n_00.png"}, {"ID": "F1-60 N", "RarityFull": "ノーマル", "RarityFig": "★", "Category": ["シューズ"], "Name": "ストライクキャロットブーツ", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "ポップスマイル", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-60n_00.png"}, {"ID": "F1-61 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ピンクリンクトップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズマーチ", "Points": "500", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-61cp_00.png"}, {"ID": "F1-62 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ピンクリンクスカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズマーチ", "Points": "550", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-62cp_00.png"}, {"ID": "F1-63 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ピンクリンクブーツ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズマーチ", "Points": "450", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-63cp_00.png"}, {"ID": "F1-64 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ブルーリンクトップス", "Brand": ["ノーブランド"], "Type": "クール", "Appeal": "フレンズマーチ", "Points": "550", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-64cp_00.png"}, {"ID": "F1-65 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ブルーリンクスカート", "Brand": ["ノーブランド"], "Type": "クール", "Appeal": "フレンズマーチ", "Points": "450", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-65cp_00.png"}, {"ID": "F1-66 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ブルーリンクブーツ", "Brand": ["ノーブランド"], "Type": "クール", "Appeal": "フレンズマーチ", "Points": "500", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-66cp_00.png"}, {"ID": "F1-67 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "パープルリンクトップス", "Brand": ["ノーブランド"], "Type": "セクシー", "Appeal": "フレンズマーチ", "Points": "450", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-67cp_00.png"}, {"ID": "F1-68 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "パープルリンクスカート", "Brand": ["ノーブランド"], "Type": "セクシー", "Appeal": "フレンズマーチ", "Points": "500", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-68cp_00.png"}, {"ID": "F1-69 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "パープルリンクブーツ", "Brand": ["ノーブランド"], "Type": "セクシー", "Appeal": "フレンズマーチ", "Points": "550", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-69cp_00.png"}, {"ID": "F1-70 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "イエローリンクトップス", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "フレンズマーチ", "Points": "550", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-70cp_00.png"}, {"ID": "F1-71 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "イエローリンクスカート", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "フレンズマーチ", "Points": "450", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-71cp_00.png"}, {"ID": "F1-72 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "イエローリンクブーツ", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "フレンズマーチ", "Points": "500", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-72cp_00.png"}, {"ID": "F1-73 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "シャンパンピンクトップス", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズマーチ", "Points": "500", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-73cp_00.png"}, {"ID": "F1-74 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "シャンパンピンクスカート", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズマーチ", "Points": "550", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-74cp_00.png"}, {"ID": "F1-75 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "シャンパンピンクブーツ", "Brand": ["ノーブランド"], "Type": "キュート", "Appeal": "フレンズマーチ", "Points": "450", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-75cp_00.png"}, {"ID": "F1-76 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["トップス"], "Name": "シャンパンレッドトップス", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "フレンズマーチ", "Points": "450", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-76cp_00.png"}, {"ID": "F1-77 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "シャンパンレッドスカート", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "フレンズマーチ", "Points": "500", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-77cp_00.png"}, {"ID": "F1-78 CP", "RarityFull": "キャンペーンレア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "シャンパンレッドブーツ", "Brand": ["ノーブランド"], "Type": "ポップ", "Appeal": "フレンズマーチ", "Points": "550", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-78cp_00.png"}, {"ID": "F1-79 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "ドリーミングプリンセストップス", "Brand": "マイリトルハート", "Type": "キュート", "Appeal": "プレミアムハートフルワールド", "Points": "850", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-79pr_00.png"}, {"ID": "F1-80 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "ドリーミングプリンセススカート", "Brand": "マイリトルハート", "Type": "キュート", "Appeal": "プレミアムハートフルワールド", "Points": "800", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-80pr_00.png"}, {"ID": "F1-81 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "ドリーミングプリンセスシューズ", "Brand": "マイリトルハート", "Type": "キュート", "Appeal": "プレミアムハートフルワールド", "Points": "800", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-81pr_00.png"}, {"ID": "F1-82 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "ドリーミングプリンセスティアラ", "Brand": "マイリトルハート", "Type": "キュート", "Appeal": "キュートタイプのアピールポイントがアップするよ！", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-82pr_00.png"}, {"ID": "F1-83 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ゴシックローズブラウス", "Brand": "ゴシックヴィクトリア", "Type": "クール", "Appeal": "アウェイクメイデン", "Points": "650", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-83r_00.png"}, {"ID": "F1-84 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ゴシックローズスカート", "Brand": "ゴシックヴィクトリア", "Type": "クール", "Appeal": "アウェイクメイデン", "Points": "600", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-84r_00.png"}, {"ID": "F1-85 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ゴシックローズシューズ", "Brand": "ゴシックヴィクトリア", "Type": "クール", "Appeal": "アウェイクメイデン", "Points": "550", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-85r_00.png"}, {"ID": "F1-86 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "ゴシックローズカチューシャ", "Brand": "ゴシックヴィクトリア", "Type": "クール", "Appeal": "クールタイプのアピールポイントが少しアップするよ！", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-86r_00.png"}, {"ID": "F1-87 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["トップス"], "Name": "アジアンナイトトップス", "Brand": "ロマンスキス", "Type": "セクシー", "Appeal": "プレミアムキッシングジュエル", "Points": "850", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-87pr_00.png"}, {"ID": "F1-88 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["ボトムス"], "Name": "アジアンナイトスカート", "Brand": "ロマンスキス", "Type": "セクシー", "Appeal": "プレミアムキッシングジュエル", "Points": "800", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-88pr_00.png"}, {"ID": "F1-89 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["シューズ"], "Name": "アジアンナイトサンダル", "Brand": "ロマンスキス", "Type": "セクシー", "Appeal": "プレミアムキッシングジュエル", "Points": "800", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-89pr_00.png"}, {"ID": "F1-90 PR", "RarityFull": "プレミアムレア", "RarityFig": "★★★", "Category": ["アクセサリー"], "Name": "アジアンナイトアクセ", "Brand": "ロマンスキス", "Type": "セクシー", "Appeal": "セクシータイプのアピールポイントがアップするよ！", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-90pr_00.png"}, {"ID": "F1-91 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "メルヘンロリポップトップス", "Brand": "フワフワドリーム", "Type": "ポップ", "Appeal": "ミルキードリーミータイム", "Points": "650", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-91r_00.png"}, {"ID": "F1-92 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "メルヘンロリポップスカート", "Brand": "フワフワドリーム", "Type": "ポップ", "Appeal": "ミルキードリーミータイム", "Points": "600", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-92r_00.png"}, {"ID": "F1-93 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "メルヘンロリポップシューズ", "Brand": "フワフワドリーム", "Type": "ポップ", "Appeal": "ミルキードリーミータイム", "Points": "550", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-93r_00.png"}, {"ID": "F1-94 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["アクセサリー"], "Name": "メルヘンロリポップアクセ", "Brand": "フワフワドリーム", "Type": "ポップ", "Appeal": "ポップタイプのアピールポイントが少しアップするよ！", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-94r_00.png"}, {"ID": "F1-95 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "ブラックモダンボレロ", "Brand": "フューチャリングガール", "Type": "クール", "Appeal": "コスモショータイム", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-95r_00.png"}, {"ID": "F1-96 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "ブラックフューチャーエナメルショートパンツ", "Brand": "フューチャリングガール", "Type": "クール", "Appeal": "コスモショータイム", "Points": "450", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-96r_00.png"}, {"ID": "F1-97 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "ブラックフューチャーブーツ", "Brand": "フューチャリングガール", "Type": "クール", "Appeal": "コスモショータイム", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-97r_00.png"}, {"ID": "F1-98 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["トップス"], "Name": "アゲハロゴフリルトップス", "Brand": "スパイシーアゲハ", "Type": "セクシー", "Appeal": "バタフライフリップ", "Points": "400", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-98r_00.png"}, {"ID": "F1-99 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["ボトムス"], "Name": "アゲハファーつきスカート", "Brand": "スパイシーアゲハ", "Type": "セクシー", "Appeal": "バタフライフリップ", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-99r_00.png"}, {"ID": "F1-100 R", "RarityFull": "レア", "RarityFig": "★★", "Category": ["シューズ"], "Name": "アゲハレッドミュール", "Brand": "スパイシーアゲハ", "Type": "セクシー", "Appeal": "バタフライフリップ", "Points": "350", "Notes": "None", "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-100r_00.png"}]
+[
+    {
+        "ID": "F1-1 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ダイヤモンドエンジェルトップス",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "ベストラブミーティアマーチ",
+        "Points": "900",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-1bfr_00.png",
+        "RarityCode": "BFR"
+    },
+    {
+        "ID": "F1-2 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ダイヤモンドエンジェルスカート",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "ベストラブミーティアマーチ",
+        "Points": "950",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-2bfr_00.png",
+        "RarityCode": "BFR"
+    },
+    {
+        "ID": "F1-3 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ダイヤモンドエンジェルハイヒール",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "ベストラブミーティアマーチ",
+        "Points": "900",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-3bfr_00.png",
+        "RarityCode": "BFR"
+    },
+    {
+        "ID": "F1-4 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ダイヤモンドエンジェルティアラ",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "同じフレンズブランドのアピールポイントがアップ！",
+        "Points": "500",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-4bfr_00.png",
+        "RarityCode": "BFR"
+    },
+    {
+        "ID": "F1-5 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ダイヤモンドフューチャートップス",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "ベストラブミーティアマーチ",
+        "Points": "900",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-5bfr_00.png",
+        "RarityCode": "BFR"
+    },
+    {
+        "ID": "F1-6 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ダイヤモンドフューチャースカート",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "ベストラブミーティアマーチ",
+        "Points": "950",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-6bfr_00.png",
+        "RarityCode": "BFR"
+    },
+    {
+        "ID": "F1-7 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ダイヤモンドフューチャーハイヒール",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "ベストラブミーティアマーチ",
+        "Points": "900",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-7bfr_00.png",
+        "RarityCode": "BFR"
+    },
+    {
+        "ID": "F1-8 BFR",
+        "RarityFull": "ベストフレンズレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ダイヤモンドフューチャークラウン",
+        "Brand": "ラブミーティア",
+        "Type": "キュート",
+        "Appeal": "同じフレンズブランドのスペシャルアピールが強くなるよ！",
+        "Points": "500",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-8bfr_00.png",
+        "RarityCode": "BFR"
+    },
+    {
+        "ID": "F1-9 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "スウィートフレーズトップス",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "プレミアムドリームメロディ",
+        "Points": "950",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-9pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-10 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "スウィートフレーズスカート",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "プレミアムドリームメロディ",
+        "Points": "900",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-10pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-11 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "スウィートフレーズシューズ",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "プレミアムドリームメロディ",
+        "Points": "900",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-11pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-12 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "スウィートフレーズヘッドドレス",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "同じブランドのアピールポイントがアップするよ！",
+        "Points": "500",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-12pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-13 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ピンクパートナートップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズマーチ",
+        "Points": "650",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-13fr_00.png",
+        "RarityCode": "FR"
+    },
+    {
+        "ID": "F1-14 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ピンクパートナースカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズマーチ",
+        "Points": "700",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-14fr_00.png",
+        "RarityCode": "FR"
+    },
+    {
+        "ID": "F1-15 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ピンクパートナーシューズ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズマーチ",
+        "Points": "600",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-15fr_00.png",
+        "RarityCode": "FR"
+    },
+    {
+        "ID": "F1-16 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ピンクパートナーリボンカチューシャ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "キュートフレンズボーナス中にアピールポイントが少しアップ！",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-16fr_00.png",
+        "RarityCode": "FR"
+    },
+    {
+        "ID": "F1-17 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ブルーパートナートップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズマーチ",
+        "Points": "650",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-17fr_00.png",
+        "RarityCode": "FR"
+    },
+    {
+        "ID": "F1-18 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ブルーパートナースカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズマーチ",
+        "Points": "700",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-18fr_00.png",
+        "RarityCode": "FR"
+    },
+    {
+        "ID": "F1-19 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ブルーパートナーシューズ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズマーチ",
+        "Points": "600",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-19fr_00.png",
+        "RarityCode": "FR"
+    },
+    {
+        "ID": "F1-20 FR",
+        "RarityFull": "フレンズレア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ブルーパートナーリボンカチューシャ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "キュートフレンズボーナス中にアピールポイントが少しアップ！",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-20fr_00.png",
+        "RarityCode": "FR"
+    },
+    {
+        "ID": "F1-21 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ライトブルーハミングトップス",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "ドリームメロディ",
+        "Points": "650",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-21r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-22 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ライトブルーハミングスカート",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "ドリームメロディ",
+        "Points": "600",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-22r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-23 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ライトブルーハミングシューズ",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "ドリームメロディ",
+        "Points": "700",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-23r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-24 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ライトブルーハミングアクセサリー",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "キュートタイプのアピールポイントが少しアップするよ！",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-24r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-25 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "リトルシャルマントップス",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "ドリームメロディ",
+        "Points": "650",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-25r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-26 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "リトルシャルマンスカート",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "ドリームメロディ",
+        "Points": "600",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-26r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-27 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "リトルシャルマンシューズ",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "ドリームメロディ",
+        "Points": "700",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-27r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-28 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "リトルシャルマンアクセサリー",
+        "Brand": "シュガーメロディ",
+        "Type": "キュート",
+        "Appeal": "同じブランドのスペシャルアピールが少しつよくなるよ！",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-28r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-29 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "アロマフラワートップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "キュートスマイル",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-29n_00.png",
+        "RarityCode": "N"
+    },
+    {
+        "ID": "F1-30 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "アロマフラワースカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "キュートスマイル",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-30n_00.png",
+        "RarityCode": "N"
+    },
+    {
+        "ID": "F1-31 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "アロマフラワーブーティ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "キュートスマイル",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-31n_00.png",
+        "RarityCode": "N"
+    },
+    {
+        "ID": "F1-32 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ネオコンビネーショントップス",
+        "Brand": "マテリアルカラー",
+        "Type": "クール",
+        "Appeal": "プレミアムグラフィカルキューブ",
+        "Points": "900",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-32pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-33 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ネオコンビネーションスカート",
+        "Brand": "マテリアルカラー",
+        "Type": "クール",
+        "Appeal": "プレミアムグラフィカルキューブ",
+        "Points": "900",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-33pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-34 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ネオコンビネーションブーツ",
+        "Brand": "マテリアルカラー",
+        "Type": "クール",
+        "Appeal": "プレミアムグラフィカルキューブ",
+        "Points": "950",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-34pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-35 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ネオコンビネーションミニハット",
+        "Brand": "マテリアルカラー",
+        "Type": "クール",
+        "Appeal": "同じブランドのアピールポイントがアップするよ！",
+        "Points": "500",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-35pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-36 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "モザイクブルービスチェ",
+        "Brand": "マテリアルカラー",
+        "Type": "クール",
+        "Appeal": "グラフィカルキューブ",
+        "Points": "600",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-36r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-37 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "モザイクブルースカート",
+        "Brand": "マテリアルカラー",
+        "Type": "クール",
+        "Appeal": "グラフィカルキューブ",
+        "Points": "700",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-37r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-38 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "モザイクブルーブーツ",
+        "Brand": "マテリアルカラー",
+        "Type": "クール",
+        "Appeal": "グラフィカルキューブ",
+        "Points": "650",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-38r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-39 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "モザイクブルーヘアバンド",
+        "Brand": "マテリアルカラー",
+        "Type": "クール",
+        "Appeal": "同じブランドのスペシャルアピールが少しつよくなるよ！",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-39r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-40 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "スマートストレートトップス",
+        "Brand": "マテリアルカラー",
+        "Type": "クール",
+        "Appeal": "グラフィカルキューブ",
+        "Points": "600",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-40r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-41 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "スマートストレートパンツ",
+        "Brand": "マテリアルカラー",
+        "Type": "クール",
+        "Appeal": "グラフィカルキューブ",
+        "Points": "700",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-41r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-42 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "スマートストレートサンダル",
+        "Brand": "マテリアルカラー",
+        "Type": "クール",
+        "Appeal": "グラフィカルキューブ",
+        "Points": "650",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-42r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-43 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "スマートストレートアクセサリー",
+        "Brand": "マテリアルカラー",
+        "Type": "クール",
+        "Appeal": "クールタイプのアピールポイントが少しアップするよ！",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-43r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-44 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "バイカラースペーストップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "クール",
+        "Appeal": "クールスマイル",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-44n_00.png",
+        "RarityCode": "N"
+    },
+    {
+        "ID": "F1-45 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "バイカラースペーススカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "クール",
+        "Appeal": "クールスマイル",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-45n_00.png",
+        "RarityCode": "N"
+    },
+    {
+        "ID": "F1-46 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "バイカラースペースシューズ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "クール",
+        "Appeal": "クールスマイル",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-46n_00.png",
+        "RarityCode": "N"
+    },
+    {
+        "ID": "F1-47 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ライラックロージートップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "セクシー",
+        "Appeal": "セクシースマイル",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-47n_00.png",
+        "RarityCode": "N"
+    },
+    {
+        "ID": "F1-48 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ライラックロージースカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "セクシー",
+        "Appeal": "セクシースマイル",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-48n_00.png",
+        "RarityCode": "N"
+    },
+    {
+        "ID": "F1-49 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ライラックロージーパンプス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "セクシー",
+        "Appeal": "セクシースマイル",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-49n_00.png",
+        "RarityCode": "N"
+    },
+    {
+        "ID": "F1-50 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "バニーパレードトップス",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "プレミアムミルキーボム",
+        "Points": "900",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-50pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-51 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "バニーパレードボトムス",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "プレミアムミルキーボム",
+        "Points": "950",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-51pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-52 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "バニーパレードシューズ",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "プレミアムミルキーボム",
+        "Points": "900",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-52pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-53 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "バニーパレードヘッドドレス",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "同じブランドのアピールポイントがアップするよ！",
+        "Points": "500",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-53pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-54 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "マカロンアラモードトップス",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "ミルキーボム",
+        "Points": "700",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-54r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-55 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "マカロンアラモードスカート",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "ミルキーボム",
+        "Points": "600",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-55r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-56 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "マカロンアラモードシューズ",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "ミルキーボム",
+        "Points": "650",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-56r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-57 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "マカロンアラモードサングラス",
+        "Brand": "ミルキージョーカー",
+        "Type": "ポップ",
+        "Appeal": "同じブランドのスペシャルアピールが少しつよくなるよ！",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-57r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-58 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ストライクキャロットトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "ポップスマイル",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-58n_00.png",
+        "RarityCode": "N"
+    },
+    {
+        "ID": "F1-59 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ストライクキャロットスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "ポップスマイル",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-59n_00.png",
+        "RarityCode": "N"
+    },
+    {
+        "ID": "F1-60 N",
+        "RarityFull": "ノーマル",
+        "RarityFig": "★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ストライクキャロットブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "ポップスマイル",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-60n_00.png",
+        "RarityCode": "N"
+    },
+    {
+        "ID": "F1-61 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ピンクリンクトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズマーチ",
+        "Points": "500",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-61cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-62 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ピンクリンクスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズマーチ",
+        "Points": "550",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-62cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-63 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ピンクリンクブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズマーチ",
+        "Points": "450",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-63cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-64 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ブルーリンクトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "クール",
+        "Appeal": "フレンズマーチ",
+        "Points": "550",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-64cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-65 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ブルーリンクスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "クール",
+        "Appeal": "フレンズマーチ",
+        "Points": "450",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-65cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-66 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ブルーリンクブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "クール",
+        "Appeal": "フレンズマーチ",
+        "Points": "500",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-66cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-67 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "パープルリンクトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "セクシー",
+        "Appeal": "フレンズマーチ",
+        "Points": "450",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-67cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-68 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "パープルリンクスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "セクシー",
+        "Appeal": "フレンズマーチ",
+        "Points": "500",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-68cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-69 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "パープルリンクブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "セクシー",
+        "Appeal": "フレンズマーチ",
+        "Points": "550",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-69cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-70 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "イエローリンクトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "フレンズマーチ",
+        "Points": "550",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-70cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-71 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "イエローリンクスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "フレンズマーチ",
+        "Points": "450",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-71cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-72 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "イエローリンクブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "フレンズマーチ",
+        "Points": "500",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-72cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-73 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "シャンパンピンクトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズマーチ",
+        "Points": "500",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-73cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-74 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "シャンパンピンクスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズマーチ",
+        "Points": "550",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-74cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-75 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "シャンパンピンクブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "キュート",
+        "Appeal": "フレンズマーチ",
+        "Points": "450",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-75cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-76 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "シャンパンレッドトップス",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "フレンズマーチ",
+        "Points": "450",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-76cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-77 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "シャンパンレッドスカート",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "フレンズマーチ",
+        "Points": "500",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-77cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-78 CP",
+        "RarityFull": "キャンペーンレア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "シャンパンレッドブーツ",
+        "Brand": [
+            "ノーブランド"
+        ],
+        "Type": "ポップ",
+        "Appeal": "フレンズマーチ",
+        "Points": "550",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-78cp_00.png",
+        "RarityCode": "-"
+    },
+    {
+        "ID": "F1-79 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ドリーミングプリンセストップス",
+        "Brand": "マイリトルハート",
+        "Type": "キュート",
+        "Appeal": "プレミアムハートフルワールド",
+        "Points": "850",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-79pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-80 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ドリーミングプリンセススカート",
+        "Brand": "マイリトルハート",
+        "Type": "キュート",
+        "Appeal": "プレミアムハートフルワールド",
+        "Points": "800",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-80pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-81 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ドリーミングプリンセスシューズ",
+        "Brand": "マイリトルハート",
+        "Type": "キュート",
+        "Appeal": "プレミアムハートフルワールド",
+        "Points": "800",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-81pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-82 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ドリーミングプリンセスティアラ",
+        "Brand": "マイリトルハート",
+        "Type": "キュート",
+        "Appeal": "キュートタイプのアピールポイントがアップするよ！",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-82pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-83 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ゴシックローズブラウス",
+        "Brand": "ゴシックヴィクトリア",
+        "Type": "クール",
+        "Appeal": "アウェイクメイデン",
+        "Points": "650",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-83r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-84 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ゴシックローズスカート",
+        "Brand": "ゴシックヴィクトリア",
+        "Type": "クール",
+        "Appeal": "アウェイクメイデン",
+        "Points": "600",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-84r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-85 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ゴシックローズシューズ",
+        "Brand": "ゴシックヴィクトリア",
+        "Type": "クール",
+        "Appeal": "アウェイクメイデン",
+        "Points": "550",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-85r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-86 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "ゴシックローズカチューシャ",
+        "Brand": "ゴシックヴィクトリア",
+        "Type": "クール",
+        "Appeal": "クールタイプのアピールポイントが少しアップするよ！",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-86r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-87 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "アジアンナイトトップス",
+        "Brand": "ロマンスキス",
+        "Type": "セクシー",
+        "Appeal": "プレミアムキッシングジュエル",
+        "Points": "850",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-87pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-88 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "アジアンナイトスカート",
+        "Brand": "ロマンスキス",
+        "Type": "セクシー",
+        "Appeal": "プレミアムキッシングジュエル",
+        "Points": "800",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-88pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-89 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "アジアンナイトサンダル",
+        "Brand": "ロマンスキス",
+        "Type": "セクシー",
+        "Appeal": "プレミアムキッシングジュエル",
+        "Points": "800",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-89pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-90 PR",
+        "RarityFull": "プレミアムレア",
+        "RarityFig": "★★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "アジアンナイトアクセ",
+        "Brand": "ロマンスキス",
+        "Type": "セクシー",
+        "Appeal": "セクシータイプのアピールポイントがアップするよ！",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-90pr_00.png",
+        "RarityCode": "PR"
+    },
+    {
+        "ID": "F1-91 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "メルヘンロリポップトップス",
+        "Brand": "フワフワドリーム",
+        "Type": "ポップ",
+        "Appeal": "ミルキードリーミータイム",
+        "Points": "650",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-91r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-92 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "メルヘンロリポップスカート",
+        "Brand": "フワフワドリーム",
+        "Type": "ポップ",
+        "Appeal": "ミルキードリーミータイム",
+        "Points": "600",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-92r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-93 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "メルヘンロリポップシューズ",
+        "Brand": "フワフワドリーム",
+        "Type": "ポップ",
+        "Appeal": "ミルキードリーミータイム",
+        "Points": "550",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-93r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-94 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "アクセサリー"
+        ],
+        "Name": "メルヘンロリポップアクセ",
+        "Brand": "フワフワドリーム",
+        "Type": "ポップ",
+        "Appeal": "ポップタイプのアピールポイントが少しアップするよ！",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-94r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-95 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "ブラックモダンボレロ",
+        "Brand": "フューチャリングガール",
+        "Type": "クール",
+        "Appeal": "コスモショータイム",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-95r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-96 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "ブラックフューチャーエナメルショートパンツ",
+        "Brand": "フューチャリングガール",
+        "Type": "クール",
+        "Appeal": "コスモショータイム",
+        "Points": "450",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-96r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-97 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "ブラックフューチャーブーツ",
+        "Brand": "フューチャリングガール",
+        "Type": "クール",
+        "Appeal": "コスモショータイム",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-97r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-98 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "トップス"
+        ],
+        "Name": "アゲハロゴフリルトップス",
+        "Brand": "スパイシーアゲハ",
+        "Type": "セクシー",
+        "Appeal": "バタフライフリップ",
+        "Points": "400",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-98r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-99 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "ボトムス"
+        ],
+        "Name": "アゲハファーつきスカート",
+        "Brand": "スパイシーアゲハ",
+        "Type": "セクシー",
+        "Appeal": "バタフライフリップ",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-99r_00.png",
+        "RarityCode": "R"
+    },
+    {
+        "ID": "F1-100 R",
+        "RarityFull": "レア",
+        "RarityFig": "★★",
+        "Category": [
+            "シューズ"
+        ],
+        "Name": "アゲハレッドミュール",
+        "Brand": "スパイシーアゲハ",
+        "Type": "セクシー",
+        "Appeal": "バタフライフリップ",
+        "Points": "350",
+        "Notes": "None",
+        "imgLink": "https://www.aikatsu.com/friends/images/cardlist/card/458001/f1-100r_00.png",
+        "RarityCode": "R"
+    }
+]
