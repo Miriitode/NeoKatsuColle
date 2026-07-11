@@ -42,10 +42,16 @@ def create_series_pages(series_list, route_prefix, series_title):
         'Category': None
     }
 
-    readprofile()
+    save = None
 
-    with open(BASE_DIR / "Saves" / profile, "r") as savefile:
-        save = json.load(savefile)
+    def load_save_state():
+        nonlocal save
+        readprofile()
+        with open(BASE_DIR / "Saves" / profile, "r", encoding="utf-8") as savefile:
+            save = json.load(savefile)
+        return save
+
+    load_save_state()
 
     editMode = {"value": False, 'dirty': False}
 
@@ -58,6 +64,7 @@ def create_series_pages(series_list, route_prefix, series_title):
 
             @ui.page(f'/{route_prefix}/{clean_i}')
             def card_page(i=i):
+                load_save_state()
 
                 with ui.right_drawer(fixed=False, value=False).style('background-color: #ebf1fa').props('bordered overlay') as rightDrawer:
                     ui.label('Filters').classes('text-h6')
@@ -124,6 +131,7 @@ def create_series_pages(series_list, route_prefix, series_title):
                         render_page()
 
                     def render_page():
+                        load_save_state()
 
                         card_container.clear()
 

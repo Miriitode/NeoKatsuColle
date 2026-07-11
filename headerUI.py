@@ -38,6 +38,12 @@ def mainUI(headerText, isSettings=False, isCardDB=False, drawer=None, editMode=F
         """)
     
     with ui.header(elevated=True).style('position:relative; display:flex; justify-content:center; align-items:center; min-height: 52px; padding: 0 16px;') as mainHeader:
+        if isCardDB:
+            with ui.row().style('position:absolute; left:16px; top:50%; transform:translateY(-50%); gap: 8px;') as homeButton:
+                with ui.button(on_click=lambda: ui.navigate.to('/')).props('elevated') as home:
+                    edit_icon = ui.icon('home')
+                    edit_tooltip = ui.tooltip('Home').props('position-bottom')
+        
         ui.label(headerText).style('font-size: 24px; margin: 0;')
         with ui.row().style('position:absolute; right:16px; top:50%; transform:translateY(-50%); gap: 8px;') as headerButtons:
 
