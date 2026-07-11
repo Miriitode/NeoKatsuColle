@@ -2,7 +2,12 @@ from nicegui import ui
 from headerUI import mainUI
 from identifiers import load_identifiers
 import json
+import re
+import configparser
 from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parents[0]
+config_dir = BASE_DIR / "config.ini"
 
 aikatsuList = load_identifiers('aikatsu')
 starsList = load_identifiers('stars')
@@ -11,6 +16,51 @@ paradeList = load_identifiers('planet')
 encoreList = load_identifiers('encore')
 
 all_cards = []
+profile = ''
+
+def saveScanned(save, refnum):
+    lst = 0
+    ser = 0
+
+    for val, col in enumerate(save["series"]["aikatsu"]["collected"]):
+        if lst + len(col) <= refnum:
+            lst += len(col)
+            ser = val
+        else:
+            break
+
+    ref = refnum - lst
+
+    save["series"]["aikatsu"]["collected"][ser][ref] = 1
+
+    write_save(save, BASE_DIR / "Saves" / profile)
+
+def write_save(saveFile, savePath):
+    json_string = json.dumps(saveFile, indent = 4)
+
+    flattened_json = re.sub(
+        r'\[[^\]]*?\]', 
+        lambda m: m.group(0).replace("\n", "").replace(" ", ""), 
+        json_string
+    )
+    with open(savePath, 'w') as f:
+        f.write(flattened_json)
+
+    ui.notify('Collection saved')  
+
+def readprofile():
+    global profile
+    if not config_dir.exists():
+        profile = 'save_Default.json'
+    else:
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+        profile = f'save_{config['SAVES']['profile']}.json'
+
+    with open(BASE_DIR / "Saves" / profile, "r") as savefile:
+            save = json.load(savefile)
+
+    return save
 
 for i, _ in enumerate(aikatsuList):
     with open(f'Database/aikatsu/aikatsu_Data-{i}.json','r',encoding='utf-8') as cardData:
@@ -22,9 +72,12 @@ for i, _ in enumerate(aikatsuList):
         all_cards.extend(cards)
 
 def find_card(scan_code):
+    refnum = 0
     for card in all_cards:
         if str(card.get('QR', '')) == str(scan_code) or str(card.get('Barcode', '')) == str(scan_code):
-            return card
+            return card, refnum
+        else:
+            refnum += 1
         
     return None
 
@@ -52,6 +105,8 @@ def show_card_popup(card):
 
 @ui.page('/scanCard')
 def scanner_page():
+
+    save = readprofile()
 
     mainUI('NeoKatsuColle | Scan a Card!')
 
@@ -157,10 +212,11 @@ def scanner_page():
                     f'Scanned: {result}'
                 )
 
-                card = find_card(result)
+                card, saveref = find_card(result)
 
                 if card:
                     show_card_popup(card)
+                    saveScanned(save, saveref)
                 else:
                     ui.notify(
                         f'Card not found: {result}',
