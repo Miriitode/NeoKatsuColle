@@ -36,9 +36,9 @@ def mainUI(headerText, isSettings=False, isCardDB=False, drawer=None, editMode=F
         }
         </style>
         """)
-    
+
     with ui.header(elevated=True).style('position:relative; display:flex; justify-content:center; align-items:center; min-height: 52px; padding: 0 16px;') as mainHeader:
-        if isCardDB:
+        if ui.context.client.page.path != "/":
             with ui.row().style('position:absolute; left:16px; top:50%; transform:translateY(-50%); gap: 8px;') as homeButton:
                 with ui.button(on_click=lambda: ui.navigate.to('/')).props('elevated') as home:
                     edit_icon = ui.icon('home')
@@ -67,14 +67,15 @@ def mainUI(headerText, isSettings=False, isCardDB=False, drawer=None, editMode=F
                 if refreshCallback:
                     refreshCallback()
 
-            with ui.button(on_click=toggle_edit_mode).props('elevated') as edit:
-                edit_icon = ui.icon('edit')
-                edit_tooltip = ui.tooltip('Turn on Edit Mode').props('position-bottom')
+            if isCardDB:
+                with ui.button(on_click=toggle_edit_mode).props('elevated') as edit:
+                    edit_icon = ui.icon('edit')
+                    edit_tooltip = ui.tooltip('Turn on Edit Mode').props('position-bottom')
 
 
-            with ui.button(on_click=lambda: drawer.toggle()).props('elevated') as filter:
-                ui.icon('filter_list')
-                ui.tooltip('Filter Cards').props('position-bottom')
+                with ui.button(on_click=lambda: drawer.toggle()).props('elevated') as filter:
+                    ui.icon('filter_list')
+                    ui.tooltip('Filter Cards').props('position-bottom')
 
             with ui.button(on_click=lambda: ui.navigate.to('/scanCard')).props('elevated') as QrCode:
                 ui.icon('qr_code_scanner')
