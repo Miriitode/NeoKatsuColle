@@ -42,18 +42,18 @@ This section is for advanced users and for documentation of the various utilitie
 ### Scrapers (`utils/scrapers`)
 
 - These are exclusive Python scripts that were used to scrape all the card information from the official card list websites. The scrapers export (almost) all available data present in the database into a `.json` file.
-    > [!WARNING]
-    > There are some promotional cards that are not in the website for some reason, as evident by the QR Data scraper. Using the scraper will have certain cards missing compared to the data in the database.
+> [!WARNING]
+> There are some promotional cards that are not in the website for some reason, as evident by the QR Data scraper. Using the scraper will have certain cards missing compared to the data in the database.
 
 - To use the scraper, run `Scraper.py`. You can scrape card data for a specific main series and subseries. Additionally, you can scrape everything in one go. The scraped data is saved in the `Database` folder.
-    > [!NOTE]
-    > Running the scraper for every series will take a few minutes. Additionally, the scraper for Aikatsu Stars generally takes longer compared to other scrapers due to the nature of the website.
+> [!NOTE]
+> Running the scraper for every series will take a few minutes. Additionally, the scraper for Aikatsu Stars generally takes longer compared to other scrapers due to the nature of the website.
 
 ### QR Data Scraper for Aikatsu! (`utils/scrapers/qrScraper.py`)
 
 - The official website does not have QR and Barcode information for each card (and for good reasons). This Python script scrapes the QR and Barcode data compiled [from this website.](https://pokehunngry.com). If the scraped card data already exists, the Python script automatically appends this data into the `.json` files.
-    >[!NOTE]
-    > The website covers most of the cards for Data Carddass Aikatsu. It also has promotional card QR codes for Data Carddass Aikatsu Stars, but is not included in the scraper. Additionally, some of the QR and Barcode data for some promotional cards for Data Carddass Aikatsu is missing.
+> [!NOTE]
+> The website covers most of the cards for Data Carddass Aikatsu. It also has promotional card QR codes for Data Carddass Aikatsu Stars, but is not included in the scraper. Additionally, some of the QR and Barcode data for some promotional cards for Data Carddass Aikatsu is missing.
 
 ### Promotional Card Comparison Script (`utils/Aikat_Promo_Compare.py`)
 - Due to inconsistencies with the official website list for promotional cards and the QR code list website, this script identifies any missing cards for both sources.
