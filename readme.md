@@ -69,3 +69,4 @@ This section is for advanced users and for documentation of the various utilitie
 - Personalized lists and favorite cards
 - Tracker import / export
 - Mass Card Tracking Mode
+- Mobile UI
