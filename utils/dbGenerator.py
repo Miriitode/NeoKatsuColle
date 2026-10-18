@@ -106,6 +106,15 @@ def genCardDB():
             """
         )
 
+        cur.execute(
+            """
+                CREATE TABLE IF NOT EXISTS promo(
+                    promo_id INTEGER PRIMARY KEY,
+                    promo_name TEXT NULL UNIQUE
+                )
+            """
+        )
+
         # Create card table
         cur.execute(
             """
@@ -120,6 +129,7 @@ def genCardDB():
                     image_url TEXT NOT NULL,
                     appeal TEXT,
                     notes TEXT,
+                    promo_id INTEGER,
 
                     FOREIGN KEY (series_id, subseries_id)
                         REFERENCES subseries(series_id, subseries_id),
@@ -129,6 +139,9 @@ def genCardDB():
 
                     FOREIGN KEY (brand_id)
                         REFERENCES brand(brand_id),
+
+                    FOREIGN KEY (promo_id)
+                        REFERENCES promo(promo_id),
 
                     UNIQUE (series_id, card_id)
                 );
