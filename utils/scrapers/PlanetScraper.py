@@ -11,11 +11,9 @@ def Generate(link, series):
     webLink = f'https://www.aikatsu.com/planet/swinglist/?search=true&category={link}'
     game = 'データカードダスアイカツプラネット!'
     cardData = []
-    #TODO: maybe replace some elements that make use of the alt tag from <img> with their image counterparts instead
-    #though this might increase the workload in obtaining assets, but would make the UX Design of the application way better.
 
-    if (BASE_DIR / "Database" / "planet" / f"planet_Data-{series}.json").is_file():
-        file = BASE_DIR / "Database" / "planet" / f"planet_Data-{series}.json"
+    if (BASE_DIR / "utils" / "scrapers" / "scrapedata" / "planet" / f"planet_Data-{series}.json").is_file():
+        file = BASE_DIR / "utils" / "scrapers" / "scrapedata" / "planet" / f"planet_Data-{series}.json"
 
         if file.stat().st_size != 0:
             print("Database exists! Scraping next cardset...")
@@ -23,7 +21,7 @@ def Generate(link, series):
 
     planet = BeautifulSoup(requests.get(webLink).content, 'html.parser')
         
-    export = open(BASE_DIR / "Database" / "planet" / f"planet_Data-{series}.json", 'w', encoding='utf-8')
+    export = open(BASE_DIR / "utils" / "scrapers" / "scrapedata" / "planet" / f"planet_Data-{series}.json", 'w', encoding='utf-8')
     cardList = planet.find_all("div", class_=re.compile("data page"))
     title = planet.find("dl", {"class":"contentInner fade"}).dt.img.attrs.get('alt')
     print(f'({series}) Generating Card Database: {game} {title}')

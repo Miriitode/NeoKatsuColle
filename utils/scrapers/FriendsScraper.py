@@ -12,15 +12,15 @@ def Generate(link, series):
     game = 'データカードダスアイカツフレンズ!'
     cardData = []
 
-    if (BASE_DIR / "Database" / "friends" / f"friends_Data-{series}.json").is_file():
-        file = BASE_DIR / "Database" / "friends" / f"friends_Data-{series}.json"
+    if (BASE_DIR / "utils" / "scrapers" / "scrapedata" / "friends" / f"friends_Data-{series}.json").is_file():
+        file = BASE_DIR / "utils" / "scrapers" / "scrapedata" / "friends" / f"friends_Data-{series}.json"
 
         if file.stat().st_size != 0:
             print("Database exists! Scraping next cardset...")
             return
         
     friends = BeautifulSoup(requests.get(webLink).content, 'html.parser')
-    export = open(BASE_DIR / "Database" / "friends" / f"friends_Data-{series}.json", 'w', encoding='utf-8')
+    export = open(BASE_DIR / "utils" / "scrapers" / "scrapedata" / "friends" / f"friends_Data-{series}.json", 'w', encoding='utf-8')
     cardList = friends.find("div", {"class":"cardlistCol clearfix"}).find("div", {"id":"lists"}).find_all("div", class_=re.compile("data page"))
     title = friends.find("div", {"id":"titCol"}).h3.img.attrs.get('alt')
     print(f'({series}) Generating Card Database: {game} {title}')
@@ -77,7 +77,7 @@ def GenerateIdolCard():
 
     #friends = BeautifulSoup(open(BASE_DIR / "Sample_Data" / "Friends" / "friends.html", encoding="utf-8"), 'html.parser')
     friends = BeautifulSoup(requests.get(webLink).content, 'html.parser')
-    export = open(BASE_DIR / "Database" / "friends" / "friends_Data-IdolCard.json", 'w', encoding='utf-8')
+    export = open(BASE_DIR / "utils" / "scrapers" / "scrapedata" / "friends" / "friends_Data-IdolCard.json", 'w', encoding='utf-8')
     cardList = friends.find_all("div", class_=re.compile("data page"))
     title = friends.find("div", {"id":"titCol"}).h3.img.attrs.get('alt')
     print(f'Generating Card Database: {game} {title}')

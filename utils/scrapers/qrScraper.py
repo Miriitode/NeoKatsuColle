@@ -29,10 +29,10 @@ def patch(patchData, series, subnum, is_promote=False):
             case 'aikatsu':
                 asc = '22'
 
-    with open(BASE_DIR / "Database" / series / f'{series}_Data-{asc}.json', 'r', encoding='utf-8') as file:
+    with open(BASE_DIR / "utils" / "scrapers" / "scrapedata" / series / f'{series}_Data-{asc}.json', 'r', encoding='utf-8') as file:
         cards = json.load(file)
 
-    with open(BASE_DIR / "Database" / series / f'{series}_Data-{asc}.json', 'w', encoding='utf-8') as file:
+    with open(BASE_DIR / "utils" / "scrapers" / "scrapedata" / series / f'{series}_Data-{asc}.json', 'w', encoding='utf-8') as file:
         for card in cards:
             found = False
             for patch in patchData.keys():

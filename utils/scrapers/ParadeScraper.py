@@ -8,27 +8,12 @@ from lxml import etree
 BASE_DIR = Path(__file__).resolve().parents[2]
 
 def Generate(link, series):
-    '''
-    Generates a card database for the game Aikatsu on Parade!
-
-    Scrapes a given card list link for the specific series and compiles the data into two 'csv' files. One for the card list data, another for the card image links.
-
-    Can be configured to only generate the card list, or card image links. (TODO)
-
-    Args:
-        link (string): A link to the card list to scrape
-        series (int): The series identifier used in the output file
-
-    Returns:
-        None
-    '''
-
     webLink = f'https://www.aikatsu.com/onparade/cardlist/index.php?search=true&category={link}'
     game = 'データカードダスアイカツオンパレード！'
     cardData = []
 
-    if (BASE_DIR / "Database" / "parade" / f"parade_Data-{series}.json").is_file():
-        file = BASE_DIR / "Database" / "parade" / f"parade_Data-{series}.json"
+    if (BASE_DIR / "utils" / "scrapers" / "scrapedata" / "parade" / f"parade_Data-{series}.json").is_file():
+        file = BASE_DIR / "utils" / "scrapers" / "scrapedata" / "parade" / f"parade_Data-{series}.json"
 
         if file.stat().st_size != 0:
             print("Database exists! Scraping next cardset...")
@@ -36,7 +21,7 @@ def Generate(link, series):
         
     #parade = BeautifulSoup(open(BASE_DIR / "Sample_Data" / "Parade" / "parade.html", encoding="utf-8"), 'html.parser')
     parade = BeautifulSoup(requests.get(webLink).content, 'html.parser')
-    export = open(BASE_DIR / "Database" / "parade" / f"parade_Data-{series}.json", 'w', encoding='utf-8')
+    export = open(BASE_DIR / "utils" / "scrapers" / "scrapedata" / "parade" / f"parade_Data-{series}.json", 'w', encoding='utf-8')
     cardList = parade.find("div", {"class":"cardlistCol"}).find("div", {"id":"lists"}).find_all("div", class_=re.compile("data page"))
     title = parade.find("div", {"class":"titCol titCol_cardlist"}).h3.img.attrs.get('alt')
     print(f'({series}) Generating Card Database: {game} {title}')

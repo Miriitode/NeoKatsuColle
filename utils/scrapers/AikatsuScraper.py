@@ -164,8 +164,8 @@ def Generate(link, series):
     game = 'データカードダスアイカツ!'
     cardData = []
 
-    if (BASE_DIR / "Database" / "aikatsu" / f"aikatsu_Data-{series}.json").is_file():
-        file = BASE_DIR / "Database" / "aikatsu" / f"aikatsu_Data-{series}.json"
+    if (BASE_DIR / "utils" / "scrapers" / "scrapedata" / "aikatsu" / f"aikatsu_Data-{series}.json").is_file():
+        file = BASE_DIR / "utils" / "scrapers" / "scrapedata" / "aikatsu" / f"aikatsu_Data-{series}.json"
 
         if file.stat().st_size != 0:
             print("Database exists! Scraping next cardset...")
@@ -173,7 +173,7 @@ def Generate(link, series):
         
     OGKatsu = BeautifulSoup(requests.get(webLink).content, 'html.parser')  
         
-    export = open(BASE_DIR / "Database" / "aikatsu" / f"aikatsu_Data-{series}.json", 'w', encoding='utf-8')
+    export = open(BASE_DIR / "utils" / "scrapers" / "scrapedata" / "aikatsu" / f"aikatsu_Data-{series}.json", 'w', encoding='utf-8')
     cardList = OGKatsu.find_all("div", {"class": "card"})
     title = OGKatsu.find("section", {"id":"contents"}).h3.img.attrs.get('alt') #change this
     print(f'({series}) Generating Card Database: {game} {title}')
