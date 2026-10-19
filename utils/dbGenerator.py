@@ -12,6 +12,8 @@ BASE_DIR = Path(__file__).resolve().parents[1]
 firstCreate = False
 
 def genCardDB():
+    print("[initDB Phase 2] Generating card database...")
+
     dbPath = BASE_DIR / "Database" / "katsuColleDB.db"
     firstCreate = not os.path.exists(dbPath)
         
@@ -245,6 +247,6 @@ def genCardDB():
 
     con.commit()
     con.close()
-    
-genCardDB()
+
+    print("[initDB Phase 2] Card database tables created!")
 
