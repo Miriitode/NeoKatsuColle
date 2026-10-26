@@ -159,6 +159,18 @@ def findCardBoom(input):
         return "-"
     # raise Exception(f'Boom not implemented: {input}')
 
+def rarity(cardID, cardRarity):
+    match cardRarity:
+        case "ノーマル":
+            return f"{cardID} N"
+        case "レア":
+            return f"{cardID} R"
+        case "プレミアムレア":
+            if cardID[:2] in ["01", "02", "03", "04", "05", "06"]:
+                return f"{cardID} P"
+        case _:
+            return cardID
+        
 def Generate(link, series):
     webLink = f'https://www.aikatsu.com/cardlist/index.php?search=true&category={link}'
     game = 'データカードダスアイカツ!'
