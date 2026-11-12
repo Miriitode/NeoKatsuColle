@@ -133,9 +133,11 @@ def InitDBScraper():
 
     start = time.perf_counter()
         
-    print("[[initDB Phase 1] Generating Aikatsu Card List...")
+    print("[initDB Phase 1] Generating Aikatsu Card List...")
     for i in enumerate(ogkatsuList):
         AikatsuScraper.Generate(i[1], i[0])
+
+    print("[intiDB Phase 1] Generating Aikatsu QR Code List...")
     result = patch_QR()
 
     print("[initDB Phase 1] Generating Stars Card List...")
@@ -258,7 +260,10 @@ def main():
     end = time.perf_counter()
     print(f'DONE! Operation took {timer(start, end)}')
 
-    if result:
-        aikatsuQR_Warn(result)
+    try:
+        if result:
+            aikatsuQR_Warn(result)
+    except:
+        print("No QR mismatches!")
 
 main() #called when program runs independently, otherwise individual scrapers are called in the app

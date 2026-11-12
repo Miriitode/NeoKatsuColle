@@ -9,10 +9,7 @@ from dbGenerator import genCardDB
 BASE_DIR = Path(__file__).resolve().parents[1]
 
 def main():
-    # Phase 1: Scrape data
-    InitDBScraper()
-
-    # Phase 2: Create database tables
+    # Phase 1: Create database tables
     genCardDB()
 
-    # Phase 3: Import scraped data into databse (TODO)
+    # Phase 2: Import scraped data into databse (TODO)

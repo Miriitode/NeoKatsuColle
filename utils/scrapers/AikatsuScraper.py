@@ -172,7 +172,7 @@ def rarity(cardID, cardRarity):
             return cardID
         
 def Generate(link, series):
-    webLink = f'https://www.aikatsu.com/cardlist/index.php?search=true&category={link}'
+    webLink = f'https://card.aikatsu.net/cardlist/index.php?search=true&category={link}'
     game = 'データカードダスアイカツ!'
     cardData = []
 
@@ -192,7 +192,7 @@ def Generate(link, series):
 
     #SCRAPING DATA EHRE
     for cardLst in cardList:
-        cardID = cardLst.table.attrs.get("id")
+        cardID = cardLst.table.tr.th.contents[0].string.strip()
         details = [x for x in cardLst.table.contents if x != '\n']
         rowA = [x for x in details[3].contents if x != '\n']
         rowB = [x for x in details[5].contents if x != '\n']
@@ -205,8 +205,7 @@ def Generate(link, series):
         cardAppeal = rowC[0].string
         cardAP = rowC[1].string
 
-        cardLink = details[2].contents[1].img.attrs.get("src")[3:]
-        #cardOut = f'https://www.aikatsu.com/{cardLink}'
+        cardLink = details[2].contents[1].img.attrs.get("src")
         cardOut = f'https://card.aikatsu.net/cardlist/{cardLink}' #cannot access images through the old website directly
         
 
@@ -225,38 +224,38 @@ def Generate(link, series):
             else:
                 cardRemarks = details[-1].td.text
         else:
-            cardRemarks = "None"
+            cardRemarks = "-"
 
         if not rowA[0].string:
-            cardType = findCardType(rowA[0].img.attrs.get("src")[19:])
+            cardType = findCardType(rowA[0].img.attrs.get("src")[16:])
 
         if not rowA[1].string:
-            cardCategory = findCardCategory(rowA[1].img.attrs.get("src")[19:])
+            cardCategory = findCardCategory(rowA[1].img.attrs.get("src")[16:])
         
         if not rowA[2].string:
-            cardBrand = findCardBrand(rowA[2].img.attrs.get("src")[19:])
+            cardBrand = findCardBrand(rowA[2].img.attrs.get("src")[16:])
 
         if not rowB[1].string:
-            cardStar = findCardLuckyStar(rowB[1].img.attrs.get("src")[19:])
+            cardStar = findCardLuckyStar(rowB[1].img.attrs.get("src")[16:])
 
         if len(rowB) == 3:
             if checkrow[-1].string == "星座":
                 if not rowB[2].string:
-                    cardConstellation = findCardConstellation(rowB[2].img.attrs.get("src")[19:])
+                    cardConstellation = findCardConstellation(rowB[2].img.attrs.get("src")[16:])
             elif checkrow[-1].string == "ロマンス・ドリーム":
                 if not rowB[2].string:
-                    cardRomanceDream = findCardRomanceDream(rowB[2].img.attrs.get("src")[19:])
+                    cardRomanceDream = findCardRomanceDream(rowB[2].img.attrs.get("src")[16:])
         else:
             if series != "215022":
                 if not rowB[2].string:
-                    cardBoom = findCardBoom(rowB[2].img.attrs.get("src")[19:])
+                    cardBoom = findCardBoom(rowB[2].img.attrs.get("src")[16:])
                 if not rowB[3].string:
                     cardFever = True
             else:
                 if not rowB[2].string:
-                    cardConstellation = findCardConstellation(rowB[2].img.attrs.get("src")[19:])
-                    cardRomanceDream = findCardRomanceDream(rowB[2].img.attrs.get("src")[19:])
-                    cardBoom = findCardBoom(rowB[2].img.attrs.get("src")[19:])
+                    cardConstellation = findCardConstellation(rowB[2].img.attrs.get("src")[16:])
+                    cardRomanceDream = findCardRomanceDream(rowB[2].img.attrs.get("src")[16:])
+                    cardBoom = findCardBoom(rowB[2].img.attrs.get("src")[16:])
 
         lookACompat = True if details[0].find("span", {"class":"icon-aktphonelook"}) else False
         lookBCompat = True if details[0].find("span", {"class":"icon-aktphonelook2"}) else False
@@ -265,7 +264,7 @@ def Generate(link, series):
 
         #compile data as dictionary for csv exporting
         cardExport = {
-            'ID': cardID,
+            'ID': rarity(cardID),
             'Rarity': cardRarity,
             'Category': cardCategory,
             'Name': cardName,
